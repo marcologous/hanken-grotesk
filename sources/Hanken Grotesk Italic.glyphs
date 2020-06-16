@@ -273,7 +273,7 @@ glyphs = (
 {
 color = 1;
 glyphname = A;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -365,7 +365,7 @@ unicode = 0041;
 },
 {
 glyphname = Aacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -400,7 +400,7 @@ unicode = 00C1;
 },
 {
 glyphname = Abreve;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -435,7 +435,7 @@ unicode = 0102;
 },
 {
 glyphname = Abreveacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -478,7 +478,7 @@ unicode = 1EAE;
 },
 {
 glyphname = Abrevedotbelow;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -521,7 +521,7 @@ unicode = 1EB6;
 },
 {
 glyphname = Abrevegrave;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -564,7 +564,7 @@ unicode = 1EB0;
 },
 {
 glyphname = Abrevehookabove;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -607,7 +607,7 @@ unicode = 1EB2;
 },
 {
 glyphname = Abrevetilde;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -650,7 +650,7 @@ unicode = 1EB4;
 },
 {
 glyphname = Acaron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -685,7 +685,7 @@ unicode = 01CD;
 },
 {
 glyphname = Acircumflex;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -720,7 +720,7 @@ unicode = 00C2;
 },
 {
 glyphname = Acircumflexacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -763,7 +763,7 @@ unicode = 1EA4;
 },
 {
 glyphname = Acircumflexdotbelow;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -806,7 +806,7 @@ unicode = 1EAC;
 },
 {
 glyphname = Acircumflexgrave;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -849,7 +849,7 @@ unicode = 1EA6;
 },
 {
 glyphname = Acircumflexhookabove;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -892,7 +892,7 @@ unicode = 1EA8;
 },
 {
 glyphname = Acircumflextilde;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -935,7 +935,7 @@ unicode = 1EAA;
 },
 {
 glyphname = Adieresis;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -970,7 +970,7 @@ unicode = 00C4;
 },
 {
 glyphname = Adotbelow;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -1005,7 +1005,7 @@ unicode = 1EA0;
 },
 {
 glyphname = Agrave;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -1040,7 +1040,7 @@ unicode = 00C0;
 },
 {
 glyphname = Ahookabove;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -1075,7 +1075,7 @@ unicode = 1EA2;
 },
 {
 glyphname = Amacron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -1110,7 +1110,7 @@ unicode = 0100;
 },
 {
 glyphname = Aogonek;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -1145,7 +1145,7 @@ unicode = 0104;
 },
 {
 glyphname = Aring;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -1180,7 +1180,7 @@ unicode = 00C5;
 },
 {
 glyphname = Aringacute;
-lastChange = "2020-05-16 15:46:35 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -1223,7 +1223,7 @@ unicode = 01FA;
 },
 {
 glyphname = Atilde;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -1259,7 +1259,7 @@ unicode = 00C3;
 {
 color = 1;
 glyphname = AE;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -1361,7 +1361,7 @@ unicode = 00C6;
 },
 {
 glyphname = AEacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -1397,7 +1397,7 @@ unicode = 01FC;
 {
 color = 1;
 glyphname = B;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -1474,19 +1474,6 @@ name = top;
 position = "{397, 697}";
 }
 );
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"478 305 LINE",
-"438 420 LINE",
-"218 420 LINE",
-"179 305 LINE"
-);
-}
-);
-};
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
 paths = (
 {
@@ -1549,7 +1536,7 @@ unicode = 0042;
 {
 color = 1;
 glyphname = C;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -1609,41 +1596,6 @@ name = top;
 position = "{465, 697}";
 }
 );
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"517 -10 OFFCURVE",
-"628 61 OFFCURVE",
-"684 191 CURVE",
-"568 238 LINE",
-"530 144 OFFCURVE",
-"469 109 OFFCURVE",
-"379 109 CURVE SMOOTH",
-"229 109 OFFCURVE",
-"166 215 OFFCURVE",
-"166 354 CURVE SMOOTH",
-"166 483 OFFCURVE",
-"229 589 OFFCURVE",
-"377 589 CURVE SMOOTH",
-"468 589 OFFCURVE",
-"539 554 OFFCURVE",
-"566 462 CURVE",
-"683 508 LINE",
-"626 638 OFFCURVE",
-"516 708 OFFCURVE",
-"378 708 CURVE SMOOTH",
-"148 708 OFFCURVE",
-"41 539 OFFCURVE",
-"41 348 CURVE SMOOTH",
-"41 158 OFFCURVE",
-"149 -10 OFFCURVE",
-"379 -10 CURVE SMOOTH"
-);
-}
-);
-};
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
 paths = (
 {
@@ -1688,7 +1640,7 @@ unicode = 0043;
 },
 {
 glyphname = Cacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -1723,7 +1675,7 @@ unicode = 0106;
 },
 {
 glyphname = Ccaron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -1758,7 +1710,7 @@ unicode = 010C;
 },
 {
 glyphname = Ccedilla;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -1793,7 +1745,7 @@ unicode = 00C7;
 },
 {
 glyphname = Ccircumflex;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -1828,7 +1780,7 @@ unicode = 0108;
 },
 {
 glyphname = Cdotaccent;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -1864,7 +1816,7 @@ unicode = 010A;
 {
 color = 1;
 glyphname = D;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -1970,7 +1922,7 @@ unicode = 0044;
 },
 {
 glyphname = Eth;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -2005,7 +1957,7 @@ unicode = 00D0;
 },
 {
 glyphname = Dcaron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -2040,7 +1992,7 @@ unicode = 010E;
 },
 {
 glyphname = Dcroat;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -2068,7 +2020,7 @@ unicode = 0110;
 {
 color = 1;
 glyphname = E;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -2160,7 +2112,7 @@ unicode = 0045;
 },
 {
 glyphname = Eacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -2195,6 +2147,7 @@ unicode = 00C9;
 },
 {
 glyphname = Ebreve;
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -2227,7 +2180,7 @@ unicode = 0114;
 },
 {
 glyphname = Ecaron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -2262,7 +2215,7 @@ unicode = 011A;
 },
 {
 glyphname = Ecircumflex;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -2297,7 +2250,7 @@ unicode = 00CA;
 },
 {
 glyphname = Ecircumflexacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -2340,7 +2293,7 @@ unicode = 1EBE;
 },
 {
 glyphname = Ecircumflexdotbelow;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -2383,7 +2336,7 @@ unicode = 1EC6;
 },
 {
 glyphname = Ecircumflexgrave;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -2426,7 +2379,7 @@ unicode = 1EC0;
 },
 {
 glyphname = Ecircumflexhookabove;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -2469,7 +2422,7 @@ unicode = 1EC2;
 },
 {
 glyphname = Ecircumflextilde;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -2512,7 +2465,7 @@ unicode = 1EC4;
 },
 {
 glyphname = Edieresis;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -2547,7 +2500,7 @@ unicode = 00CB;
 },
 {
 glyphname = Edotaccent;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -2582,7 +2535,7 @@ unicode = 0116;
 },
 {
 glyphname = Edotbelow;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -2617,7 +2570,7 @@ unicode = 1EB8;
 },
 {
 glyphname = Egrave;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -2652,7 +2605,7 @@ unicode = 00C8;
 },
 {
 glyphname = Ehookabove;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -2687,7 +2640,7 @@ unicode = 1EBA;
 },
 {
 glyphname = Emacron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -2722,7 +2675,7 @@ unicode = 0112;
 },
 {
 glyphname = Eogonek;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -2757,7 +2710,7 @@ unicode = 0118;
 },
 {
 glyphname = Etilde;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -2793,7 +2746,7 @@ unicode = 1EBC;
 {
 color = 1;
 glyphname = F;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -2866,7 +2819,7 @@ unicode = 0046;
 {
 color = 1;
 glyphname = G;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -2933,41 +2886,6 @@ name = top;
 position = "{461, 697}";
 }
 );
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"480 -18 OFFCURVE",
-"612 59 OFFCURVE",
-"688 198 CURVE",
-"551 254 LINE",
-"512 173 OFFCURVE",
-"441 132 OFFCURVE",
-"354 132 CURVE SMOOTH",
-"253 132 OFFCURVE",
-"195 187 OFFCURVE",
-"195 287 CURVE SMOOTH",
-"195 436 OFFCURVE",
-"284 567 OFFCURVE",
-"435 567 CURVE SMOOTH",
-"520 567 OFFCURVE",
-"578 527 OFFCURVE",
-"589 448 CURVE",
-"745 505 LINE",
-"720 637 OFFCURVE",
-"620 717 OFFCURVE",
-"464 717 CURVE SMOOTH",
-"216 717 OFFCURVE",
-"36 527 OFFCURVE",
-"36 278 CURVE SMOOTH",
-"36 109 OFFCURVE",
-"154 -18 OFFCURVE",
-"335 -18 CURVE SMOOTH"
-);
-}
-);
-};
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
 paths = (
 {
@@ -3019,7 +2937,7 @@ unicode = 0047;
 },
 {
 glyphname = Gbreve;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -3054,7 +2972,7 @@ unicode = 011E;
 },
 {
 glyphname = Gcaron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -3089,7 +3007,7 @@ unicode = 01E6;
 },
 {
 glyphname = Gcircumflex;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -3124,7 +3042,7 @@ unicode = 011C;
 },
 {
 glyphname = Gcommaaccent;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -3159,7 +3077,7 @@ unicode = 0122;
 },
 {
 glyphname = Gdotaccent;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -3195,7 +3113,7 @@ unicode = 0120;
 {
 color = 1;
 glyphname = H;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -3287,7 +3205,7 @@ unicode = 0048;
 },
 {
 glyphname = Hbar;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -3322,7 +3240,7 @@ unicode = 0126;
 },
 {
 glyphname = Hcircumflex;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -3358,7 +3276,7 @@ unicode = 0124;
 {
 color = 1;
 glyphname = I;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -3434,7 +3352,7 @@ unicode = 0049;
 },
 {
 glyphname = IJ;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -3469,7 +3387,7 @@ unicode = 0132;
 },
 {
 glyphname = Iacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -3504,6 +3422,7 @@ unicode = 00CD;
 },
 {
 glyphname = Ibreve;
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -3536,7 +3455,7 @@ unicode = 012C;
 },
 {
 glyphname = Icaron;
-lastChange = "2020-02-11 10:14:34 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -3569,7 +3488,7 @@ unicode = 01CF;
 },
 {
 glyphname = Icircumflex;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -3604,7 +3523,7 @@ unicode = 00CE;
 },
 {
 glyphname = Idieresis;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -3639,7 +3558,7 @@ unicode = 00CF;
 },
 {
 glyphname = Idotaccent;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -3674,7 +3593,7 @@ unicode = 0130;
 },
 {
 glyphname = Idotbelow;
-lastChange = "2020-02-11 10:14:34 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -3707,7 +3626,7 @@ unicode = 1ECA;
 },
 {
 glyphname = Igrave;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -3742,7 +3661,7 @@ unicode = 00CC;
 },
 {
 glyphname = Ihookabove;
-lastChange = "2020-02-11 10:14:34 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -3775,7 +3694,7 @@ unicode = 1EC8;
 },
 {
 glyphname = Imacron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -3810,7 +3729,7 @@ unicode = 012A;
 },
 {
 glyphname = Iogonek;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -3845,7 +3764,7 @@ unicode = 012E;
 },
 {
 glyphname = Itilde;
-lastChange = "2020-02-11 10:14:34 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -3879,7 +3798,7 @@ unicode = 0128;
 {
 color = 1;
 glyphname = J;
-lastChange = "2020-05-16 15:46:59 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -3967,7 +3886,7 @@ unicode = 004A;
 },
 {
 glyphname = Jacute;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -4001,7 +3920,7 @@ rightKerningGroup = J;
 },
 {
 glyphname = Jcircumflex;
-lastChange = "2020-05-16 15:47:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -4037,7 +3956,7 @@ unicode = 0134;
 {
 color = 1;
 glyphname = K;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -4123,7 +4042,7 @@ unicode = 004B;
 },
 {
 glyphname = Kcommaaccent;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -4159,7 +4078,7 @@ unicode = 0136;
 {
 color = 1;
 glyphname = L;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -4239,7 +4158,7 @@ unicode = 004C;
 },
 {
 glyphname = Lacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -4274,7 +4193,7 @@ unicode = 0139;
 },
 {
 glyphname = Lcaron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -4309,7 +4228,7 @@ unicode = 013D;
 },
 {
 glyphname = Lcommaaccent;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -4344,7 +4263,7 @@ unicode = 013B;
 },
 {
 glyphname = Ldot;
-lastChange = "2020-05-11 18:55:09 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -4377,7 +4296,7 @@ unicode = 013F;
 },
 {
 glyphname = Lslash;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -4413,7 +4332,7 @@ unicode = 0141;
 {
 color = 1;
 glyphname = M;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -4498,7 +4417,7 @@ unicode = 004D;
 {
 color = 1;
 glyphname = N;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -4574,7 +4493,7 @@ unicode = 004E;
 },
 {
 glyphname = Nacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -4609,7 +4528,7 @@ unicode = 0143;
 },
 {
 glyphname = Ncaron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -4644,7 +4563,7 @@ unicode = 0147;
 },
 {
 glyphname = Ncommaaccent;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -4680,7 +4599,7 @@ unicode = 0145;
 {
 color = 1;
 glyphname = Eng;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -4766,7 +4685,7 @@ unicode = 014A;
 },
 {
 glyphname = Nhookleft;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -4876,7 +4795,7 @@ unicode = 019D;
 },
 {
 glyphname = Ntilde;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -4912,7 +4831,7 @@ unicode = 00D1;
 {
 color = 1;
 glyphname = O;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -5054,7 +4973,7 @@ unicode = 004F;
 },
 {
 glyphname = Oacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -5089,7 +5008,7 @@ unicode = 00D3;
 },
 {
 glyphname = Obreve;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -5124,7 +5043,7 @@ unicode = 014E;
 },
 {
 glyphname = Ocaron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -5159,7 +5078,7 @@ unicode = 01D1;
 },
 {
 glyphname = Ocircumflex;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -5194,7 +5113,7 @@ unicode = 00D4;
 },
 {
 glyphname = Ocircumflexacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -5237,7 +5156,7 @@ unicode = 1ED0;
 },
 {
 glyphname = Ocircumflexdotbelow;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -5280,7 +5199,7 @@ unicode = 1ED8;
 },
 {
 glyphname = Ocircumflexgrave;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -5323,7 +5242,7 @@ unicode = 1ED2;
 },
 {
 glyphname = Ocircumflexhookabove;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -5366,7 +5285,7 @@ unicode = 1ED4;
 },
 {
 glyphname = Ocircumflextilde;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -5409,7 +5328,7 @@ unicode = 1ED6;
 },
 {
 glyphname = Odieresis;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -5444,7 +5363,7 @@ unicode = 00D6;
 },
 {
 glyphname = Odotbelow;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -5479,7 +5398,7 @@ unicode = 1ECC;
 },
 {
 glyphname = Ograve;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -5514,7 +5433,7 @@ unicode = 00D2;
 },
 {
 glyphname = Ohookabove;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -5549,7 +5468,7 @@ unicode = 1ECE;
 },
 {
 glyphname = Ohorn;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -5584,7 +5503,7 @@ unicode = 01A0;
 },
 {
 glyphname = Ohornacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -5619,7 +5538,7 @@ unicode = 1EDA;
 },
 {
 glyphname = Ohorndotbelow;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -5654,7 +5573,7 @@ unicode = 1EE2;
 },
 {
 glyphname = Ohorngrave;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -5689,7 +5608,7 @@ unicode = 1EDC;
 },
 {
 glyphname = Ohornhookabove;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -5724,7 +5643,7 @@ unicode = 1EDE;
 },
 {
 glyphname = Ohorntilde;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -5759,7 +5678,7 @@ unicode = 1EE0;
 },
 {
 glyphname = Ohungarumlaut;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -5794,7 +5713,7 @@ unicode = 0150;
 },
 {
 glyphname = Omacron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -5829,7 +5748,7 @@ unicode = 014C;
 },
 {
 glyphname = Oogonek;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -5864,7 +5783,7 @@ unicode = 01EA;
 },
 {
 glyphname = Oslash;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -5899,7 +5818,7 @@ unicode = 00D8;
 },
 {
 glyphname = Oslashacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -5934,7 +5853,7 @@ unicode = 01FE;
 },
 {
 glyphname = Otilde;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -5970,7 +5889,7 @@ unicode = 00D5;
 {
 color = 1;
 glyphname = OE;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -6011,7 +5930,7 @@ unicode = 0152;
 {
 color = 1;
 glyphname = P;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -6070,40 +5989,6 @@ name = top;
 position = "{367, 697}";
 }
 );
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"35 61 LINE",
-"162 61 LINE",
-"162 289 LINE",
-"315 289 LINE SMOOTH",
-"466 289 OFFCURVE",
-"551 361 OFFCURVE",
-"551 496 CURVE SMOOTH",
-"551 622 OFFCURVE",
-"469 699 OFFCURVE",
-"316 699 CURVE SMOOTH",
-"35 699 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"162 389 LINE",
-"162 597 LINE",
-"300 597 LINE SMOOTH",
-"380 597 OFFCURVE",
-"425 560 OFFCURVE",
-"425 493 CURVE SMOOTH",
-"425 426 OFFCURVE",
-"381 389 OFFCURVE",
-"301 389 CURVE SMOOTH"
-);
-}
-);
-};
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
 paths = (
 {
@@ -6148,7 +6033,7 @@ unicode = 0050;
 {
 color = 1;
 glyphname = Thorn;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -6255,7 +6140,7 @@ unicode = 00DE;
 {
 color = 1;
 glyphname = Q;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -6384,7 +6269,7 @@ unicode = 0051;
 {
 color = 1;
 glyphname = R;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -6455,44 +6340,6 @@ name = top;
 position = "{393, 697}";
 }
 );
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"403 300 LINE",
-"499 326 OFFCURVE",
-"551 398 OFFCURVE",
-"551 493 CURVE SMOOTH",
-"551 614 OFFCURVE",
-"487 697 OFFCURVE",
-"314 697 CURVE SMOOTH",
-"86 697 LINE",
-"86 0 LINE",
-"210 0 LINE",
-"210 289 LINE",
-"271 289 LINE SMOOTH",
-"287 289 OFFCURVE",
-"300 289 OFFCURVE",
-"318 289 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"210 580 LINE",
-"313 580 LINE SMOOTH",
-"399 580 OFFCURVE",
-"426 549 OFFCURVE",
-"426 493 CURVE SMOOTH",
-"426 437 OFFCURVE",
-"399 406 OFFCURVE",
-"313 406 CURVE SMOOTH",
-"210 406 LINE"
-);
-}
-);
-};
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
 paths = (
 {
@@ -6548,7 +6395,7 @@ unicode = 0052;
 },
 {
 glyphname = Racute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -6583,7 +6430,7 @@ unicode = 0154;
 },
 {
 glyphname = Rcaron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -6618,7 +6465,7 @@ unicode = 0158;
 },
 {
 glyphname = Rcommaaccent;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -6654,7 +6501,7 @@ unicode = 0156;
 {
 color = 1;
 glyphname = S;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -6782,7 +6629,7 @@ unicode = 0053;
 },
 {
 glyphname = Sacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -6817,7 +6664,7 @@ unicode = 015A;
 },
 {
 glyphname = Scaron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -6852,7 +6699,7 @@ unicode = 0160;
 },
 {
 glyphname = Scedilla;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -6887,7 +6734,7 @@ unicode = 015E;
 },
 {
 glyphname = Scircumflex;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -6922,7 +6769,7 @@ unicode = 015C;
 },
 {
 glyphname = Scommaaccent;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -6958,7 +6805,7 @@ unicode = 0218;
 {
 color = 1;
 glyphname = Germandbls;
-lastChange = "2020-02-11 10:16:37 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -7085,7 +6932,7 @@ unicode = 1E9E;
 },
 {
 glyphname = Schwa;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -7098,72 +6945,6 @@ name = top;
 position = "{451, 697}";
 }
 );
-background = {
-anchors = (
-{
-name = bottom;
-position = "{329, 0}";
-},
-{
-name = top;
-position = "{451, 697}";
-}
-);
-paths = (
-{
-closed = 1;
-nodes = (
-"526 -5 OFFCURVE",
-"654 124 OFFCURVE",
-"694 350 CURVE SMOOTH",
-"700 386 OFFCURVE",
-"704 420 OFFCURVE",
-"704 451 CURVE SMOOTH",
-"704 614 OFFCURVE",
-"617 702 OFFCURVE",
-"453 702 CURVE SMOOTH",
-"321 702 OFFCURVE",
-"226 645 OFFCURVE",
-"159 525 CURVE",
-"169 522 LINE",
-"233 639 OFFCURVE",
-"324 692 OFFCURVE",
-"452 692 CURVE SMOOTH",
-"612 692 OFFCURVE",
-"694 607 OFFCURVE",
-"694 451 CURVE SMOOTH",
-"694 420 OFFCURVE",
-"691 387 OFFCURVE",
-"685 352 CURVE SMOOTH",
-"646 131 OFFCURVE",
-"521 5 OFFCURVE",
-"339 5 CURVE SMOOTH",
-"187 5 OFFCURVE",
-"107 93 OFFCURVE",
-"107 250 CURVE SMOOTH",
-"107 281 OFFCURVE",
-"110 315 OFFCURVE",
-"116 351 CURVE",
-"106 351 LINE",
-"99 314 OFFCURVE",
-"96 279 OFFCURVE",
-"96 248 CURVE SMOOTH",
-"96 85 OFFCURVE",
-"181 -5 OFFCURVE",
-"338 -5 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"692 341 LINE",
-"693 351 LINE",
-"112 351 LINE",
-"111 341 LINE"
-);
-}
-);
-};
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
 paths = (
 {
@@ -7226,72 +7007,6 @@ name = top;
 position = "{450, 697}";
 }
 );
-background = {
-anchors = (
-{
-name = bottom;
-position = "{328, 0}";
-},
-{
-name = top;
-position = "{450, 697}";
-}
-);
-paths = (
-{
-closed = 1;
-nodes = (
-"538 -18 OFFCURVE",
-"704 127 OFFCURVE",
-"743 348 CURVE SMOOTH",
-"748 377 OFFCURVE",
-"751 405 OFFCURVE",
-"751 432 CURVE SMOOTH",
-"751 607 OFFCURVE",
-"642 717 OFFCURVE",
-"460 717 CURVE SMOOTH",
-"304 717 OFFCURVE",
-"175 637 OFFCURVE",
-"101 505 CURVE",
-"236 448 LINE",
-"276 527 OFFCURVE",
-"349 567 OFFCURVE",
-"434 567 CURVE SMOOTH",
-"535 567 OFFCURVE",
-"592 511 OFFCURVE",
-"592 410 CURVE SMOOTH",
-"592 392 OFFCURVE",
-"590 372 OFFCURVE",
-"586 350 CURVE SMOOTH",
-"562 211 OFFCURVE",
-"475 132 OFFCURVE",
-"354 132 CURVE SMOOTH",
-"251 132 OFFCURVE",
-"193 189 OFFCURVE",
-"193 293 CURVE SMOOTH",
-"193 311 OFFCURVE",
-"194 330 OFFCURVE",
-"198 351 CURVE",
-"41 351 LINE",
-"36 322 OFFCURVE",
-"33 294 OFFCURVE",
-"33 267 CURVE SMOOTH",
-"33 92 OFFCURVE",
-"144 -18 OFFCURVE",
-"327 -18 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"681 231 LINE",
-"702 351 LINE",
-"121 351 LINE",
-"100 231 LINE"
-);
-}
-);
-};
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
 paths = (
 {
@@ -7353,7 +7068,7 @@ unicode = 018F;
 {
 color = 1;
 glyphname = T;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -7429,7 +7144,7 @@ unicode = 0054;
 },
 {
 glyphname = Tbar;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -7464,7 +7179,7 @@ unicode = 0166;
 },
 {
 glyphname = Tcaron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -7499,7 +7214,7 @@ unicode = 0164;
 },
 {
 glyphname = Tcedilla;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -7534,7 +7249,7 @@ unicode = 0162;
 },
 {
 glyphname = Tcommaaccent;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -7570,7 +7285,7 @@ unicode = 021A;
 {
 color = 1;
 glyphname = U;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -7674,7 +7389,7 @@ unicode = 0055;
 },
 {
 glyphname = Uacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -7709,7 +7424,7 @@ unicode = 00DA;
 },
 {
 glyphname = Ubreve;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -7744,7 +7459,7 @@ unicode = 016C;
 },
 {
 glyphname = Ucaron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -7779,7 +7494,7 @@ unicode = 01D3;
 },
 {
 glyphname = Ucircumflex;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -7814,7 +7529,7 @@ unicode = 00DB;
 },
 {
 glyphname = Udieresis;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -7849,7 +7564,7 @@ unicode = 00DC;
 },
 {
 glyphname = Udieresisacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -7892,7 +7607,7 @@ unicode = 01D7;
 },
 {
 glyphname = Udieresiscaron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -7935,7 +7650,7 @@ unicode = 01D9;
 },
 {
 glyphname = Udieresisgrave;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -7978,7 +7693,7 @@ unicode = 01DB;
 },
 {
 glyphname = Udieresismacron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -8021,7 +7736,7 @@ unicode = 01D5;
 },
 {
 glyphname = Udotbelow;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -8056,7 +7771,7 @@ unicode = 1EE4;
 },
 {
 glyphname = Ugrave;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -8091,7 +7806,7 @@ unicode = 00D9;
 },
 {
 glyphname = Uhookabove;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -8126,7 +7841,7 @@ unicode = 1EE6;
 },
 {
 glyphname = Uhorn;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -8161,7 +7876,7 @@ unicode = 01AF;
 },
 {
 glyphname = Uhornacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -8196,7 +7911,7 @@ unicode = 1EE8;
 },
 {
 glyphname = Uhorndotbelow;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -8231,7 +7946,7 @@ unicode = 1EF0;
 },
 {
 glyphname = Uhorngrave;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -8266,7 +7981,7 @@ unicode = 1EEA;
 },
 {
 glyphname = Uhornhookabove;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -8301,7 +8016,7 @@ unicode = 1EEC;
 },
 {
 glyphname = Uhorntilde;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -8336,7 +8051,7 @@ unicode = 1EEE;
 },
 {
 glyphname = Uhungarumlaut;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -8371,7 +8086,7 @@ unicode = 0170;
 },
 {
 glyphname = Umacron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -8406,7 +8121,7 @@ unicode = 016A;
 },
 {
 glyphname = Uogonek;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -8441,7 +8156,7 @@ unicode = 0172;
 },
 {
 glyphname = Uring;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -8476,7 +8191,7 @@ unicode = 016E;
 },
 {
 glyphname = Utilde;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -8512,7 +8227,7 @@ unicode = 0168;
 {
 color = 1;
 glyphname = V;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -8581,7 +8296,7 @@ unicode = 0056;
 {
 color = 1;
 glyphname = W;
-lastChange = "2020-05-19 22:12:11 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -8661,7 +8376,7 @@ unicode = 0057;
 },
 {
 glyphname = Wacute;
-lastChange = "2020-05-19 22:12:12 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -8696,7 +8411,7 @@ unicode = 1E82;
 },
 {
 glyphname = Wcircumflex;
-lastChange = "2020-05-19 22:12:12 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -8731,7 +8446,7 @@ unicode = 0174;
 },
 {
 glyphname = Wdieresis;
-lastChange = "2020-05-19 22:12:12 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -8766,7 +8481,7 @@ unicode = 1E84;
 },
 {
 glyphname = Wgrave;
-lastChange = "2020-05-19 22:12:12 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -8802,7 +8517,7 @@ unicode = 1E80;
 {
 color = 1;
 glyphname = X;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -8883,7 +8598,7 @@ unicode = 0058;
 {
 color = 1;
 glyphname = Y;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -8961,7 +8676,7 @@ unicode = 0059;
 },
 {
 glyphname = Yacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -8996,7 +8711,7 @@ unicode = 00DD;
 },
 {
 glyphname = Ycircumflex;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -9031,7 +8746,7 @@ unicode = 0176;
 },
 {
 glyphname = Ydieresis;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -9066,7 +8781,7 @@ unicode = 0178;
 },
 {
 glyphname = Ydotbelow;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -9101,7 +8816,7 @@ unicode = 1EF4;
 },
 {
 glyphname = Ygrave;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -9136,7 +8851,7 @@ unicode = 1EF2;
 },
 {
 glyphname = Yhookabove;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -9171,7 +8886,7 @@ unicode = 1EF6;
 },
 {
 glyphname = Ymacron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -9206,7 +8921,7 @@ unicode = 0232;
 },
 {
 glyphname = Ytilde;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -9242,7 +8957,7 @@ unicode = 1EF8;
 {
 color = 1;
 glyphname = Z;
-lastChange = "2020-05-19 22:11:17 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -9326,7 +9041,7 @@ unicode = 005A;
 },
 {
 glyphname = Zacute;
-lastChange = "2020-05-19 22:11:19 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -9361,7 +9076,7 @@ unicode = 0179;
 },
 {
 glyphname = Zcaron;
-lastChange = "2020-05-19 22:11:19 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -9396,7 +9111,7 @@ unicode = 017D;
 },
 {
 glyphname = Zdotaccent;
-lastChange = "2020-05-19 22:11:19 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -9431,7 +9146,7 @@ unicode = 017B;
 },
 {
 glyphname = Abrevedotbelow.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -9473,7 +9188,7 @@ rightKerningGroup = A;
 },
 {
 glyphname = Acircumflexdotbelow.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -9515,7 +9230,7 @@ rightKerningGroup = A;
 },
 {
 glyphname = Adieresis.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -9549,7 +9264,7 @@ rightKerningGroup = A;
 },
 {
 glyphname = Adotbelow.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -9583,7 +9298,7 @@ rightKerningGroup = A;
 },
 {
 glyphname = Cdotaccent.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -9617,7 +9332,7 @@ rightKerningGroup = C;
 },
 {
 glyphname = Ecircumflexdotbelow.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -9659,7 +9374,7 @@ rightKerningGroup = E;
 },
 {
 glyphname = Edieresis.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -9693,7 +9408,7 @@ rightKerningGroup = E;
 },
 {
 glyphname = Edotaccent.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -9727,7 +9442,7 @@ rightKerningGroup = E;
 },
 {
 glyphname = Edotbelow.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -9761,7 +9476,7 @@ rightKerningGroup = E;
 },
 {
 glyphname = Gdotaccent.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -9795,7 +9510,7 @@ rightKerningGroup = G;
 },
 {
 glyphname = Idieresis.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -9827,7 +9542,7 @@ width = 297;
 },
 {
 glyphname = Idotbelow.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -9860,7 +9575,7 @@ width = 297;
 {
 color = 1;
 glyphname = Ldot.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -9893,7 +9608,7 @@ leftMetricsKey = L;
 },
 {
 glyphname = Ocircumflexdotbelow.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -9935,7 +9650,7 @@ rightKerningGroup = O;
 },
 {
 glyphname = Odieresis.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -9969,7 +9684,7 @@ rightKerningGroup = O;
 },
 {
 glyphname = Odotbelow.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -10003,7 +9718,7 @@ rightKerningGroup = O;
 },
 {
 glyphname = Ohorndotbelow.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -10037,7 +9752,7 @@ rightKerningGroup = O;
 },
 {
 glyphname = Udieresis.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -10071,7 +9786,7 @@ rightKerningGroup = U;
 },
 {
 glyphname = Udieresisacute.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -10113,7 +9828,7 @@ rightKerningGroup = U;
 },
 {
 glyphname = Udieresiscaron.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -10155,7 +9870,7 @@ rightKerningGroup = U;
 },
 {
 glyphname = Udieresisgrave.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -10197,7 +9912,7 @@ rightKerningGroup = U;
 },
 {
 glyphname = Udieresismacron.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -10239,7 +9954,7 @@ rightKerningGroup = U;
 },
 {
 glyphname = Udotbelow.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -10273,7 +9988,7 @@ rightKerningGroup = U;
 },
 {
 glyphname = Uhorndotbelow.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -10307,7 +10022,7 @@ rightKerningGroup = U;
 },
 {
 glyphname = Wdieresis.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -10341,7 +10056,7 @@ rightKerningGroup = W;
 },
 {
 glyphname = Ydieresis.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -10375,7 +10090,7 @@ rightKerningGroup = Y;
 },
 {
 glyphname = Ydotbelow.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -10409,7 +10124,7 @@ rightKerningGroup = Y;
 },
 {
 glyphname = Zdotaccent.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -10444,7 +10159,7 @@ rightKerningGroup = Z;
 {
 color = 1;
 glyphname = a;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -10576,7 +10291,7 @@ unicode = 0061;
 },
 {
 glyphname = aacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -10611,7 +10326,7 @@ unicode = 00E1;
 },
 {
 glyphname = abreve;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -10646,7 +10361,7 @@ unicode = 0103;
 },
 {
 glyphname = abreveacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -10689,7 +10404,7 @@ unicode = 1EAF;
 },
 {
 glyphname = abrevedotbelow;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -10732,7 +10447,7 @@ unicode = 1EB7;
 },
 {
 glyphname = abrevegrave;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -10775,7 +10490,7 @@ unicode = 1EB1;
 },
 {
 glyphname = abrevehookabove;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -10818,7 +10533,7 @@ unicode = 1EB3;
 },
 {
 glyphname = abrevetilde;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -10861,7 +10576,7 @@ unicode = 1EB5;
 },
 {
 glyphname = acaron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -10896,7 +10611,7 @@ unicode = 01CE;
 },
 {
 glyphname = acircumflex;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -10931,7 +10646,7 @@ unicode = 00E2;
 },
 {
 glyphname = acircumflexacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -10974,7 +10689,7 @@ unicode = 1EA5;
 },
 {
 glyphname = acircumflexdotbelow;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -11017,7 +10732,7 @@ unicode = 1EAD;
 },
 {
 glyphname = acircumflexgrave;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -11060,7 +10775,7 @@ unicode = 1EA7;
 },
 {
 glyphname = acircumflexhookabove;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -11103,7 +10818,7 @@ unicode = 1EA9;
 },
 {
 glyphname = acircumflextilde;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -11146,7 +10861,7 @@ unicode = 1EAB;
 },
 {
 glyphname = adieresis;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -11181,7 +10896,7 @@ unicode = 00E4;
 },
 {
 glyphname = adotbelow;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -11216,7 +10931,7 @@ unicode = 1EA1;
 },
 {
 glyphname = agrave;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -11251,7 +10966,7 @@ unicode = 00E0;
 },
 {
 glyphname = ahookabove;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -11286,7 +11001,7 @@ unicode = 1EA3;
 },
 {
 glyphname = amacron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -11321,7 +11036,7 @@ unicode = 0101;
 },
 {
 glyphname = aogonek;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -11356,7 +11071,7 @@ unicode = 0105;
 },
 {
 glyphname = aring;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -11391,7 +11106,7 @@ unicode = 00E5;
 },
 {
 glyphname = aringacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -11434,7 +11149,7 @@ unicode = 01FB;
 },
 {
 glyphname = atilde;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -11470,7 +11185,7 @@ unicode = 00E3;
 {
 color = 1;
 glyphname = ae;
-lastChange = "2020-05-11 20:47:17 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -11616,7 +11331,7 @@ unicode = 00E6;
 },
 {
 glyphname = aeacute;
-lastChange = "2020-05-11 20:47:17 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -11652,7 +11367,7 @@ unicode = 01FD;
 {
 color = 1;
 glyphname = b;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -11777,7 +11492,7 @@ unicode = 0062;
 {
 color = 1;
 glyphname = c;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -11881,7 +11596,7 @@ unicode = 0063;
 },
 {
 glyphname = cacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -11916,7 +11631,7 @@ unicode = 0107;
 },
 {
 glyphname = ccaron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -11951,7 +11666,7 @@ unicode = 010D;
 },
 {
 glyphname = ccedilla;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -11986,7 +11701,7 @@ unicode = 00E7;
 },
 {
 glyphname = ccircumflex;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -12021,7 +11736,7 @@ unicode = 0109;
 },
 {
 glyphname = cdotaccent;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -12057,7 +11772,7 @@ unicode = 010B;
 {
 color = 1;
 glyphname = d;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -12198,7 +11913,7 @@ unicode = 0064;
 {
 color = 1;
 glyphname = eth;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -12320,7 +12035,7 @@ unicode = 00F0;
 },
 {
 glyphname = dcaron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -12355,7 +12070,7 @@ unicode = 010F;
 },
 {
 glyphname = dcroat;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -12391,7 +12106,7 @@ unicode = 0111;
 {
 color = 1;
 glyphname = e;
-lastChange = "2020-05-11 20:44:52 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -12408,67 +12123,6 @@ name = top;
 position = "{307, 493}";
 }
 );
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"306 -5 OFFCURVE",
-"354 14 OFFCURVE",
-"422 70 CURVE",
-"414 78 LINE",
-"350 23 OFFCURVE",
-"305 5 OFFCURVE",
-"231 5 CURVE SMOOTH",
-"129 5 OFFCURVE",
-"68 69 OFFCURVE",
-"68 182 CURVE SMOOTH",
-"68 203 OFFCURVE",
-"71 226 OFFCURVE",
-"75 251 CURVE",
-"463 251 LINE",
-"466 259 OFFCURVE",
-"471 278 OFFCURVE",
-"473 290 CURVE SMOOTH",
-"475 303 OFFCURVE",
-"477 317 OFFCURVE",
-"477 331 CURVE SMOOTH",
-"477 410 OFFCURVE",
-"437 498 OFFCURVE",
-"310 498 CURVE SMOOTH",
-"190 498 OFFCURVE",
-"90 394 OFFCURVE",
-"64 244 CURVE SMOOTH",
-"60 222 OFFCURVE",
-"58 200 OFFCURVE",
-"58 180 CURVE SMOOTH",
-"58 66 OFFCURVE",
-"122 -5 OFFCURVE",
-"230 -5 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"460 260 LINE",
-"72 260 LINE",
-"76 257 LINE",
-"105 393 OFFCURVE",
-"199 488 OFFCURVE",
-"309 488 CURVE SMOOTH",
-"429 488 OFFCURVE",
-"467 407 OFFCURVE",
-"467 333 CURVE SMOOTH",
-"467 319 OFFCURVE",
-"465 305 OFFCURVE",
-"463 292 CURVE SMOOTH",
-"461 281 OFFCURVE",
-"459 268 OFFCURVE",
-"455 256 CURVE"
-);
-}
-);
-};
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
 paths = (
 {
@@ -12538,59 +12192,6 @@ name = top;
 position = "{294, 493}";
 }
 );
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"303 -11 OFFCURVE",
-"378 22 OFFCURVE",
-"441 81 CURVE",
-"353 173 LINE",
-"319 139 OFFCURVE",
-"278 125 OFFCURVE",
-"241 125 CURVE SMOOTH",
-"178 125 OFFCURVE",
-"152 154 OFFCURVE",
-"152 192 CURVE SMOOTH",
-"152 202 OFFCURVE",
-"154 212 OFFCURVE",
-"157 223 CURVE",
-"107 194 LINE",
-"476 194 LINE",
-"485 227 OFFCURVE",
-"493 268 OFFCURVE",
-"493 308 CURVE SMOOTH",
-"493 425 OFFCURVE",
-"429 504 OFFCURVE",
-"298 504 CURVE SMOOTH",
-"87 504 OFFCURVE",
-"5 310 OFFCURVE",
-"5 186 CURVE SMOOTH",
-"5 81 OFFCURVE",
-"62 -11 OFFCURVE",
-"216 -11 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"366 305 LINE",
-"165 305 LINE",
-"164 287 LINE",
-"170 318 OFFCURVE",
-"201 379 OFFCURVE",
-"277 379 CURVE SMOOTH",
-"323 379 OFFCURVE",
-"355 356 OFFCURVE",
-"355 316 CURVE SMOOTH",
-"355 307 OFFCURVE",
-"350 283 OFFCURVE",
-"349 286 CURVE"
-);
-}
-);
-};
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
 paths = (
 {
@@ -12654,7 +12255,7 @@ unicode = 0065;
 },
 {
 glyphname = eacute;
-lastChange = "2020-05-11 20:44:54 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -12689,7 +12290,7 @@ unicode = 00E9;
 },
 {
 glyphname = ebreve;
-lastChange = "2020-05-11 20:44:54 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -12724,7 +12325,7 @@ unicode = 0115;
 },
 {
 glyphname = ecaron;
-lastChange = "2020-05-11 20:44:54 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -12759,7 +12360,7 @@ unicode = 011B;
 },
 {
 glyphname = ecircumflex;
-lastChange = "2020-05-11 20:44:54 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -12794,7 +12395,7 @@ unicode = 00EA;
 },
 {
 glyphname = ecircumflexacute;
-lastChange = "2020-05-11 20:44:54 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -12837,7 +12438,7 @@ unicode = 1EBF;
 },
 {
 glyphname = ecircumflexdotbelow;
-lastChange = "2020-05-11 20:44:54 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -12880,7 +12481,7 @@ unicode = 1EC7;
 },
 {
 glyphname = ecircumflexgrave;
-lastChange = "2020-05-11 20:44:54 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -12923,7 +12524,7 @@ unicode = 1EC1;
 },
 {
 glyphname = ecircumflexhookabove;
-lastChange = "2020-05-11 20:44:54 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -12966,7 +12567,7 @@ unicode = 1EC3;
 },
 {
 glyphname = ecircumflextilde;
-lastChange = "2020-05-11 20:44:54 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -13009,7 +12610,7 @@ unicode = 1EC5;
 },
 {
 glyphname = edieresis;
-lastChange = "2020-05-11 20:44:54 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -13044,7 +12645,7 @@ unicode = 00EB;
 },
 {
 glyphname = edotaccent;
-lastChange = "2020-05-11 20:44:54 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -13079,7 +12680,7 @@ unicode = 0117;
 },
 {
 glyphname = edotbelow;
-lastChange = "2020-05-11 20:44:54 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -13114,7 +12715,7 @@ unicode = 1EB9;
 },
 {
 glyphname = egrave;
-lastChange = "2020-05-11 20:44:54 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -13149,7 +12750,7 @@ unicode = 00E8;
 },
 {
 glyphname = ehookabove;
-lastChange = "2020-05-11 20:44:54 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -13184,7 +12785,7 @@ unicode = 1EBB;
 },
 {
 glyphname = emacron;
-lastChange = "2020-05-11 20:44:54 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -13219,7 +12820,7 @@ unicode = 0113;
 },
 {
 glyphname = eogonek;
-lastChange = "2020-05-11 20:44:54 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -13254,7 +12855,7 @@ unicode = 0119;
 },
 {
 glyphname = etilde;
-lastChange = "2020-05-11 20:44:54 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -13289,7 +12890,7 @@ unicode = 1EBD;
 },
 {
 glyphname = schwa;
-lastChange = "2020-05-11 20:44:39 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -13319,7 +12920,7 @@ unicode = 0259;
 {
 color = 1;
 glyphname = f;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -13420,7 +13021,7 @@ unicode = 0066;
 {
 color = 1;
 glyphname = g;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -13568,7 +13169,7 @@ unicode = 0067;
 },
 {
 glyphname = gbreve;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -13603,7 +13204,7 @@ unicode = 011F;
 },
 {
 glyphname = gcaron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -13638,7 +13239,7 @@ unicode = 01E7;
 },
 {
 glyphname = gcircumflex;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -13673,7 +13274,7 @@ unicode = 011D;
 },
 {
 glyphname = gcommaaccent;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -13708,7 +13309,7 @@ unicode = 0123;
 },
 {
 glyphname = gdotaccent;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -13744,7 +13345,7 @@ unicode = 0121;
 {
 color = 1;
 glyphname = h;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -13846,7 +13447,7 @@ unicode = 0068;
 },
 {
 glyphname = hbar;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -13881,7 +13482,7 @@ unicode = 0127;
 },
 {
 glyphname = hcircumflex;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -13916,7 +13517,7 @@ unicode = 0125;
 },
 {
 glyphname = i;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -13952,7 +13553,7 @@ unicode = 0069;
 {
 color = 1;
 glyphname = idotless;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -14020,7 +13621,7 @@ unicode = 0131;
 },
 {
 glyphname = iacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -14055,6 +13656,7 @@ unicode = 00ED;
 },
 {
 glyphname = ibreve;
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -14087,7 +13689,7 @@ unicode = 012D;
 },
 {
 glyphname = icaron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -14122,7 +13724,7 @@ unicode = 01D0;
 },
 {
 glyphname = icircumflex;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -14157,7 +13759,7 @@ unicode = 00EE;
 },
 {
 glyphname = idieresis;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -14192,7 +13794,7 @@ unicode = 00EF;
 },
 {
 glyphname = idotaccent;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -14226,7 +13828,7 @@ rightKerningGroup = i;
 },
 {
 glyphname = idotbelow;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -14261,7 +13863,7 @@ unicode = 1ECB;
 },
 {
 glyphname = igrave;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -14296,7 +13898,7 @@ unicode = 00EC;
 },
 {
 glyphname = ihookabove;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -14331,6 +13933,7 @@ unicode = 1EC9;
 },
 {
 glyphname = ij;
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -14363,7 +13966,7 @@ unicode = 0133;
 },
 {
 glyphname = imacron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -14398,7 +14001,7 @@ unicode = 012B;
 },
 {
 glyphname = iogonek;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -14441,7 +14044,7 @@ unicode = 012F;
 },
 {
 glyphname = itilde;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -14476,7 +14079,7 @@ unicode = 0129;
 },
 {
 glyphname = j;
-lastChange = "2020-02-11 10:14:34 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -14510,7 +14113,7 @@ unicode = 006A;
 {
 color = 1;
 glyphname = jdotless;
-lastChange = "2020-02-11 10:14:56 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -14565,31 +14168,6 @@ name = top;
 position = "{181, 493}";
 }
 );
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"144 -214 OFFCURVE",
-"189 -182 OFFCURVE",
-"189 -86 CURVE SMOOTH",
-"189 493 LINE",
-"69 493 LINE",
-"69 -73 LINE SMOOTH",
-"69 -95 OFFCURVE",
-"56 -104 OFFCURVE",
-"34 -104 CURVE SMOOTH",
-"23 -104 OFFCURVE",
-"10 -102 OFFCURVE",
-"-4 -98 CURVE",
-"-4 -199 LINE",
-"26 -208 OFFCURVE",
-"56 -214 OFFCURVE",
-"81 -214 CURVE SMOOTH"
-);
-}
-);
-};
 guideLines = (
 {
 position = "{204, -204}";
@@ -14627,7 +14205,7 @@ unicode = 0237;
 },
 {
 glyphname = jacute;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -14659,6 +14237,7 @@ width = 265;
 },
 {
 glyphname = jcircumflex;
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -14692,7 +14271,7 @@ unicode = 0135;
 {
 color = 1;
 glyphname = k;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -14768,7 +14347,7 @@ unicode = 006B;
 },
 {
 glyphname = kcommaaccent;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -14804,7 +14383,7 @@ unicode = 0137;
 {
 color = 1;
 glyphname = kgreenlandic;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -14881,7 +14460,7 @@ unicode = 0138;
 {
 color = 1;
 glyphname = l;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -14981,7 +14560,7 @@ unicode = 006C;
 },
 {
 glyphname = lacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -15016,7 +14595,7 @@ unicode = 013A;
 },
 {
 glyphname = lcaron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -15051,7 +14630,7 @@ unicode = 013E;
 },
 {
 glyphname = lcommaaccent;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -15086,7 +14665,7 @@ unicode = 013C;
 },
 {
 glyphname = ldot;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -15118,7 +14697,7 @@ unicode = 0140;
 },
 {
 glyphname = lslash;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -15154,7 +14733,7 @@ unicode = 0142;
 {
 color = 1;
 glyphname = m;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -15167,50 +14746,6 @@ name = top;
 position = "{457, 493}";
 }
 );
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"169 0 LINE",
-"169 251 LINE SMOOTH",
-"169 345 OFFCURVE",
-"214 448 OFFCURVE",
-"299 448 CURVE SMOOTH",
-"388 448 OFFCURVE",
-"408 363 OFFCURVE",
-"408 294 CURVE SMOOTH",
-"408 0 LINE",
-"470 0 LINE",
-"470 271 LINE SMOOTH",
-"470 355 OFFCURVE",
-"515 448 OFFCURVE",
-"599 448 CURVE SMOOTH",
-"689 448 OFFCURVE",
-"710 360 OFFCURVE",
-"710 292 CURVE SMOOTH",
-"710 0 LINE",
-"772 0 LINE",
-"772 297 LINE SMOOTH",
-"772 407 OFFCURVE",
-"725 498 OFFCURVE",
-"605 498 CURVE SMOOTH",
-"535 498 OFFCURVE",
-"485 459 OFFCURVE",
-"456 392 CURVE",
-"434 465 OFFCURVE",
-"375 498 OFFCURVE",
-"304 498 CURVE SMOOTH",
-"239 498 OFFCURVE",
-"186 454 OFFCURVE",
-"169 406 CURVE",
-"169 488 LINE",
-"107 488 LINE",
-"107 0 LINE"
-);
-}
-);
-};
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
 paths = (
 {
@@ -15269,14 +14804,6 @@ name = top;
 position = "{473, 493}";
 }
 );
-background = {
-components = (
-{
-name = n;
-transform = "{1, 0, 0, 1, -2, 0}";
-}
-);
-};
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
 paths = (
 {
@@ -15333,7 +14860,7 @@ unicode = 006D;
 {
 color = 1;
 glyphname = n;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -15346,35 +14873,6 @@ name = top;
 position = "{314, 493}";
 }
 );
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"142 0 LINE",
-"142 250 LINE SMOOTH",
-"142 380 OFFCURVE",
-"208 446 OFFCURVE",
-"287 446 CURVE SMOOTH",
-"379 446 OFFCURVE",
-"402 360 OFFCURVE",
-"402 292 CURVE SMOOTH",
-"402 0 LINE",
-"463 0 LINE",
-"463 297 LINE SMOOTH",
-"463 406 OFFCURVE",
-"416 496 OFFCURVE",
-"303 496 CURVE SMOOTH",
-"226 496 OFFCURVE",
-"173 455 OFFCURVE",
-"142 396 CURVE",
-"142 488 LINE",
-"81 488 LINE",
-"81 0 LINE"
-);
-}
-);
-};
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
 paths = (
 {
@@ -15417,14 +14915,6 @@ name = top;
 position = "{330, 493}";
 }
 );
-background = {
-components = (
-{
-name = m;
-transform = "{1, 0, 0, 1, -281, 0}";
-}
-);
-};
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
 paths = (
 {
@@ -15464,7 +14954,7 @@ unicode = 006E;
 },
 {
 glyphname = nacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -15500,7 +14990,7 @@ unicode = 0144;
 {
 color = 1;
 glyphname = napostrophe;
-lastChange = "2020-02-11 10:14:56 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -15535,7 +15025,7 @@ unicode = 0149;
 },
 {
 glyphname = ncaron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -15570,7 +15060,7 @@ unicode = 0148;
 },
 {
 glyphname = ncommaaccent;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -15606,7 +15096,7 @@ unicode = 0146;
 {
 color = 1;
 glyphname = eng;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 guideLines = (
@@ -15658,14 +15148,6 @@ nodes = (
 width = 532;
 },
 {
-background = {
-components = (
-{
-name = j;
-transform = "{1, 0, 0, 1, 323, 0}";
-}
-);
-};
 guideLines = (
 {
 position = "{205, -204}";
@@ -15722,7 +15204,7 @@ unicode = 014B;
 },
 {
 glyphname = nhookleft;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -15838,7 +15320,7 @@ unicode = 0272;
 },
 {
 glyphname = ntilde;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -15874,7 +15356,7 @@ unicode = 00F1;
 {
 color = 1;
 glyphname = o;
-lastChange = "2020-05-11 20:43:59 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -16008,7 +15490,7 @@ unicode = 006F;
 },
 {
 glyphname = oacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -16043,7 +15525,7 @@ unicode = 00F3;
 },
 {
 glyphname = obreve;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -16078,7 +15560,7 @@ unicode = 014F;
 },
 {
 glyphname = ocaron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -16113,7 +15595,7 @@ unicode = 01D2;
 },
 {
 glyphname = ocircumflex;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -16148,7 +15630,7 @@ unicode = 00F4;
 },
 {
 glyphname = ocircumflexacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -16191,7 +15673,7 @@ unicode = 1ED1;
 },
 {
 glyphname = ocircumflexdotbelow;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -16234,7 +15716,7 @@ unicode = 1ED9;
 },
 {
 glyphname = ocircumflexgrave;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -16277,7 +15759,7 @@ unicode = 1ED3;
 },
 {
 glyphname = ocircumflexhookabove;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -16320,7 +15802,7 @@ unicode = 1ED5;
 },
 {
 glyphname = ocircumflextilde;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -16363,7 +15845,7 @@ unicode = 1ED7;
 },
 {
 glyphname = odieresis;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -16398,7 +15880,7 @@ unicode = 00F6;
 },
 {
 glyphname = odotbelow;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -16433,7 +15915,7 @@ unicode = 1ECD;
 },
 {
 glyphname = ograve;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -16468,7 +15950,7 @@ unicode = 00F2;
 },
 {
 glyphname = ohookabove;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -16503,7 +15985,7 @@ unicode = 1ECF;
 },
 {
 glyphname = ohorn;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -16538,7 +16020,7 @@ unicode = 01A1;
 },
 {
 glyphname = ohornacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -16573,7 +16055,7 @@ unicode = 1EDB;
 },
 {
 glyphname = ohorndotbelow;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -16608,7 +16090,7 @@ unicode = 1EE3;
 },
 {
 glyphname = ohorngrave;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -16643,7 +16125,7 @@ unicode = 1EDD;
 },
 {
 glyphname = ohornhookabove;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -16678,7 +16160,7 @@ unicode = 1EDF;
 },
 {
 glyphname = ohorntilde;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -16713,7 +16195,7 @@ unicode = 1EE1;
 },
 {
 glyphname = ohungarumlaut;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -16748,7 +16230,7 @@ unicode = 0151;
 },
 {
 glyphname = omacron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -16783,7 +16265,7 @@ unicode = 014D;
 },
 {
 glyphname = oogonek;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -16818,7 +16300,7 @@ unicode = 01EB;
 },
 {
 glyphname = oslash;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -16853,7 +16335,7 @@ unicode = 00F8;
 },
 {
 glyphname = oslashacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -16888,7 +16370,7 @@ unicode = 01FF;
 },
 {
 glyphname = otilde;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -16924,7 +16406,7 @@ unicode = 00F5;
 {
 color = 1;
 glyphname = oe;
-lastChange = "2020-05-11 20:46:27 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -17049,7 +16531,7 @@ unicode = 0153;
 {
 color = 1;
 glyphname = p;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -17184,7 +16666,7 @@ unicode = 0070;
 {
 color = 1;
 glyphname = thorn;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -17319,7 +16801,7 @@ unicode = 00FE;
 {
 color = 1;
 glyphname = q;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -17454,7 +16936,7 @@ unicode = 0071;
 {
 color = 1;
 glyphname = r;
-lastChange = "2020-05-19 22:09:08 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -17544,7 +17026,7 @@ unicode = 0072;
 },
 {
 glyphname = racute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -17579,7 +17061,7 @@ unicode = 0155;
 },
 {
 glyphname = rcaron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -17614,7 +17096,7 @@ unicode = 0159;
 },
 {
 glyphname = rcommaaccent;
-lastChange = "2020-05-19 22:09:08 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -17650,7 +17132,7 @@ unicode = 0157;
 {
 color = 1;
 glyphname = s;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -17778,7 +17260,7 @@ unicode = 0073;
 },
 {
 glyphname = sacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -17813,7 +17295,7 @@ unicode = 015B;
 },
 {
 glyphname = scaron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -17848,7 +17330,7 @@ unicode = 0161;
 },
 {
 glyphname = scedilla;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -17883,7 +17365,7 @@ unicode = 015F;
 },
 {
 glyphname = scircumflex;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -17918,7 +17400,7 @@ unicode = 015D;
 },
 {
 glyphname = scommaaccent;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -17954,7 +17436,7 @@ unicode = 0219;
 {
 color = 1;
 glyphname = germandbls;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -18090,7 +17572,7 @@ unicode = 00DF;
 {
 color = 1;
 glyphname = t;
-lastChange = "2020-05-19 22:09:21 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -18208,7 +17690,7 @@ unicode = 0074;
 },
 {
 glyphname = tbar;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -18243,7 +17725,7 @@ unicode = 0167;
 },
 {
 glyphname = tcaron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -18278,7 +17760,7 @@ unicode = 0165;
 },
 {
 glyphname = tcedilla;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -18313,7 +17795,7 @@ unicode = 0163;
 },
 {
 glyphname = tcommaaccent;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -18349,7 +17831,7 @@ unicode = 021B;
 {
 color = 1;
 glyphname = u;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -18459,7 +17941,7 @@ unicode = 0075;
 },
 {
 glyphname = uacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -18494,7 +17976,7 @@ unicode = 00FA;
 },
 {
 glyphname = ubreve;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -18529,7 +18011,7 @@ unicode = 016D;
 },
 {
 glyphname = ucaron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -18564,7 +18046,7 @@ unicode = 01D4;
 },
 {
 glyphname = ucircumflex;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -18599,7 +18081,7 @@ unicode = 00FB;
 },
 {
 glyphname = udieresis;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -18634,7 +18116,7 @@ unicode = 00FC;
 },
 {
 glyphname = udieresisacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -18677,7 +18159,7 @@ unicode = 01D8;
 },
 {
 glyphname = udieresiscaron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -18720,7 +18202,7 @@ unicode = 01DA;
 },
 {
 glyphname = udieresisgrave;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -18763,7 +18245,7 @@ unicode = 01DC;
 },
 {
 glyphname = udieresismacron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -18806,7 +18288,7 @@ unicode = 01D6;
 },
 {
 glyphname = udotbelow;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -18841,7 +18323,7 @@ unicode = 1EE5;
 },
 {
 glyphname = ugrave;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -18876,7 +18358,7 @@ unicode = 00F9;
 },
 {
 glyphname = uhookabove;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -18911,7 +18393,7 @@ unicode = 1EE7;
 },
 {
 glyphname = uhorn;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -18946,7 +18428,7 @@ unicode = 01B0;
 },
 {
 glyphname = uhornacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -18981,7 +18463,7 @@ unicode = 1EE9;
 },
 {
 glyphname = uhorndotbelow;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -19016,7 +18498,7 @@ unicode = 1EF1;
 },
 {
 glyphname = uhorngrave;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -19051,7 +18533,7 @@ unicode = 1EEB;
 },
 {
 glyphname = uhornhookabove;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -19086,7 +18568,7 @@ unicode = 1EED;
 },
 {
 glyphname = uhorntilde;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -19121,7 +18603,7 @@ unicode = 1EEF;
 },
 {
 glyphname = uhungarumlaut;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -19156,7 +18638,7 @@ unicode = 0171;
 },
 {
 glyphname = umacron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -19191,7 +18673,7 @@ unicode = 016B;
 },
 {
 glyphname = uogonek;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -19226,7 +18708,7 @@ unicode = 0173;
 },
 {
 glyphname = uring;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -19261,7 +18743,7 @@ unicode = 016F;
 },
 {
 glyphname = utilde;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -19297,7 +18779,7 @@ unicode = 0169;
 {
 color = 1;
 glyphname = v;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -19364,7 +18846,7 @@ unicode = 0076;
 {
 color = 1;
 glyphname = w;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -19442,7 +18924,7 @@ unicode = 0077;
 },
 {
 glyphname = wacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -19477,7 +18959,7 @@ unicode = 1E83;
 },
 {
 glyphname = wcircumflex;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -19512,7 +18994,7 @@ unicode = 0175;
 },
 {
 glyphname = wdieresis;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -19547,7 +19029,7 @@ unicode = 1E85;
 },
 {
 glyphname = wgrave;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -19583,7 +19065,7 @@ unicode = 1E81;
 {
 color = 1;
 glyphname = x;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -19660,7 +19142,7 @@ unicode = 0078;
 {
 color = 1;
 glyphname = y;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -19738,7 +19220,7 @@ unicode = 0079;
 },
 {
 glyphname = yacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -19773,7 +19255,7 @@ unicode = 00FD;
 },
 {
 glyphname = ycircumflex;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -19808,7 +19290,7 @@ unicode = 0177;
 },
 {
 glyphname = ydieresis;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -19843,7 +19325,7 @@ unicode = 00FF;
 },
 {
 glyphname = ydotbelow;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -19878,7 +19360,7 @@ unicode = 1EF5;
 },
 {
 glyphname = ygrave;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -19913,7 +19395,7 @@ unicode = 1EF3;
 },
 {
 glyphname = yhookabove;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -19948,7 +19430,7 @@ unicode = 1EF7;
 },
 {
 glyphname = ymacron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -19983,7 +19465,7 @@ unicode = 0233;
 },
 {
 glyphname = ytilde;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -20019,7 +19501,7 @@ unicode = 1EF9;
 {
 color = 1;
 glyphname = z;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -20103,7 +19585,7 @@ unicode = 007A;
 },
 {
 glyphname = zacute;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -20138,7 +19620,7 @@ unicode = 017A;
 },
 {
 glyphname = zcaron;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -20173,7 +19655,7 @@ unicode = 017E;
 },
 {
 glyphname = zdotaccent;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -20209,7 +19691,7 @@ unicode = 017C;
 {
 color = 1;
 glyphname = g.ss02;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -20435,7 +19917,7 @@ note = g.ss02;
 },
 {
 glyphname = gbreve.ss02;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -20468,7 +19950,7 @@ leftKerningGroup = c;
 },
 {
 glyphname = gcommaaccent.ss02;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -20501,7 +19983,7 @@ leftKerningGroup = c;
 },
 {
 glyphname = gdotaccent.ss02;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -20534,7 +20016,7 @@ leftKerningGroup = c;
 },
 {
 glyphname = abrevedotbelow.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -20576,7 +20058,7 @@ rightKerningGroup = a;
 },
 {
 glyphname = acircumflexdotbelow.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -20618,7 +20100,7 @@ rightKerningGroup = a;
 },
 {
 glyphname = adieresis.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -20652,7 +20134,7 @@ rightKerningGroup = a;
 },
 {
 glyphname = adotbelow.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -20686,7 +20168,7 @@ rightKerningGroup = a;
 },
 {
 glyphname = cdotaccent.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -20720,7 +20202,7 @@ rightKerningGroup = c;
 },
 {
 glyphname = ecircumflexdotbelow.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -20762,7 +20244,7 @@ rightKerningGroup = e;
 },
 {
 glyphname = edieresis.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -20796,7 +20278,7 @@ rightKerningGroup = e;
 },
 {
 glyphname = edotaccent.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -20830,7 +20312,7 @@ rightKerningGroup = e;
 },
 {
 glyphname = gdotaccent.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -20864,7 +20346,7 @@ rightKerningGroup = g;
 },
 {
 glyphname = i.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -20898,7 +20380,7 @@ rightKerningGroup = i;
 },
 {
 glyphname = idieresis.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -20932,7 +20414,7 @@ rightKerningGroup = i;
 },
 {
 glyphname = idotaccent.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -20966,7 +20448,7 @@ rightKerningGroup = i;
 },
 {
 glyphname = idotbelow.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -21000,7 +20482,7 @@ rightKerningGroup = i;
 },
 {
 glyphname = iogonek.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -21042,7 +20524,7 @@ rightKerningGroup = i;
 },
 {
 glyphname = j.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -21076,7 +20558,7 @@ rightKerningGroup = i;
 },
 {
 glyphname = ocircumflexdotbelow.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -21118,7 +20600,7 @@ rightKerningGroup = o;
 },
 {
 glyphname = odieresis.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -21152,7 +20634,7 @@ rightKerningGroup = o;
 },
 {
 glyphname = ohorndotbelow.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -21186,7 +20668,7 @@ rightKerningGroup = o;
 },
 {
 glyphname = gdotaccent.ss01.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -21221,7 +20703,7 @@ leftKerningGroup = d;
 },
 {
 glyphname = udieresis.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -21255,7 +20737,7 @@ rightKerningGroup = u;
 },
 {
 glyphname = udieresisacute.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -21297,7 +20779,7 @@ rightKerningGroup = u;
 },
 {
 glyphname = udieresiscaron.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -21339,7 +20821,7 @@ rightKerningGroup = u;
 },
 {
 glyphname = udieresisgrave.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -21381,7 +20863,7 @@ rightKerningGroup = u;
 },
 {
 glyphname = udieresismacron.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -21423,7 +20905,7 @@ rightKerningGroup = u;
 },
 {
 glyphname = udotbelow.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -21457,7 +20939,7 @@ rightKerningGroup = u;
 },
 {
 glyphname = uhorndotbelow.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -21491,7 +20973,7 @@ rightKerningGroup = u;
 },
 {
 glyphname = wdieresis.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -21525,7 +21007,7 @@ rightKerningGroup = w;
 },
 {
 glyphname = ydieresis.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -21559,7 +21041,7 @@ rightKerningGroup = y;
 },
 {
 glyphname = ydotbelow.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -21593,7 +21075,7 @@ rightKerningGroup = y;
 },
 {
 glyphname = zdotaccent.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -21627,7 +21109,7 @@ rightKerningGroup = z;
 },
 {
 glyphname = T_h;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -21710,7 +21192,7 @@ rightMetricsKey = h;
 },
 {
 glyphname = f_f;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -21845,7 +21327,7 @@ rightMetricsKey = f;
 },
 {
 glyphname = f_f_i;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -21984,7 +21466,7 @@ rightMetricsKey = i;
 },
 {
 glyphname = f_f_l;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -22145,7 +21627,7 @@ rightMetricsKey = l;
 },
 {
 glyphname = fi;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -22245,7 +21727,7 @@ unicode = FB01;
 },
 {
 glyphname = fl;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -22297,31 +21779,6 @@ nodes = (
 width = 486;
 },
 {
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"557 -11 OFFCURVE",
-"587 -7 OFFCURVE",
-"618 5 CURVE",
-"618 123 LINE",
-"606 120 OFFCURVE",
-"594 119 OFFCURVE",
-"586 119 CURVE SMOOTH",
-"567 119 OFFCURVE",
-"557 122 OFFCURVE",
-"557 145 CURVE SMOOTH",
-"557 697 LINE",
-"406 697 LINE",
-"406 125 LINE SMOOTH",
-"406 30 OFFCURVE",
-"463 -11 OFFCURVE",
-"535 -11 CURVE SMOOTH"
-);
-}
-);
-};
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
 paths = (
 {
@@ -22380,7 +21837,7 @@ unicode = FB02;
 },
 {
 glyphname = H_d_c_o.liga;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -22649,7 +22106,7 @@ rightMetricsKey = O;
 },
 {
 glyphname = h_d_c_o.liga;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -22918,7 +22375,7 @@ rightMetricsKey = O;
 },
 {
 glyphname = ordfeminine;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -23043,7 +22500,7 @@ unicode = 00AA;
 },
 {
 glyphname = ordmasculine;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -23134,7 +22591,7 @@ unicode = 00BA;
 {
 color = 1;
 glyphname = Delta;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 hints = (
@@ -23213,7 +22670,7 @@ unicode = 0394;
 {
 color = 1;
 glyphname = Omega;
-lastChange = "2020-02-11 10:15:06 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -23310,7 +22767,7 @@ unicode = 03A9;
 },
 {
 glyphname = mu;
-lastChange = "2020-05-23 03:41:40 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -23340,7 +22797,7 @@ unicode = 03BC;
 {
 color = 1;
 glyphname = pi;
-lastChange = "2020-02-11 10:15:06 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -23419,7 +22876,7 @@ unicode = 03C0;
 {
 color = 1;
 glyphname = zero;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -23510,7 +22967,7 @@ unicode = 0030;
 {
 color = 1;
 glyphname = one;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -23567,7 +23024,7 @@ unicode = 0031;
 {
 color = 1;
 glyphname = two;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -23648,7 +23105,7 @@ unicode = 0032;
 {
 color = 1;
 glyphname = three;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -23759,7 +23216,7 @@ unicode = 0033;
 {
 color = 1;
 glyphname = four;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -23834,7 +23291,7 @@ unicode = 0034;
 {
 color = 1;
 glyphname = five;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -23933,7 +23390,7 @@ unicode = 0035;
 {
 color = 1;
 glyphname = six;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -24038,7 +23495,7 @@ unicode = 0036;
 {
 color = 1;
 glyphname = seven;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -24087,7 +23544,7 @@ unicode = 0037;
 {
 color = 1;
 glyphname = eight;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -24236,7 +23693,7 @@ unicode = 0038;
 {
 color = 1;
 glyphname = nine;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -24341,7 +23798,7 @@ unicode = 0039;
 {
 color = 1;
 glyphname = zero.lf;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -24371,7 +23828,7 @@ rightKerningGroup = zero;
 {
 color = 1;
 glyphname = one.lf;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -24401,7 +23858,7 @@ rightKerningGroup = one;
 {
 color = 1;
 glyphname = two.lf;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -24431,7 +23888,7 @@ rightKerningGroup = two;
 {
 color = 1;
 glyphname = three.lf;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -24461,7 +23918,7 @@ rightKerningGroup = three;
 {
 color = 1;
 glyphname = four.lf;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -24491,7 +23948,7 @@ rightKerningGroup = four;
 {
 color = 1;
 glyphname = five.lf;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -24521,7 +23978,7 @@ rightKerningGroup = five;
 {
 color = 1;
 glyphname = six.lf;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -24551,7 +24008,7 @@ rightKerningGroup = six;
 {
 color = 1;
 glyphname = seven.lf;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -24581,7 +24038,7 @@ rightKerningGroup = seven;
 {
 color = 1;
 glyphname = eight.lf;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -24611,7 +24068,7 @@ rightKerningGroup = eight;
 {
 color = 1;
 glyphname = nine.lf;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -24641,7 +24098,7 @@ rightKerningGroup = zero;
 {
 color = 1;
 glyphname = onesuperior;
-lastChange = "2020-05-11 20:15:07 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -24697,7 +24154,7 @@ unicode = 00B9;
 {
 color = 1;
 glyphname = twosuperior;
-lastChange = "2020-05-11 20:15:07 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -24777,7 +24234,7 @@ unicode = 00B2;
 {
 color = 1;
 glyphname = threesuperior;
-lastChange = "2020-05-11 20:15:07 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -24886,7 +24343,7 @@ unicode = 00B3;
 },
 {
 glyphname = fraction;
-lastChange = "2020-05-11 20:14:41 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -24925,7 +24382,7 @@ unicode = 2044;
 {
 color = 1;
 glyphname = onehalf;
-lastChange = "2020-05-11 20:15:07 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -25055,7 +24512,7 @@ unicode = 00BD;
 {
 color = 1;
 glyphname = onequarter;
-lastChange = "2020-05-11 20:15:07 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -25177,7 +24634,7 @@ unicode = 00BC;
 {
 color = 1;
 glyphname = threequarters;
-lastChange = "2020-05-11 20:15:07 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -25353,7 +24810,7 @@ unicode = 00BE;
 {
 color = 1;
 glyphname = period;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -25394,7 +24851,7 @@ unicode = 002E;
 {
 color = 1;
 glyphname = comma;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -25435,7 +24892,7 @@ unicode = 002C;
 {
 color = 1;
 glyphname = colon;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -25494,7 +24951,7 @@ unicode = 003A;
 {
 color = 1;
 glyphname = semicolon;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -25553,7 +25010,7 @@ unicode = 003B;
 {
 color = 1;
 glyphname = ellipsis;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -25630,7 +25087,7 @@ unicode = 2026;
 {
 color = 1;
 glyphname = exclam;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -25689,7 +25146,7 @@ unicode = 0021;
 {
 color = 1;
 glyphname = exclamdown;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -25748,7 +25205,7 @@ unicode = 00A1;
 {
 color = 1;
 glyphname = question;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -25843,7 +25300,7 @@ unicode = 003F;
 {
 color = 1;
 glyphname = questiondown;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -25938,7 +25395,7 @@ unicode = 00BF;
 {
 color = 1;
 glyphname = periodcentered;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -25969,7 +25426,7 @@ unicode = 00B7;
 {
 color = 1;
 glyphname = bullet;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -26026,7 +25483,7 @@ unicode = 2022;
 {
 color = 1;
 glyphname = asterisk;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -26089,7 +25546,7 @@ unicode = 002A;
 {
 color = 1;
 glyphname = numbersign;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -26196,7 +25653,7 @@ unicode = 0023;
 {
 color = 1;
 glyphname = slash;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -26237,7 +25694,7 @@ unicode = 002F;
 {
 color = 1;
 glyphname = backslash;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -26278,7 +25735,7 @@ unicode = 005C;
 {
 color = 1;
 glyphname = triangularbullet;
-lastChange = "2020-02-11 10:10:21 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -26315,7 +25772,7 @@ unicode = 2023;
 {
 color = 1;
 glyphname = twodotenleader;
-lastChange = "2020-02-11 10:10:21 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -26372,7 +25829,7 @@ unicode = 2025;
 {
 color = 1;
 glyphname = period.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -26428,7 +25885,7 @@ rightKerningGroup = comma;
 {
 color = 1;
 glyphname = colon.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -26518,7 +25975,7 @@ rightKerningGroup = colon;
 {
 color = 1;
 glyphname = semicolon.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -26592,7 +26049,7 @@ rightKerningGroup = colon;
 {
 color = 1;
 glyphname = ellipsis.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -26716,7 +26173,7 @@ rightKerningGroup = comma;
 {
 color = 1;
 glyphname = exclam.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -26790,7 +26247,7 @@ rightKerningGroup = exclam;
 {
 color = 1;
 glyphname = exclamdown.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -26864,7 +26321,7 @@ rightKerningGroup = exclamdown;
 {
 color = 1;
 glyphname = question.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -26974,7 +26431,7 @@ rightKerningGroup = question;
 {
 color = 1;
 glyphname = questiondown.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -27084,7 +26541,7 @@ rightKerningGroup = questiondown;
 {
 color = 1;
 glyphname = twodotenleader.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -27172,7 +26629,7 @@ note = twodotenleader;
 {
 color = 1;
 glyphname = parenleft;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -27200,29 +26657,6 @@ nodes = (
 width = 271;
 },
 {
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"288 -79 LINE",
-"194 47 OFFCURVE",
-"151 141 OFFCURVE",
-"151 346 CURVE SMOOTH",
-"151 529 OFFCURVE",
-"196 658 OFFCURVE",
-"289 774 CURVE",
-"154 774 LINE",
-"86 701 OFFCURVE",
-"32 564 OFFCURVE",
-"32 348 CURVE SMOOTH",
-"32 184 OFFCURVE",
-"80 -3 OFFCURVE",
-"157 -79 CURVE"
-);
-}
-);
-};
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
 paths = (
 {
@@ -27256,7 +26690,7 @@ unicode = 0028;
 {
 color = 1;
 glyphname = parenright;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -27316,7 +26750,7 @@ unicode = 0029;
 {
 color = 1;
 glyphname = braceleft;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -27421,7 +26855,7 @@ unicode = 007B;
 {
 color = 1;
 glyphname = braceright;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -27526,7 +26960,7 @@ unicode = 007D;
 {
 color = 1;
 glyphname = bracketleft;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -27575,7 +27009,7 @@ unicode = 005B;
 {
 color = 1;
 glyphname = bracketright;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -27623,7 +27057,7 @@ unicode = 005D;
 {
 color = 1;
 glyphname = hyphen;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -27664,7 +27098,7 @@ unicode = 002D;
 {
 color = 1;
 glyphname = softhyphen;
-lastChange = "2020-02-11 10:10:21 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -27703,7 +27137,7 @@ unicode = 00AD;
 {
 color = 1;
 glyphname = endash;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -27746,7 +27180,7 @@ unicode = 2013;
 {
 color = 1;
 glyphname = emdash;
-lastChange = "2020-05-18 15:33:00 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -27787,7 +27221,7 @@ unicode = 2014;
 {
 color = 1;
 glyphname = horizontalbar;
-lastChange = "2020-02-11 10:10:45 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -27828,7 +27262,7 @@ unicode = 2015;
 {
 color = 1;
 glyphname = underscore;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -27869,7 +27303,7 @@ unicode = 005F;
 {
 color = 1;
 glyphname = quotesinglbase;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -27910,7 +27344,7 @@ unicode = 201A;
 {
 color = 1;
 glyphname = quotedblbase;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -27969,7 +27403,7 @@ unicode = 201E;
 {
 color = 1;
 glyphname = quotedblleft;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -28028,7 +27462,7 @@ unicode = 201C;
 {
 color = 1;
 glyphname = quotedblright;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -28087,7 +27521,7 @@ unicode = 201D;
 {
 color = 1;
 glyphname = quoteleft;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -28128,7 +27562,7 @@ unicode = 2018;
 {
 color = 1;
 glyphname = quoteright;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -28169,7 +27603,7 @@ unicode = 2019;
 {
 color = 1;
 glyphname = guillemetleft;
-lastChange = "2020-02-11 10:10:21 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -28234,7 +27668,7 @@ unicode = 00AB;
 {
 color = 1;
 glyphname = guillemetright;
-lastChange = "2020-02-11 10:10:21 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -28299,7 +27733,7 @@ unicode = 00BB;
 {
 color = 1;
 glyphname = guilsinglleft;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -28344,7 +27778,7 @@ unicode = 2039;
 {
 color = 1;
 glyphname = guilsinglright;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -28389,7 +27823,7 @@ unicode = 203A;
 {
 color = 1;
 glyphname = quotedbl;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -28448,7 +27882,7 @@ unicode = 0022;
 {
 color = 1;
 glyphname = quotesingle;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -28489,7 +27923,7 @@ unicode = 0027;
 {
 color = 1;
 glyphname = hyphen_greater.liga;
-lastChange = "2020-05-24 04:53:09 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -28518,7 +27952,7 @@ note = arrowright;
 {
 color = 1;
 glyphname = anoteleia;
-lastChange = "2020-02-11 10:10:21 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 hints = (
@@ -28584,7 +28018,7 @@ unicode = 0387;
 {
 color = 1;
 glyphname = questiongreek;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 hints = (
@@ -28670,7 +28104,7 @@ unicode = 037E;
 },
 {
 glyphname = questiongreek.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -28740,7 +28174,7 @@ width = 289;
 },
 {
 glyphname = space;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -28758,7 +28192,7 @@ unicode = 0020;
 },
 {
 glyphname = nbspace;
-lastChange = "2020-05-23 03:39:19 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -28777,7 +28211,7 @@ unicode = 00A0;
 },
 {
 glyphname = .notdef;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -28833,7 +28267,7 @@ note = .notdef;
 {
 color = 1;
 glyphname = austral;
-lastChange = "2020-02-11 10:11:56 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -28914,7 +28348,7 @@ unicode = 20B3;
 {
 color = 1;
 glyphname = cent;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -29055,7 +28489,7 @@ unicode = 00A2;
 {
 color = 1;
 glyphname = currency;
-lastChange = "2019-09-11 19:22:23 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -29168,7 +28602,7 @@ unicode = 00A4;
 {
 color = 1;
 glyphname = dollar;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -29332,7 +28766,7 @@ unicode = 0024;
 {
 color = 1;
 glyphname = euro;
-lastChange = "2020-02-11 10:11:56 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -29451,7 +28885,7 @@ unicode = 20AC;
 {
 color = 1;
 glyphname = florin;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -29544,7 +28978,7 @@ unicode = 0192;
 {
 color = 1;
 glyphname = hryvnia;
-lastChange = "2020-02-11 10:11:56 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -29621,60 +29055,6 @@ nodes = (
 width = 738;
 },
 {
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"465 -8 OFFCURVE",
-"578 49 OFFCURVE",
-"610 171 CURVE",
-"487 199 LINE",
-"469 135 OFFCURVE",
-"418 103 OFFCURVE",
-"354 103 CURVE SMOOTH",
-"283 103 OFFCURVE",
-"232 132 OFFCURVE",
-"232 187 CURVE SMOOTH",
-"232 254 OFFCURVE",
-"292 280 OFFCURVE",
-"358 305 CURVE",
-"193 305 LINE",
-"166 288 OFFCURVE",
-"107 253 OFFCURVE",
-"107 172 CURVE SMOOTH",
-"107 62 OFFCURVE",
-"215 -8 OFFCURVE",
-"346 -8 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"551 432 LINE",
-"563 455 OFFCURVE",
-"570 482 OFFCURVE",
-"570 515 CURVE SMOOTH",
-"570 638 OFFCURVE",
-"470 707 OFFCURVE",
-"353 707 CURVE SMOOTH",
-"267 707 OFFCURVE",
-"188 670 OFFCURVE",
-"140 585 CURVE",
-"245 521 LINE",
-"269 569 OFFCURVE",
-"310 596 OFFCURVE",
-"357 596 CURVE SMOOTH",
-"406 596 OFFCURVE",
-"445 566 OFFCURVE",
-"445 521 CURVE SMOOTH",
-"445 478 OFFCURVE",
-"407 454 OFFCURVE",
-"358 432 CURVE"
-);
-}
-);
-};
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
 paths = (
 {
@@ -29755,7 +29135,7 @@ unicode = 20B4;
 {
 color = 1;
 glyphname = peso;
-lastChange = "2020-02-11 10:11:56 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -29854,7 +29234,7 @@ unicode = 20B1;
 {
 color = 1;
 glyphname = ruble;
-lastChange = "2020-02-11 10:11:56 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -29959,7 +29339,7 @@ unicode = 20BD;
 {
 color = 1;
 glyphname = sterling;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -30075,7 +29455,7 @@ unicode = 00A3;
 {
 color = 1;
 glyphname = tenge;
-lastChange = "2020-02-11 10:11:56 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -30140,7 +29520,7 @@ unicode = 20B8;
 {
 color = 1;
 glyphname = yen;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 hints = (
@@ -30267,7 +29647,7 @@ unicode = 00A5;
 {
 color = 1;
 glyphname = plus;
-lastChange = "2020-05-24 04:51:28 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -30293,27 +29673,6 @@ nodes = (
 width = 576;
 },
 {
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"340 34 LINE",
-"340 234 LINE",
-"540 234 LINE",
-"540 346 LINE",
-"340 346 LINE",
-"340 546 LINE",
-"227 546 LINE",
-"227 346 LINE",
-"27 346 LINE",
-"27 234 LINE",
-"227 234 LINE",
-"227 34 LINE"
-);
-}
-);
-};
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
 paths = (
 {
@@ -30345,7 +29704,7 @@ unicode = 002B;
 {
 color = 1;
 glyphname = minus;
-lastChange = "2020-05-24 04:51:28 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -30388,7 +29747,7 @@ unicode = 2212;
 {
 color = 1;
 glyphname = multiply;
-lastChange = "2020-05-24 04:51:41 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -30447,40 +29806,9 @@ unicode = 00D7;
 {
 color = 1;
 glyphname = divide;
-lastChange = "2020-05-24 04:51:41 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"437 313 LINE",
-"437 323 LINE",
-"41 323 LINE",
-"41 313 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"244 78 LINE",
-"244 165 LINE",
-"234 165 LINE",
-"234 78 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"244 462 LINE",
-"244 548 LINE",
-"234 548 LINE",
-"234 462 LINE"
-);
-}
-);
-};
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
 paths = (
 {
@@ -30557,7 +29885,7 @@ unicode = 00F7;
 {
 color = 1;
 glyphname = equal;
-lastChange = "2020-05-24 04:51:41 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -30618,40 +29946,9 @@ unicode = 003D;
 {
 color = 1;
 glyphname = notequal;
-lastChange = "2020-05-24 04:51:41 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"82 0 LINE",
-"408 624 LINE",
-"398 624 LINE",
-"72 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"422 230 LINE",
-"422 240 LINE",
-"57 240 LINE",
-"57 230 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"422 396 LINE",
-"422 406 LINE",
-"57 406 LINE",
-"57 396 LINE"
-);
-}
-);
-};
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
 paths = (
 {
@@ -30685,37 +29982,6 @@ nodes = (
 width = 475;
 },
 {
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"156 0 LINE",
-"592 567 LINE",
-"486 567 LINE",
-"50 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"592 111 LINE",
-"592 233 LINE",
-"50 233 LINE",
-"50 111 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"592 348 LINE",
-"592 470 LINE",
-"50 470 LINE",
-"50 348 LINE"
-);
-}
-);
-};
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
 paths = (
 {
@@ -30759,7 +30025,7 @@ unicode = 2260;
 {
 color = 1;
 glyphname = greater;
-lastChange = "2020-05-24 04:51:43 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -30794,7 +30060,7 @@ unicode = 003E;
 {
 color = 1;
 glyphname = less;
-lastChange = "2020-05-24 04:51:41 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -30841,7 +30107,7 @@ unicode = 003C;
 {
 color = 1;
 glyphname = greaterequal;
-lastChange = "2020-05-24 04:51:43 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -30876,7 +30142,7 @@ unicode = 2265;
 {
 color = 1;
 glyphname = lessequal;
-lastChange = "2020-05-24 04:51:41 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -30943,7 +30209,7 @@ unicode = 2264;
 {
 color = 1;
 glyphname = plusminus;
-lastChange = "2020-05-24 04:51:41 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -31018,7 +30284,7 @@ unicode = 00B1;
 {
 color = 1;
 glyphname = approxequal;
-lastChange = "2020-05-24 04:51:41 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -31143,7 +30409,7 @@ unicode = 2248;
 {
 color = 1;
 glyphname = asciitilde;
-lastChange = "2020-05-24 04:51:41 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -31218,7 +30484,7 @@ unicode = 007E;
 {
 color = 1;
 glyphname = logicalnot;
-lastChange = "2020-05-24 04:51:41 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -31263,7 +30529,7 @@ unicode = 00AC;
 {
 color = 1;
 glyphname = asciicircum;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -31308,7 +30574,7 @@ unicode = 005E;
 {
 color = 1;
 glyphname = infinity;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -31457,7 +30723,7 @@ unicode = 221E;
 {
 color = 1;
 glyphname = integral;
-lastChange = "2020-02-11 10:11:56 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -31532,7 +30798,7 @@ unicode = 222B;
 {
 color = 1;
 glyphname = Ohm;
-lastChange = "2020-02-11 10:11:56 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -31631,7 +30897,7 @@ unicode = 2126;
 {
 color = 1;
 glyphname = increment;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -31687,7 +30953,7 @@ unicode = 2206;
 {
 color = 1;
 glyphname = product;
-lastChange = "2020-02-11 10:11:56 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -31742,7 +31008,7 @@ unicode = 220F;
 {
 color = 1;
 glyphname = summation;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -31802,7 +31068,7 @@ unicode = 2211;
 {
 color = 1;
 glyphname = radical;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -31850,7 +31116,7 @@ unicode = 221A;
 {
 color = 1;
 glyphname = micro;
-lastChange = "2020-05-23 03:41:00 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -31929,7 +31195,7 @@ unicode = 00B5;
 {
 color = 1;
 glyphname = partialdiff;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -32051,7 +31317,7 @@ unicode = 2202;
 {
 color = 1;
 glyphname = percent;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -32228,7 +31494,7 @@ unicode = 0025;
 {
 color = 1;
 glyphname = pertenthousand;
-lastChange = "2020-02-11 10:11:56 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -32539,7 +31805,7 @@ unicode = 2031;
 {
 color = 1;
 glyphname = perthousand;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -32784,7 +32050,7 @@ unicode = 2030;
 {
 color = 1;
 glyphname = divide.ss03;
-lastChange = "2020-05-24 04:52:21 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -32894,7 +32160,7 @@ rightMetricsKey = plus;
 {
 color = 1;
 glyphname = rightArrow;
-lastChange = "2020-05-24 04:53:06 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -32948,7 +32214,7 @@ unicode = 2192;
 {
 color = 1;
 glyphname = leftArrow;
-lastChange = "2020-05-24 04:54:11 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -32978,7 +32244,7 @@ unicode = 2190;
 {
 color = 1;
 glyphname = lozenge;
-lastChange = "2020-02-11 10:11:56 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -33043,70 +32309,9 @@ unicode = 25CA;
 {
 color = 1;
 glyphname = apple;
-lastChange = "2020-02-11 10:12:11 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"618 217 OFFCURVE",
-"626 225 OFFCURVE",
-"626 235 CURVE SMOOTH",
-"626 500 LINE SMOOTH",
-"626 510 OFFCURVE",
-"618 518 OFFCURVE",
-"608 518 CURVE SMOOTH",
-"598 518 OFFCURVE",
-"590 510 OFFCURVE",
-"590 500 CURVE SMOOTH",
-"590 235 LINE SMOOTH",
-"590 225 OFFCURVE",
-"598 217 OFFCURVE",
-"608 217 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"752 350 LINE SMOOTH",
-"762 350 OFFCURVE",
-"770 358 OFFCURVE",
-"770 368 CURVE SMOOTH",
-"770 378 OFFCURVE",
-"762 386 OFFCURVE",
-"752 386 CURVE SMOOTH",
-"680 386 LINE SMOOTH",
-"670 386 OFFCURVE",
-"662 378 OFFCURVE",
-"662 368 CURVE SMOOTH",
-"662 358 OFFCURVE",
-"670 350 OFFCURVE",
-"680 350 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"834 217 OFFCURVE",
-"842 225 OFFCURVE",
-"842 235 CURVE SMOOTH",
-"842 500 LINE SMOOTH",
-"842 510 OFFCURVE",
-"834 518 OFFCURVE",
-"824 518 CURVE SMOOTH",
-"814 518 OFFCURVE",
-"806 510 OFFCURVE",
-"806 500 CURVE SMOOTH",
-"806 235 LINE SMOOTH",
-"806 225 OFFCURVE",
-"814 217 OFFCURVE",
-"824 217 CURVE SMOOTH"
-);
-}
-);
-};
 guideLines = (
 {
 position = "{601, 368}";
@@ -33267,48 +32472,6 @@ nodes = (
 width = 941;
 },
 {
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"574 350 LINE SMOOTH",
-"584 350 OFFCURVE",
-"592 358 OFFCURVE",
-"592 368 CURVE SMOOTH",
-"592 378 OFFCURVE",
-"584 386 OFFCURVE",
-"574 386 CURVE SMOOTH",
-"502 386 LINE SMOOTH",
-"492 386 OFFCURVE",
-"484 378 OFFCURVE",
-"484 368 CURVE SMOOTH",
-"484 358 OFFCURVE",
-"492 350 OFFCURVE",
-"502 350 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"656 217 OFFCURVE",
-"664 225 OFFCURVE",
-"664 235 CURVE SMOOTH",
-"664 500 LINE SMOOTH",
-"664 510 OFFCURVE",
-"656 518 OFFCURVE",
-"646 518 CURVE SMOOTH",
-"636 518 OFFCURVE",
-"628 510 OFFCURVE",
-"628 500 CURVE SMOOTH",
-"628 235 LINE SMOOTH",
-"628 225 OFFCURVE",
-"636 217 OFFCURVE",
-"646 217 CURVE SMOOTH"
-);
-}
-);
-};
 guideLines = (
 {
 position = "{938, 500}";
@@ -33483,7 +32646,7 @@ unicode = F8FF;
 {
 color = 1;
 glyphname = at;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -33664,7 +32827,7 @@ unicode = 0040;
 {
 color = 1;
 glyphname = ampersand;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -33791,7 +32954,7 @@ unicode = 0026;
 {
 color = 1;
 glyphname = paragraph;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -33862,7 +33025,7 @@ unicode = 00B6;
 {
 color = 1;
 glyphname = section;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -34041,7 +33204,7 @@ unicode = 00A7;
 {
 color = 1;
 glyphname = copyright;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -34194,7 +33357,7 @@ unicode = 00A9;
 {
 color = 1;
 glyphname = registered;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -34357,7 +33520,7 @@ unicode = 00AE;
 {
 color = 1;
 glyphname = trademark;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -34442,7 +33605,7 @@ unicode = 2122;
 {
 color = 1;
 glyphname = degree;
-lastChange = "2020-02-11 10:11:56 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -34531,7 +33694,7 @@ unicode = 00B0;
 {
 color = 1;
 glyphname = bar;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -34572,7 +33735,7 @@ unicode = 007C;
 {
 color = 1;
 glyphname = brokenbar;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -34631,7 +33794,7 @@ unicode = 00A6;
 {
 color = 1;
 glyphname = dagger;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -34688,7 +33851,7 @@ unicode = 2020;
 {
 color = 1;
 glyphname = daggerdbl;
-lastChange = "2020-05-11 18:58:14 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -34761,7 +33924,7 @@ unicode = 2021;
 {
 color = 1;
 glyphname = numero;
-lastChange = "2020-02-11 10:11:56 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -34902,7 +34065,7 @@ unicode = 2116;
 {
 color = 1;
 glyphname = middledoubleacuteaccentmod;
-lastChange = "2020-02-12 14:03:25 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -34959,7 +34122,7 @@ unicode = 02F6;
 {
 color = 1;
 glyphname = middledoublegraveaccentmod;
-lastChange = "2020-02-12 14:03:29 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -35016,7 +34179,7 @@ unicode = 02F5;
 {
 color = 1;
 glyphname = less_hyphen.liga;
-lastChange = "2020-05-24 04:54:30 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -35042,7 +34205,7 @@ note = arrowleft;
 {
 color = 1;
 glyphname = "numeral-greek";
-lastChange = "2020-02-11 10:11:56 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 hints = (
@@ -35092,7 +34255,7 @@ unicode = 0374;
 {
 color = 1;
 glyphname = "lowernumeral-greek";
-lastChange = "2020-02-11 10:11:56 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 hints = (
@@ -35142,7 +34305,7 @@ unicode = 0375;
 {
 color = 1;
 glyphname = dieresiscomb;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -35219,7 +34382,7 @@ unicode = 0308;
 {
 color = 1;
 glyphname = dotaccentcomb;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -35278,7 +34441,7 @@ unicode = 0307;
 {
 color = 1;
 glyphname = gravecomb;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -35337,7 +34500,7 @@ unicode = 0300;
 {
 color = 1;
 glyphname = acutecomb;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -35396,7 +34559,7 @@ unicode = 0301;
 {
 color = 1;
 glyphname = hungarumlautcomb;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -35473,7 +34636,7 @@ unicode = 030B;
 {
 color = 1;
 glyphname = caroncomb.alt;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -35523,7 +34686,7 @@ note = caroncomb.alt;
 {
 color = 1;
 glyphname = circumflexcomb;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -35586,7 +34749,7 @@ unicode = 0302;
 {
 color = 1;
 glyphname = caroncomb;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -35649,7 +34812,7 @@ unicode = 030C;
 {
 color = 1;
 glyphname = brevecomb;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -35728,7 +34891,7 @@ unicode = 0306;
 {
 color = 1;
 glyphname = ringcomb;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -35837,7 +35000,7 @@ unicode = 030A;
 {
 color = 1;
 glyphname = tildecomb;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -35928,7 +35091,7 @@ unicode = 0303;
 {
 color = 1;
 glyphname = macroncomb;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -35987,7 +35150,7 @@ unicode = 0304;
 {
 color = 1;
 glyphname = hookabovecomb;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -36115,7 +35278,7 @@ unicode = 0309;
 {
 color = 1;
 glyphname = dblgravecomb;
-lastChange = "2020-02-12 14:03:42 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -36192,7 +35355,7 @@ unicode = 030F;
 {
 color = 1;
 glyphname = commaturnedabovecomb;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -36251,7 +35414,7 @@ unicode = 0312;
 {
 color = 1;
 glyphname = horncomb;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -36322,7 +35485,7 @@ unicode = 031B;
 {
 color = 1;
 glyphname = dotbelowcomb;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -36381,7 +35544,7 @@ unicode = 0323;
 {
 color = 1;
 glyphname = commaaccentcomb;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -36440,7 +35603,7 @@ unicode = 0326;
 {
 color = 1;
 glyphname = cedillacomb;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -36547,7 +35710,7 @@ unicode = 0327;
 {
 color = 1;
 glyphname = ogonekcomb;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -36630,7 +35793,7 @@ unicode = 0328;
 {
 color = 1;
 glyphname = strokeshortcomb;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -36681,7 +35844,7 @@ unicode = 0335;
 {
 color = 1;
 glyphname = strokelongcomb;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -36732,7 +35895,7 @@ unicode = 0336;
 {
 color = 1;
 glyphname = slashshortcomb;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -36783,7 +35946,7 @@ unicode = 0337;
 {
 color = 1;
 glyphname = slashlongcomb;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -36834,7 +35997,7 @@ unicode = 0338;
 {
 color = 1;
 glyphname = dieresis;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -36891,7 +36054,7 @@ unicode = 00A8;
 {
 color = 1;
 glyphname = dotaccent;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -36930,7 +36093,7 @@ unicode = 02D9;
 {
 color = 1;
 glyphname = grave;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -36969,7 +36132,7 @@ unicode = 0060;
 {
 color = 1;
 glyphname = acute;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -37008,7 +36171,7 @@ unicode = 00B4;
 {
 color = 1;
 glyphname = hungarumlaut;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -37065,7 +36228,7 @@ unicode = 02DD;
 {
 color = 1;
 glyphname = circumflex;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -37108,7 +36271,7 @@ unicode = 02C6;
 {
 color = 1;
 glyphname = caron;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -37151,7 +36314,7 @@ unicode = 02C7;
 {
 color = 1;
 glyphname = breve;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -37210,7 +36373,7 @@ unicode = 02D8;
 {
 color = 1;
 glyphname = ring;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -37299,7 +36462,7 @@ unicode = 02DA;
 {
 color = 1;
 glyphname = tilde;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -37370,7 +36533,7 @@ unicode = 02DC;
 {
 color = 1;
 glyphname = macron;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -37409,7 +36572,7 @@ unicode = 00AF;
 {
 color = 1;
 glyphname = cedilla;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -37496,7 +36659,7 @@ unicode = 00B8;
 {
 color = 1;
 glyphname = ogonek;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -37567,7 +36730,7 @@ unicode = 02DB;
 {
 color = 1;
 glyphname = ringcomb.case;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -37675,7 +36838,7 @@ note = uni030A;
 {
 color = 1;
 glyphname = slashshortcomb.case;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -37725,7 +36888,7 @@ note = uni0337;
 {
 color = 1;
 glyphname = slashlongcomb.case;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -37775,7 +36938,7 @@ note = uni0338;
 {
 color = 1;
 glyphname = dieresiscomb.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -37883,7 +37046,7 @@ note = uni0308;
 {
 color = 1;
 glyphname = dotaccentcomb.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -37957,7 +37120,7 @@ note = uni0307;
 {
 color = 1;
 glyphname = dotbelowcomb.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -38031,7 +37194,7 @@ note = uni0307;
 {
 color = 1;
 glyphname = dieresis.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -38139,7 +37302,7 @@ note = dieresis;
 {
 color = 1;
 glyphname = dotaccent.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -38213,7 +37376,7 @@ note = dotaccent;
 {
 color = 1;
 glyphname = tonos;
-lastChange = "2020-02-11 10:14:38 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -38275,7 +37438,7 @@ unicode = 0384;
 {
 color = 1;
 glyphname = tonos.case;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -38335,7 +37498,7 @@ width = 238;
 {
 color = 1;
 glyphname = dieresistonos;
-lastChange = "2020-02-12 14:00:25 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -38437,7 +37600,7 @@ unicode = 0385;
 {
 color = 1;
 glyphname = dieresistonos.ss03;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -38565,7 +37728,7 @@ width = 508;
 {
 color = 1;
 glyphname = brevecomb_acutecomb;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -38660,7 +37823,7 @@ width = 360;
 {
 color = 1;
 glyphname = brevecomb_gravecomb;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -38755,7 +37918,7 @@ width = 352;
 {
 color = 1;
 glyphname = brevecomb_hookabovecomb;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -38874,7 +38037,7 @@ width = 328;
 {
 color = 1;
 glyphname = brevecomb_tildecomb;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -39001,7 +38164,7 @@ width = 392;
 {
 color = 1;
 glyphname = circumflexcomb_acutecomb;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -39080,7 +38243,7 @@ width = 329;
 {
 color = 1;
 glyphname = circumflexcomb_gravecomb;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -39159,7 +38322,7 @@ width = 319;
 {
 color = 1;
 glyphname = circumflexcomb_hookabovecomb;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -39262,7 +38425,7 @@ width = 289;
 {
 color = 1;
 glyphname = circumflexcomb_tildecomb;
-lastChange = "2020-05-23 03:52:05 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 anchors = (
@@ -39373,7 +38536,7 @@ width = 371;
 {
 export = 0;
 glyphname = _areas;
-lastChange = "2020-05-23 03:52:10 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -40015,7 +39178,7 @@ width = 573;
 },
 {
 glyphname = IJacute;
-lastChange = "2020-05-23 03:52:10 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -40048,7 +39211,7 @@ rightKerningGroup = J;
 },
 {
 glyphname = ijacute;
-lastChange = "2020-05-23 03:52:10 +0000";
+lastChange = "2020-06-16 06:33:46 +0000";
 layers = (
 {
 components = (
@@ -44616,5 +43779,5 @@ manufacturer = "Hanken Design Co.";
 manufacturerURL = "https://hanken.co";
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 457;
+versionMinor = 458;
 }
