@@ -194,7 +194,6 @@ GSOffsetVertical = 10;
 verticalStems = (
 10
 );
-weightValue = 50;
 widthValue = 5;
 xHeight = 493;
 },
@@ -40841,8 +40840,8 @@ instances = (
 {
 interpolationWeight = 300;
 instanceInterpolations = {
-"957254E3-B7AD-4837-9092-D4428001DE8E" = 0.29412;
-"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 0.70588;
+"957254E3-B7AD-4837-9092-D4428001DE8E" = 0.25;
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 0.75;
 };
 name = Light;
 weightClass = Light;
@@ -40851,16 +40850,16 @@ weightClass = Light;
 interpolationWeight = 400;
 interpolationWidth = 5;
 instanceInterpolations = {
-"957254E3-B7AD-4837-9092-D4428001DE8E" = 0.41176;
-"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 0.58824;
+"957254E3-B7AD-4837-9092-D4428001DE8E" = 0.375;
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 0.625;
 };
 name = Regular;
 },
 {
 interpolationWeight = 500;
 instanceInterpolations = {
-"957254E3-B7AD-4837-9092-D4428001DE8E" = 0.52941;
-"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 0.47059;
+"957254E3-B7AD-4837-9092-D4428001DE8E" = 0.5;
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 0.5;
 };
 name = Medium;
 weightClass = Medium;
@@ -40868,8 +40867,8 @@ weightClass = Medium;
 {
 interpolationWeight = 600;
 instanceInterpolations = {
-"957254E3-B7AD-4837-9092-D4428001DE8E" = 0.64706;
-"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 0.35294;
+"957254E3-B7AD-4837-9092-D4428001DE8E" = 0.625;
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 0.375;
 };
 name = SemiBold;
 weightClass = SemiBold;
@@ -40878,8 +40877,8 @@ weightClass = SemiBold;
 interpolationWeight = 700;
 interpolationWidth = 5;
 instanceInterpolations = {
-"957254E3-B7AD-4837-9092-D4428001DE8E" = 0.76471;
-"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 0.23529;
+"957254E3-B7AD-4837-9092-D4428001DE8E" = 0.75;
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 0.25;
 };
 isBold = 1;
 linkStyle = Regular;
@@ -40889,8 +40888,8 @@ weightClass = Bold;
 {
 interpolationWeight = 800;
 instanceInterpolations = {
-"957254E3-B7AD-4837-9092-D4428001DE8E" = 0.88235;
-"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 0.11765;
+"957254E3-B7AD-4837-9092-D4428001DE8E" = 0.875;
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 0.125;
 };
 name = ExtraBold;
 weightClass = ExtraBold;
