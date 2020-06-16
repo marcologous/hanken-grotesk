@@ -1,5 +1,8 @@
 {
 .appVersion = "1339";
+DisplayStrings = (
+a
+);
 classes = (
 {
 automatic = 1;
@@ -10684,7 +10687,7 @@ rightKerningGroup = Z;
 {
 color = 1;
 glyphname = a;
-lastChange = "2020-05-25 08:23:36 +0000";
+lastChange = "2020-06-16 10:22:11 +0000";
 layers = (
 {
 anchors = (
@@ -10728,9 +10731,9 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"348 -5 OFFCURVE",
-"440 70 OFFCURVE",
-"440 198 CURVE",
+"344 -5 OFFCURVE",
+"438 89 OFFCURVE",
+"438 215 CURVE",
 "430 218 LINE",
 "430 96 OFFCURVE",
 "339 5 OFFCURVE",
@@ -10803,9 +10806,9 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"287 -11 OFFCURVE",
-"367 1 OFFCURVE",
-"409 112 CURVE",
+"317 -11 OFFCURVE",
+"387 1 OFFCURVE",
+"429 229 CURVE",
 "352 199 LINE",
 "352 147 OFFCURVE",
 "305 109 OFFCURVE",
