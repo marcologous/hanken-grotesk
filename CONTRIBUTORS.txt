@@ -10,3 +10,4 @@
 # Name <email address>
 
 Alfredo Marco Pradil <hello@hanken.co>
+Felipe Corrêa da Silva Sanches <juca@members.fsf.org>
