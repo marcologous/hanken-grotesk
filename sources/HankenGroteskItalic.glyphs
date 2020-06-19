@@ -116,7 +116,7 @@ custom = Thin;
 customParameters = (
 {
 name = typoAscender;
-value = 697;
+value = 1000;
 },
 {
 name = typoDescender;
@@ -136,7 +136,7 @@ value = 429;
 },
 {
 name = hheaAscender;
-value = 697;
+value = 1000;
 },
 {
 name = hheaDescender;
@@ -200,7 +200,7 @@ custom = Black;
 customParameters = (
 {
 name = typoAscender;
-value = 697;
+value = 1000;
 },
 {
 name = typoDescender;
@@ -220,7 +220,7 @@ value = 429;
 },
 {
 name = hheaAscender;
-value = 697;
+value = 1000;
 },
 {
 name = hheaDescender;
