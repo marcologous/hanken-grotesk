@@ -9,6 +9,8 @@ Type Specimens:
 
 <img src="images/HankenGrotesk_1.jpg">
 
-<img src="images/HankenGrotesk_2.jpg">
-
 <img src="images/HankenGrotesk_3.jpg">
+
+<img src="images/HankenGrotesk_5.jpg">
+
+<img src="images/HankenGrotesk_7.jpg">
