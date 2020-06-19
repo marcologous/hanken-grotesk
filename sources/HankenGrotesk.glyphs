@@ -52,7 +52,7 @@ name = locl;
 },
 {
 automatic = 1;
-code = "sub one by onesuperior;\012sub two by twosuperior;\012sub three by threesuperior;\012";
+code = "sub one by onesuperior;\012sub two by twosuperior;\012sub three by threesuperior;\012sub four by foursuperior;\012";
 name = sups;
 },
 {
@@ -126,7 +126,7 @@ custom = Thin;
 customParameters = (
 {
 name = typoAscender;
-value = 697;
+value = 1000;
 },
 {
 name = typoDescender;
@@ -146,7 +146,7 @@ value = 429;
 },
 {
 name = hheaAscender;
-value = 697;
+value = 1000;
 },
 {
 name = hheaDescender;
@@ -210,7 +210,7 @@ custom = Black;
 customParameters = (
 {
 name = typoAscender;
-value = 697;
+value = 1000;
 },
 {
 name = typoDescender;
@@ -230,7 +230,7 @@ value = 429;
 },
 {
 name = hheaAscender;
-value = 697;
+value = 1000;
 },
 {
 name = hheaDescender;
