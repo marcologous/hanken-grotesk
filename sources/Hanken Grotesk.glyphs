@@ -39887,6 +39887,34 @@ name = "Scale to UPM";
 value = "2000";
 }
 );
+instanceInterpolations = {
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 1;
+};
+name = Thin;
+weightClass = Thin;
+},
+{
+customParameters = (
+{
+name = "Scale to UPM";
+value = "2000";
+}
+);
+interpolationWeight = 200;
+instanceInterpolations = {
+"957254E3-B7AD-4837-9092-D4428001DE8E" = 0.125;
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 0.875;
+};
+name = ExtraLight;
+weightClass = ExtraLight;
+},
+{
+customParameters = (
+{
+name = "Scale to UPM";
+value = "2000";
+}
+);
 interpolationWeight = 300;
 instanceInterpolations = {
 "957254E3-B7AD-4837-9092-D4428001DE8E" = 0.25;
