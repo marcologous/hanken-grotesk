@@ -124,7 +124,7 @@ value = -303;
 },
 {
 name = typoLineGap;
-value = 303;
+value = 0;
 },
 {
 name = winAscent;
@@ -208,7 +208,7 @@ value = -303;
 },
 {
 name = typoLineGap;
-value = 303;
+value = 0;
 },
 {
 name = winAscent;
