@@ -176,7 +176,6 @@ italicAngle = 11;
 userData = {
 GSCornerRadius = 91;
 GSOffsetHorizontal = 5;
-GSOffsetKeepCompatible = 1;
 GSOffsetMakeStroke = 1;
 GSOffsetProportional = 1;
 GSOffsetVertical = 10;
@@ -3955,7 +3954,7 @@ unicode = 0134;
 {
 color = 1;
 glyphname = K;
-lastChange = "2020-06-16 11:57:07 +0000";
+lastChange = "2020-06-19 11:17:53 +0000";
 layers = (
 {
 anchors = (
@@ -3968,6 +3967,19 @@ name = top;
 position = "{434, 697}";
 }
 );
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"586 0 LINE",
+"413 457 LINE",
+"405 450 LINE",
+"575 0 LINE"
+);
+}
+);
+};
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
 paths = (
 {
@@ -3977,7 +3989,7 @@ nodes = (
 "132 209 LINE",
 "699 697 LINE",
 "684 697 LINE",
-"134 223 LINE",
+"134 224 LINE",
 "227 697 LINE",
 "217 697 LINE",
 "81 0 LINE"
@@ -3986,10 +3998,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"586 0 LINE",
-"413 457 LINE",
-"405 450 LINE",
-"575 0 LINE"
+"586.966 0 LINE",
+"414 456 LINE",
+"405 452 LINE",
+"576 0 LINE"
 );
 }
 );
@@ -14310,7 +14322,7 @@ unicode = 0135;
 {
 color = 1;
 glyphname = k;
-lastChange = "2020-06-16 11:57:07 +0000";
+lastChange = "2020-06-19 11:18:35 +0000";
 layers = (
 {
 anchors = (
@@ -14330,16 +14342,21 @@ closed = 1;
 nodes = (
 "65 0 LINE",
 "94 147 LINE",
-"281 307 LINE",
-"426 0 LINE",
-"438 0 LINE",
-"289 315 LINE",
 "497 493 LINE",
 "482 493 LINE",
 "96 162 LINE",
 "201 697 LINE",
 "191 697 LINE",
 "55 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"438 0 LINE",
+"288 318 LINE",
+"281 310 LINE",
+"427 0 LINE"
 );
 }
 );
@@ -14363,16 +14380,21 @@ closed = 1;
 nodes = (
 "160 0 LINE",
 "188 143 LINE",
-"253 206 LINE",
-"341 0 LINE",
-"520 0 LINE",
-"383 307 LINE",
 "599 493 LINE",
 "398 493 LINE",
 "224 330 LINE",
 "296 697 LINE",
 "145 697 LINE",
 "9 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"520 0 LINE",
+"376 322 LINE",
+"247 221 LINE",
+"341 0 LINE"
 );
 }
 );
