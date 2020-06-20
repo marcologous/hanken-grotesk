@@ -15,7 +15,7 @@ done
 rm output/*-backup-fonttools-prep-gasp.ttf
 
 cp METADATA.pb output
-# cp DESCRIPTION.*.html output
+cp DESCRIPTION.*.html output
 
 export OPTIONS="--no-progress"
 export OPTIONS="$OPTIONS --exclude-checkid /check/ftxvalidator" # We lack this on Travis.
