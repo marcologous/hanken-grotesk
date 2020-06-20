@@ -11,7 +11,7 @@ copyright = "Copyright 2020 The Hanken Grotesk Project Authors (https://github.c
 customParameters = (
 {
 name = licenseURL;
-value = "http://scripts.sil.org/OFL";
+value = "https://scripts.sil.org/OFL";
 },
 {
 name = license;
@@ -40953,5 +40953,5 @@ manufacturer = "Hanken Design Co.";
 manufacturerURL = "https://hanken.co";
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 459;
+versionMinor = 460;
 }

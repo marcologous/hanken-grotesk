@@ -11,7 +11,7 @@ copyright = "Copyright 2020 The Hanken Grotesk Project Authors (https://github.c
 customParameters = (
 {
 name = licenseURL;
-value = "http://scripts.sil.org/OFL";
+value = "https://scripts.sil.org/OFL";
 },
 {
 name = license;
@@ -27,7 +27,7 @@ name = vendorID;
 value = HDCO;
 }
 );
-date = "2020-06-18 14:28:34 +0000";
+date = "2020-06-20 06:37:10 +0000";
 designer = "Alfredo Marco Pradil";
 designerURL = "https://www.behance.net/pradil";
 disablesNiceNames = 1;
@@ -42376,5 +42376,5 @@ manufacturer = "Hanken Design Co.";
 manufacturerURL = "https://hanken.co";
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 459;
+versionMinor = 460;
 }
