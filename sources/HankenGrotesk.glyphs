@@ -14,6 +14,10 @@ name = licenseURL;
 value = "http://scripts.sil.org/OFL";
 },
 {
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+},
+{
 name = fsType;
 value = (
 );
@@ -154,16 +158,12 @@ name = hheaDescender;
 value = -303;
 },
 {
-name = strikeoutSize;
-value = 10;
-},
-{
 name = underlinePosition;
 value = -121;
 },
 {
 name = underlineThickness;
-value = 10;
+value = 40;
 },
 {
 name = paramArea;
@@ -238,16 +238,12 @@ name = hheaDescender;
 value = -303;
 },
 {
-name = strikeoutSize;
-value = 60;
-},
-{
 name = underlinePosition;
 value = -121;
 },
 {
 name = underlineThickness;
-value = 60;
+value = 40;
 },
 {
 name = paramArea;
@@ -23207,7 +23203,7 @@ unicode = 0031;
 {
 color = 1;
 glyphname = two;
-lastChange = "2020-06-16 10:24:20 +0000";
+lastChange = "2020-06-20 04:22:05 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -23281,14 +23277,6 @@ width = 585;
 },
 {
 associatedMasterId = "957254E3-B7AD-4837-9092-D4428001DE8E";
-background = {
-components = (
-{
-name = five;
-transform = "{1, 0, 0, 1, -10, 0}";
-}
-);
-};
 layerId = "805599D2-9756-4565-92F0-A626B06D5FF4";
 name = "Black [700]";
 paths = (
