@@ -14,7 +14,7 @@ done
 # Cleanup gftools mess:
 rm output/*-backup-fonttools-prep-gasp.ttf
 
-# cp METADATA.pb output
+cp METADATA.pb output
 # cp DESCRIPTION.*.html output
 
 export OPTIONS="--no-progress"
