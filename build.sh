@@ -19,6 +19,8 @@ cp METADATA.pb output
 
 export OPTIONS="--no-progress"
 export OPTIONS="$OPTIONS --exclude-checkid /check/ftxvalidator" # We lack this on Travis.
-export OPTIONS="$OPTIONS --exclude-checkid /check/varfont" # & this when making a variable font.
+export OPTIONS="$OPTIONS --exclude-checkid /check/varfont" # Delete this when making a variable font.
+export OPTIONS="$OPTIONS --exclude-checkid /check/fontdata_namecheck" # We confirmed that "Hanken Grotesk" is
+                                                                      # a good family name for the GFonts collection.
 export OPTIONS="$OPTIONS --loglevel INFO --ghmarkdown HankenGrotesk-fontbakery.md"
 fontbakery check-googlefonts $OPTIONS output/*.ttf
