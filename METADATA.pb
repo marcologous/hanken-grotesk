@@ -165,5 +165,5 @@ fonts {
   full_name: "Hanken Grotesk Black Italic"
   copyright: "Copyright 2020 The Hanken Grotesk Project Authors (https://github.com/marcologous/hanken-grotesk)"
 }
-subsets: "menu"
 subsets: "latin"
+subsets: "menu"
