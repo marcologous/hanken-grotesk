@@ -21169,37 +21169,13 @@ rightKerningGroup = z;
 },
 {
 glyphname = T_h;
-lastChange = "2020-06-19 16:50:53 +0000";
+lastChange = "2020-07-02 19:30:20 +0000";
 layers = (
 {
 anchors = (
 {
-name = bottom_1;
-position = "{206, 0}";
-},
-{
-name = bottom_2;
-position = "{715, 0}";
-},
-{
 name = caret_1;
 position = "{508.5, 0}";
-},
-{
-name = center_1;
-position = "{254, 247}";
-},
-{
-name = center_2;
-position = "{763, 247}";
-},
-{
-name = top_1;
-position = "{302, 493}";
-},
-{
-name = top_2;
-position = "{811, 493}";
 }
 );
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -21247,32 +21223,8 @@ width = 1017;
 {
 anchors = (
 {
-name = bottom_1;
-position = "{215, 0}";
-},
-{
-name = bottom_2;
-position = "{741, 0}";
-},
-{
 name = caret_1;
-position = "{526, 0}";
-},
-{
-name = center_1;
-position = "{263, 247}";
-},
-{
-name = center_2;
-position = "{789, 247}";
-},
-{
-name = top_1;
-position = "{311, 493}";
-},
-{
-name = top_2;
-position = "{837, 493}";
+position = "{450, 0}";
 }
 );
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
@@ -21324,9 +21276,15 @@ rightMetricsKey = h;
 },
 {
 glyphname = f_f;
-lastChange = "2020-07-02 18:59:42 +0000";
+lastChange = "2020-07-02 19:30:00 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{243, 0}";
+}
+);
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
 paths = (
 {
@@ -21372,7 +21330,7 @@ nodes = (
 closed = 1;
 nodes = (
 "187 549 LINE SMOOTH",
-"203 635 OFFCURVE",
+"204 635 OFFCURVE",
 "277 692 OFFCURVE",
 "370 692 CURVE SMOOTH",
 "406 692 OFFCURVE",
@@ -21389,6 +21347,12 @@ nodes = (
 width = 586;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{278, 0}";
+}
+);
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
 paths = (
 {
@@ -21459,9 +21423,19 @@ rightMetricsKey = f;
 },
 {
 glyphname = f_f_i;
-lastChange = "2020-07-02 18:56:24 +0000";
+lastChange = "2020-07-02 19:29:13 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{235.667, 0}";
+},
+{
+name = caret_2;
+position = "{471.333, 0}";
+}
+);
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
 paths = (
 {
@@ -21526,6 +21500,16 @@ nodes = (
 width = 707;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{293.333, 0}";
+},
+{
+name = caret_2;
+position = "{586.667, 0}";
+}
+);
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
 paths = (
 {
@@ -21598,9 +21582,19 @@ rightMetricsKey = i;
 },
 {
 glyphname = f_f_l;
-lastChange = "2020-07-02 18:59:31 +0000";
+lastChange = "2020-07-02 19:29:13 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{250, 0}";
+},
+{
+name = caret_2;
+position = "{500, 0}";
+}
+);
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
 paths = (
 {
@@ -21677,6 +21671,16 @@ nodes = (
 width = 750;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{300.667, 0}";
+},
+{
+name = caret_2;
+position = "{601.333, 0}";
+}
+);
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
 paths = (
 {
@@ -21761,9 +21765,15 @@ rightMetricsKey = l;
 },
 {
 glyphname = fi;
-lastChange = "2020-07-02 18:56:24 +0000";
+lastChange = "2020-07-02 19:29:13 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{235.5, 0}";
+}
+);
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
 paths = (
 {
@@ -21808,6 +21818,12 @@ nodes = (
 width = 471;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{286, 0}";
+}
+);
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
 paths = (
 {
@@ -21861,9 +21877,15 @@ unicode = FB01;
 },
 {
 glyphname = fl;
-lastChange = "2020-07-02 18:59:36 +0000";
+lastChange = "2020-07-02 19:29:13 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{243, 0}";
+}
+);
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
 paths = (
 {
@@ -21913,6 +21935,12 @@ nodes = (
 width = 486;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{302.5, 0}";
+}
+);
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
 paths = (
 {
