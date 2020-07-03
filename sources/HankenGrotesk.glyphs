@@ -30632,7 +30632,7 @@ unicode = 003E;
 {
 color = 1;
 glyphname = less;
-lastChange = "2020-06-16 10:24:20 +0000";
+lastChange = "2020-07-03 17:00:42 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -39064,6 +39064,10 @@ customParameters = (
 {
 name = "Scale to UPM";
 value = "2000";
+},
+{
+name = postscriptFontName;
+value = HankenGrotesk;
 }
 );
 interpolationWeight = 400;
