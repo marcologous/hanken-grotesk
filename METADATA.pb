@@ -62,8 +62,8 @@ fonts {
   style: "normal"
   weight: 400
   filename: "HankenGrotesk-Regular.ttf"
-  post_script_name: "HankenGrotesk"
-  full_name: "Hanken Grotesk"
+  post_script_name: "HankenGrotesk-Regular"
+  full_name: "Hanken Grotesk Regular"
   copyright: "Copyright 2020 The Hanken Grotesk Project Authors (https://github.com/marcologous/hanken-grotesk)"
 }
 fonts {
