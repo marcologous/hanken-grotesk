@@ -39066,6 +39066,10 @@ name = "Scale to UPM";
 value = "2000";
 },
 {
+name = postscriptFullName;
+value = "Hanken Grotesk";
+},
+{
 name = postscriptFontName;
 value = HankenGrotesk;
 }
