@@ -1,7 +1,8 @@
 {
 .appVersion = "1342";
 DisplayStrings = (
-"/Ncommaaccent"
+"/Ncommaaccent",
+ECEEUIEJIMEU
 );
 classes = (
 {
@@ -1546,7 +1547,7 @@ unicode = 0042;
 {
 color = 1;
 glyphname = C;
-lastChange = "2020-06-16 10:24:20 +0000";
+lastChange = "2020-07-05 19:58:45 +0000";
 layers = (
 {
 anchors = (
@@ -3819,7 +3820,7 @@ unicode = 0128;
 {
 color = 1;
 glyphname = J;
-lastChange = "2020-07-04 09:03:07 +0000";
+lastChange = "2020-07-05 20:00:23 +0000";
 layers = (
 {
 anchors = (
@@ -7489,7 +7490,7 @@ unicode = 021A;
 {
 color = 1;
 glyphname = U;
-lastChange = "2020-06-16 10:24:20 +0000";
+lastChange = "2020-07-05 19:59:58 +0000";
 layers = (
 {
 anchors = (
@@ -39160,9 +39161,9 @@ kerning = {
 "@MMK_R_z" = -41;
 };
 "@MMK_L_E" = {
-"@MMK_R_C" = -54;
-"@MMK_R_J" = -52;
-"@MMK_R_U" = -36;
+"@MMK_R_C" = -30;
+"@MMK_R_J" = -10;
+"@MMK_R_U" = -10;
 "@MMK_R_a" = -43;
 "@MMK_R_asterisk" = -34;
 "@MMK_R_b" = -33;
