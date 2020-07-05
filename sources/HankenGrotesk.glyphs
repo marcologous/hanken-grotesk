@@ -1,7 +1,8 @@
 {
 .appVersion = "1342";
 DisplayStrings = (
-"/Ncommaaccent"
+"/Ncommaaccent",
+"3"
 );
 classes = (
 {
@@ -24002,7 +24003,7 @@ unicode = 0032;
 {
 color = 1;
 glyphname = three;
-lastChange = "2020-07-05 06:13:02 +0000";
+lastChange = "2020-07-05 19:39:54 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -24034,9 +24035,9 @@ nodes = (
 "450 534 CURVE SMOOTH",
 "450 401 OFFCURVE",
 "317 374 OFFCURVE",
-"232 375 CURVE",
-"232 365 LINE",
-"340 364 OFFCURVE",
+"222 375 CURVE",
+"222 365 LINE",
+"344 364 OFFCURVE",
 "486 332 OFFCURVE",
 "486 190 CURVE SMOOTH",
 "486 79 OFFCURVE",
@@ -24111,7 +24112,7 @@ unicode = 0033;
 {
 color = 1;
 glyphname = four;
-lastChange = "2020-06-16 10:24:20 +0000";
+lastChange = "2020-07-05 18:59:09 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
