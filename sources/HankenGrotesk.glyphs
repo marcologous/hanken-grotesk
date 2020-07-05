@@ -11844,7 +11844,7 @@ unicode = 0062;
 {
 color = 1;
 glyphname = c;
-lastChange = "2020-07-04 11:11:37 +0000";
+lastChange = "2020-07-05 20:42:14 +0000";
 layers = (
 {
 anchors = (
@@ -13548,7 +13548,7 @@ unicode = 0066;
 {
 color = 1;
 glyphname = g;
-lastChange = "2020-07-05 20:13:15 +0000";
+lastChange = "2020-07-05 20:42:34 +0000";
 layers = (
 {
 anchors = (
@@ -26020,7 +26020,7 @@ unicode = 2026;
 {
 color = 1;
 glyphname = exclam;
-lastChange = "2020-06-16 10:24:20 +0000";
+lastChange = "2020-07-05 20:43:12 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -40062,9 +40062,7 @@ kerning = {
 "@MMK_R_a" = -20;
 "@MMK_R_asterisk" = -12;
 "@MMK_R_backslash" = -44;
-"@MMK_R_exclam" = -30;
 "@MMK_R_f" = -24;
-"@MMK_R_g" = -23;
 "@MMK_R_germandbls" = -31;
 "@MMK_R_j" = -29;
 "@MMK_R_l" = -29;
@@ -41265,10 +41263,6 @@ quotesingle = -37;
 "@MMK_R_question" = -37;
 "@MMK_R_slash" = -8;
 "@MMK_R_x" = -10;
-};
-"@MMK_L_d" = {
-"@MMK_R_c" = -170;
-"@MMK_R_g" = -150;
 };
 "@MMK_L_e" = {
 "@MMK_R_T" = -81;
