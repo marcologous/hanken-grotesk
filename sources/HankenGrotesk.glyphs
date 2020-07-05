@@ -1,8 +1,7 @@
 {
 .appVersion = "1342";
 DisplayStrings = (
-"/Ncommaaccent",
-"3"
+"/Ncommaaccent"
 );
 classes = (
 {
@@ -1828,7 +1827,7 @@ unicode = 010A;
 {
 color = 1;
 glyphname = D;
-lastChange = "2020-07-04 09:36:35 +0000";
+lastChange = "2020-07-05 19:52:45 +0000";
 layers = (
 {
 anchors = (
@@ -6708,7 +6707,7 @@ unicode = 0156;
 {
 color = 1;
 glyphname = S;
-lastChange = "2020-06-16 10:24:20 +0000";
+lastChange = "2020-07-05 19:50:58 +0000";
 layers = (
 {
 anchors = (
@@ -39163,7 +39162,6 @@ kerning = {
 "@MMK_L_E" = {
 "@MMK_R_C" = -54;
 "@MMK_R_J" = -52;
-"@MMK_R_S" = -63;
 "@MMK_R_U" = -36;
 "@MMK_R_a" = -43;
 "@MMK_R_asterisk" = -34;
@@ -39192,7 +39190,7 @@ kerning = {
 "@MMK_R_A" = -105;
 "@MMK_R_C" = -55;
 "@MMK_R_J" = -74;
-"@MMK_R_S" = -77;
+"@MMK_R_S" = -20;
 "@MMK_R_U" = -27;
 "@MMK_R_a" = -83;
 "@MMK_R_asterisk" = -25;
