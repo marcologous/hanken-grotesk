@@ -2,7 +2,7 @@
 .appVersion = "1342";
 DisplayStrings = (
 "/Ncommaaccent",
-s
+"/quoteright g"
 );
 classes = (
 {
@@ -10360,7 +10360,7 @@ rightKerningGroup = Z;
 {
 color = 1;
 glyphname = a;
-lastChange = "2020-07-05 20:15:02 +0000";
+lastChange = "2020-07-06 17:09:08 +0000";
 layers = (
 {
 anchors = (
@@ -12455,20 +12455,22 @@ unicode = 00F0;
 },
 {
 glyphname = dcaron;
-lastChange = "2020-07-05 20:16:27 +0000";
+lastChange = "2020-07-06 17:08:14 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = d;
 },
 {
+alignment = -1;
 name = caroncomb.alt;
 transform = "{1, 0, 0, 1, 518, 0}";
 }
 );
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
-width = 604;
+width = 664;
 },
 {
 components = (
@@ -12530,7 +12532,7 @@ unicode = 0111;
 {
 color = 1;
 glyphname = e;
-lastChange = "2020-06-19 15:12:14 +0000";
+lastChange = "2020-07-06 17:08:58 +0000";
 layers = (
 {
 anchors = (
@@ -13549,7 +13551,7 @@ unicode = 0066;
 {
 color = 1;
 glyphname = g;
-lastChange = "2020-07-06 13:26:57 +0000";
+lastChange = "2020-07-06 17:09:28 +0000";
 layers = (
 {
 anchors = (
@@ -17847,7 +17849,7 @@ unicode = 0157;
 {
 color = 1;
 glyphname = s;
-lastChange = "2020-07-06 13:51:26 +0000";
+lastChange = "2020-07-06 17:08:41 +0000";
 layers = (
 {
 anchors = (
@@ -18589,7 +18591,7 @@ unicode = 021B;
 {
 color = 1;
 glyphname = u;
-lastChange = "2020-06-16 10:24:20 +0000";
+lastChange = "2020-07-06 17:10:17 +0000";
 layers = (
 {
 anchors = (
@@ -40473,7 +40475,11 @@ quotesingle = 3;
 };
 "@MMK_L_quoteright" = {
 "@MMK_R_A" = -50;
+"@MMK_R_a" = -20;
+"@MMK_R_c" = -60;
 "@MMK_R_d" = -50;
+"@MMK_R_g" = -40;
+"@MMK_R_u" = -20;
 };
 "@MMK_L_r" = {
 "@MMK_R_A" = -95;
@@ -41435,8 +41441,12 @@ x = -23;
 "@MMK_R_lslash" = -12;
 };
 "@MMK_L_quoteright" = {
-"@MMK_R_a" = -140;
+"@MMK_R_a" = -100;
+"@MMK_R_c" = -120;
 "@MMK_R_d" = -120;
+"@MMK_R_g" = -120;
+"@MMK_R_s" = -100;
+"@MMK_R_u" = -80;
 };
 "@MMK_L_r" = {
 "@MMK_R_A" = -75;
