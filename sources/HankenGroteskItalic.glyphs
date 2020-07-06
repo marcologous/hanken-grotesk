@@ -1,8 +1,5 @@
 {
 .appVersion = "1342";
-DisplayStrings = (
-E
-);
 classes = (
 {
 automatic = 1;
@@ -9151,7 +9148,7 @@ unicode = 1EF8;
 {
 color = 1;
 glyphname = Z;
-lastChange = "2020-06-16 11:57:07 +0000";
+lastChange = "2020-07-06 04:00:10 +0000";
 layers = (
 {
 anchors = (
@@ -9212,15 +9209,15 @@ closed = 1;
 nodes = (
 "537 0 LINE",
 "565 144 LINE",
-"146 144 LINE",
-"155 88 LINE",
-"650 585 LINE",
+"167 144 LINE",
+"180 113 LINE",
+"645 561 LINE",
 "672 697 LINE",
 "126 697 LINE",
 "98 553 LINE",
-"496 553 LINE",
-"486 607 LINE",
-"-12 107 LINE",
+"476 553 LINE",
+"463 584 LINE",
+"-7 130 LINE",
 "-33 0 LINE"
 );
 }
