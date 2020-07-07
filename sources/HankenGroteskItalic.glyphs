@@ -37578,7 +37578,7 @@ rightMetricsKey = o;
 {
 color = 1;
 glyphname = brevecomb_acutecomb;
-lastChange = "2020-07-07 08:06:36 +0000";
+lastChange = "2020-07-07 08:19:32 +0000";
 layers = (
 {
 anchors = (
@@ -37588,7 +37588,7 @@ position = "{256, 493}";
 },
 {
 name = top;
-position = "{325, 847}";
+position = "{317, 807}";
 }
 );
 guideLines = (
@@ -37605,8 +37605,8 @@ paths = (
 closed = 1;
 nodes = (
 "364 569 OFFCURVE",
-"424 614 OFFCURVE",
-"440 697 CURVE",
+"425 614 OFFCURVE",
+"441 697 CURVE",
 "431 697 LINE",
 "416 620 OFFCURVE",
 "360 579 OFFCURVE",
@@ -37636,7 +37636,7 @@ nodes = (
 );
 }
 );
-width = 416;
+width = 417;
 },
 {
 anchors = (
@@ -37703,7 +37703,7 @@ rightMetricsKey = o;
 {
 color = 1;
 glyphname = brevecomb_gravecomb;
-lastChange = "2020-07-07 08:06:42 +0000";
+lastChange = "2020-07-07 08:19:21 +0000";
 layers = (
 {
 anchors = (
@@ -37713,7 +37713,7 @@ position = "{256, 493}";
 },
 {
 name = top;
-position = "{325, 847}";
+position = "{317, 807}";
 }
 );
 guideLines = (
@@ -37730,8 +37730,8 @@ paths = (
 closed = 1;
 nodes = (
 "364 569 OFFCURVE",
-"424 614 OFFCURVE",
-"440 697 CURVE",
+"425 614 OFFCURVE",
+"441 697 CURVE",
 "431 697 LINE",
 "416 620 OFFCURVE",
 "360 579 OFFCURVE",
@@ -37754,14 +37754,14 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"316 668 LINE",
-"259 807 LINE",
-"247 807 LINE",
-"304 668 LINE"
+"305 668 LINE",
+"248 807 LINE",
+"237 807 LINE",
+"294 668 LINE"
 );
 }
 );
-width = 416;
+width = 417;
 },
 {
 anchors = (
@@ -37771,7 +37771,7 @@ position = "{215, 493}";
 },
 {
 name = top;
-position = "{217, 901}";
+position = "{282, 837}";
 }
 );
 guideLines = (
@@ -37828,7 +37828,7 @@ rightMetricsKey = o;
 {
 color = 1;
 glyphname = brevecomb_hookabovecomb;
-lastChange = "2020-07-07 07:58:16 +0000";
+lastChange = "2020-07-07 08:18:55 +0000";
 layers = (
 {
 anchors = (
@@ -37852,8 +37852,8 @@ paths = (
 closed = 1;
 nodes = (
 "364 569 OFFCURVE",
-"424 614 OFFCURVE",
-"440 697 CURVE",
+"425 614 OFFCURVE",
+"441 697 CURVE",
 "431 697 LINE",
 "416 620 OFFCURVE",
 "360 579 OFFCURVE",
@@ -37876,26 +37876,26 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"332 671 OFFCURVE",
-"390 695 OFFCURVE",
-"390 754 CURVE SMOOTH",
-"390 799 OFFCURVE",
-"342 827 OFFCURVE",
-"279 827 CURVE SMOOTH",
-"265 827 LINE",
-"263 817 LINE",
-"278 817 LINE SMOOTH",
-"332 817 OFFCURVE",
-"380 795 OFFCURVE",
-"380 755 CURVE SMOOTH",
-"380 703 OFFCURVE",
-"328 679 OFFCURVE",
-"266 672 CURVE",
-"268 662 LINE"
+"312 671 OFFCURVE",
+"370 695 OFFCURVE",
+"370 754 CURVE SMOOTH",
+"370 799 OFFCURVE",
+"322 827 OFFCURVE",
+"259 827 CURVE SMOOTH",
+"245 827 LINE",
+"243 817 LINE",
+"258 817 LINE SMOOTH",
+"312 817 OFFCURVE",
+"360 795 OFFCURVE",
+"360 755 CURVE SMOOTH",
+"360 703 OFFCURVE",
+"308 679 OFFCURVE",
+"246 672 CURVE",
+"248 662 LINE"
 );
 }
 );
-width = 416;
+width = 417;
 },
 {
 anchors = (
@@ -39275,7 +39275,7 @@ rightMetricsKey = o;
 {
 color = 1;
 glyphname = circumflexcomb_hookabovecomb.case;
-lastChange = "2020-07-07 07:55:10 +0000";
+lastChange = "2020-07-07 08:20:05 +0000";
 layers = (
 {
 anchors = (
@@ -39365,26 +39365,26 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"436 843 OFFCURVE",
-"491 855 OFFCURVE",
-"504 921 CURVE SMOOTH",
-"515 979 OFFCURVE",
-"479 1011 OFFCURVE",
-"384 1011 CURVE SMOOTH",
-"369 1011 LINE",
-"353 933 LINE",
-"368 933 LINE SMOOTH",
-"393 933 OFFCURVE",
-"420 933 OFFCURVE",
-"416 912 CURVE SMOOTH",
-"413 895 OFFCURVE",
-"398 890 OFFCURVE",
-"375 888 CURVE",
-"381 836 LINE"
+"416 843 OFFCURVE",
+"471 855 OFFCURVE",
+"484 921 CURVE SMOOTH",
+"495 979 OFFCURVE",
+"459 1011 OFFCURVE",
+"364 1011 CURVE SMOOTH",
+"349 1011 LINE",
+"333 933 LINE",
+"348 933 LINE SMOOTH",
+"373 933 OFFCURVE",
+"400 933 OFFCURVE",
+"396 912 CURVE SMOOTH",
+"393 895 OFFCURVE",
+"378 890 OFFCURVE",
+"355 888 CURVE",
+"361 836 LINE"
 );
 }
 );
-width = 380;
+width = 360;
 }
 );
 leftMetricsKey = o;
