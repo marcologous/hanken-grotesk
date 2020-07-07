@@ -1,7 +1,8 @@
 {
 .appVersion = "1342";
 DisplayStrings = (
-"+/minus ×÷=/notequal ></greaterequal/lessequal ±%/approxequal ~¬"
+"+/minus ×÷=/notequal ></greaterequal/lessequal ±%/approxequal ~¬",
+"/florin"
 );
 classes = (
 {
@@ -28728,7 +28729,7 @@ unicode = 20AC;
 {
 color = 1;
 glyphname = florin;
-lastChange = "2020-07-06 17:21:03 +0000";
+lastChange = "2020-07-07 08:38:31 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -28784,10 +28785,10 @@ nodes = (
 "390 381 LINE",
 "412 493 LINE",
 "311 493 LINE",
-"323 554 LINE SMOOTH",
+"319 534 LINE SMOOTH",
 "329 586 OFFCURVE",
 "350 591 OFFCURVE",
-"361 591 CURVE SMOOTH",
+"367 591 CURVE SMOOTH",
 "381 591 OFFCURVE",
 "393 581 OFFCURVE",
 "405 564 CURVE",

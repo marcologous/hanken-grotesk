@@ -1,7 +1,8 @@
 {
 .appVersion = "1342";
 DisplayStrings = (
-"/Ncommaaccent"
+"/Ncommaaccent",
+"/florin"
 );
 classes = (
 {
@@ -29555,7 +29556,7 @@ unicode = 20AC;
 {
 color = 1;
 glyphname = florin;
-lastChange = "2020-06-16 10:24:20 +0000";
+lastChange = "2020-07-07 08:38:59 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -29611,12 +29612,12 @@ nodes = (
 "398 381 LINE",
 "398 493 LINE",
 "297 493 LINE",
-"297 554 LINE SMOOTH",
-"297 586 OFFCURVE",
-"317 591 OFFCURVE",
-"328 591 CURVE SMOOTH",
-"348 591 OFFCURVE",
-"362 581 OFFCURVE",
+"297 544 LINE SMOOTH",
+"297 576 OFFCURVE",
+"309 591 OFFCURVE",
+"334 591 CURVE SMOOTH",
+"347 591 OFFCURVE",
+"361 582 OFFCURVE",
 "377 564 CURVE",
 "458 660 LINE",
 "425 697 OFFCURVE",
