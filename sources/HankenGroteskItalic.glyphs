@@ -24813,7 +24813,7 @@ unicode = 003B;
 {
 color = 1;
 glyphname = ellipsis;
-lastChange = "2020-07-07 03:54:34 +0000";
+lastChange = "2020-07-07 05:23:09 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -24889,32 +24889,32 @@ paths = (
 {
 closed = 1;
 nodes = (
-"550 0 LINE",
-"567 87 LINE",
-"477 87 LINE",
-"460 0 LINE"
+"491 0 LINE",
+"508 87 LINE",
+"418 87 LINE",
+"401 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"122 0 LINE",
-"139 87 LINE",
-"48 87 LINE",
-"31 0 LINE"
+"123 0 LINE",
+"140 87 LINE",
+"49 87 LINE",
+"32 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"336 0 LINE",
-"353 87 LINE",
-"262 87 LINE",
-"245 0 LINE"
+"307 0 LINE",
+"324 87 LINE",
+"233 87 LINE",
+"216 0 LINE"
 );
 }
 );
-width = 678;
+width = 618;
 }
 );
 leftKerningGroup = comma;
@@ -26377,7 +26377,7 @@ rightKerningGroup = questiondown;
 {
 color = 1;
 glyphname = periodcentered.ss03;
-lastChange = "2020-07-06 17:21:08 +0000";
+lastChange = "2020-07-07 05:23:18 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -26385,22 +26385,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"166 333 OFFCURVE",
-"174 343 OFFCURVE",
-"174 352 CURVE SMOOTH",
-"174 359 OFFCURVE",
-"170 365 OFFCURVE",
-"160 365 CURVE SMOOTH",
-"148 365 OFFCURVE",
-"140 355 OFFCURVE",
-"140 346 CURVE SMOOTH",
-"140 339 OFFCURVE",
-"144 333 OFFCURVE",
-"154 333 CURVE SMOOTH"
+"165 333 OFFCURVE",
+"173 343 OFFCURVE",
+"173 352 CURVE SMOOTH",
+"173 359 OFFCURVE",
+"169 365 OFFCURVE",
+"159 365 CURVE SMOOTH",
+"147 365 OFFCURVE",
+"139 355 OFFCURVE",
+"139 346 CURVE SMOOTH",
+"139 339 OFFCURVE",
+"143 333 OFFCURVE",
+"153 333 CURVE SMOOTH"
 );
 }
 );
-width = 316;
+width = 273;
 },
 {
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
@@ -26408,22 +26408,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"218 264 OFFCURVE",
-"269 311 OFFCURVE",
-"269 367 CURVE SMOOTH",
-"269 406 OFFCURVE",
-"240 435 OFFCURVE",
-"198 435 CURVE SMOOTH",
-"144 435 OFFCURVE",
-"95 388 OFFCURVE",
-"95 332 CURVE SMOOTH",
-"95 293 OFFCURVE",
-"124 264 OFFCURVE",
-"165 264 CURVE SMOOTH"
+"161 264 OFFCURVE",
+"212 311 OFFCURVE",
+"212 367 CURVE SMOOTH",
+"212 406 OFFCURVE",
+"183 435 OFFCURVE",
+"141 435 CURVE SMOOTH",
+"87 435 OFFCURVE",
+"38 388 OFFCURVE",
+"38 332 CURVE SMOOTH",
+"38 293 OFFCURVE",
+"67 264 OFFCURVE",
+"108 264 CURVE SMOOTH"
 );
 }
 );
-width = 254;
+width = 210;
 }
 );
 leftKerningGroup = periodcentered;
