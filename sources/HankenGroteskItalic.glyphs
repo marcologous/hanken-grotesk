@@ -1,7 +1,8 @@
 {
 .appVersion = "1342";
 DisplayStrings = (
-"+/minus ×÷=/notequal ></greaterequal/lessequal ±%/approxequal ~¬"
+"+/minus ×÷=/notequal ></greaterequal/lessequal ±%/approxequal ~¬",
+"Ç"
 );
 classes = (
 {
@@ -35379,7 +35380,7 @@ unicode = 0326;
 {
 color = 1;
 glyphname = cedillacomb;
-lastChange = "2020-07-06 17:21:03 +0000";
+lastChange = "2020-07-07 05:36:37 +0000";
 layers = (
 {
 anchors = (
@@ -35440,32 +35441,32 @@ paths = (
 {
 closed = 1;
 nodes = (
-"72 -260 OFFCURVE",
-"139 -193 OFFCURVE",
-"139 -114 CURVE SMOOTH",
-"139 -73 OFFCURVE",
-"113 -48 OFFCURVE",
-"74 -40 CURVE",
+"86 -260 OFFCURVE",
+"143 -202 OFFCURVE",
+"143 -134 CURVE SMOOTH",
+"143 -84 OFFCURVE",
+"112 -56 OFFCURVE",
+"62 -50 CURVE",
 "119 0 LINE",
 "31 0 LINE",
 "-51 -97 LINE",
-"-12 -97 OFFCURVE",
-"49 -96 OFFCURVE",
-"49 -135 CURVE SMOOTH",
-"49 -162 OFFCURVE",
-"31 -175 OFFCURVE",
-"9 -175 CURVE SMOOTH",
-"-2 -175 OFFCURVE",
-"-14 -171 OFFCURVE",
-"-26 -164 CURVE",
+"18 -97 OFFCURVE",
+"46 -108 OFFCURVE",
+"46 -136 CURVE SMOOTH",
+"46 -158 OFFCURVE",
+"30 -174 OFFCURVE",
+"5 -174 CURVE SMOOTH",
+"-6 -174 OFFCURVE",
+"-17 -170 OFFCURVE",
+"-27 -165 CURVE",
 "-86 -237 LINE",
-"-57 -258 OFFCURVE",
-"-25 -260 OFFCURVE",
-"-11 -260 CURVE SMOOTH"
+"-67 -251 OFFCURVE",
+"-32 -260 OFFCURVE",
+"1 -260 CURVE SMOOTH"
 );
 }
 );
-width = 219;
+width = 226;
 }
 );
 leftMetricsKey = o;
