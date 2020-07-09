@@ -1,8 +1,7 @@
 {
 .appVersion = "1342";
 DisplayStrings = (
-"+/minus ×÷=/notequal ></greaterequal/lessequal ±%/approxequal ~¬",
-"/florin"
+"+/minus ×÷=/notequal ></greaterequal/lessequal ±%/approxequal ~¬"
 );
 classes = (
 {
@@ -10956,7 +10955,7 @@ unicode = 00E5;
 },
 {
 glyphname = aringacute;
-lastChange = "2020-07-07 08:00:08 +0000";
+lastChange = "2020-07-09 19:27:10 +0000";
 layers = (
 {
 components = (
@@ -10969,7 +10968,7 @@ transform = "{1, 0, 0, 1, 170, 0}";
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 283, 215}";
+transform = "{1, 0, 0, 1, 317, 122}";
 }
 );
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -10986,7 +10985,7 @@ transform = "{1, 0, 0, 1, 146, 0}";
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 268, 275}";
+transform = "{1, 0, 0, 1, 290, 135}";
 }
 );
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
@@ -34606,7 +34605,7 @@ unicode = 0306;
 {
 color = 1;
 glyphname = ringcomb;
-lastChange = "2020-07-06 17:21:03 +0000";
+lastChange = "2020-07-09 19:27:10 +0000";
 layers = (
 {
 anchors = (
@@ -34616,7 +34615,7 @@ position = "{189, 493}";
 },
 {
 name = top;
-position = "{231, 708}";
+position = "{265, 615}";
 }
 );
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -34666,7 +34665,7 @@ position = "{180, 493}";
 },
 {
 name = top;
-position = "{233, 768}";
+position = "{255, 628}";
 }
 );
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";

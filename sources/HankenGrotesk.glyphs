@@ -1,8 +1,7 @@
 {
 .appVersion = "1342";
 DisplayStrings = (
-"/Ncommaaccent",
-"/florin"
+"/Ncommaaccent"
 );
 classes = (
 {
