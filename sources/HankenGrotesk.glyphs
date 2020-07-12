@@ -1,8 +1,5 @@
 {
 .appVersion = "1342";
-DisplayStrings = (
-"/Ncommaaccent"
-);
 classes = (
 {
 automatic = 1;
@@ -13301,7 +13298,7 @@ unicode = 0259;
 {
 color = 1;
 glyphname = f;
-lastChange = "2020-07-12 11:57:24 +0000";
+lastChange = "2020-07-12 12:48:07 +0000";
 layers = (
 {
 anchors = (
@@ -14135,7 +14132,7 @@ unicode = 0125;
 },
 {
 glyphname = i;
-lastChange = "2020-07-12 12:00:10 +0000";
+lastChange = "2020-07-12 12:48:32 +0000";
 layers = (
 {
 components = (
@@ -41294,7 +41291,7 @@ kerning = {
 "@MMK_R_c" = -29;
 "@MMK_R_d" = -44;
 "@MMK_R_exclam" = -34;
-"@MMK_R_f" = -74;
+"@MMK_R_f" = -30;
 "@MMK_R_g" = -16;
 "@MMK_R_germandbls" = -29;
 "@MMK_R_h" = -28;
