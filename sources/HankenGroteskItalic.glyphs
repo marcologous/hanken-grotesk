@@ -12774,7 +12774,7 @@ unicode = 0259;
 {
 color = 1;
 glyphname = f;
-lastChange = "2020-07-12 10:20:34 +0000";
+lastChange = "2020-07-12 12:48:56 +0000";
 layers = (
 {
 anchors = (
@@ -13375,7 +13375,7 @@ unicode = 0125;
 },
 {
 glyphname = i;
-lastChange = "2020-07-12 10:16:44 +0000";
+lastChange = "2020-07-12 12:49:08 +0000";
 layers = (
 {
 components = (
@@ -40518,6 +40518,7 @@ kerning = {
 "@MMK_R_copyright" = -25;
 "@MMK_R_dagger" = -30;
 "@MMK_R_divide" = -10;
+"@MMK_R_f" = -20;
 "@MMK_R_germandbls" = -5;
 "@MMK_R_guilsinglleft" = -20;
 "@MMK_R_hyphen" = -20;
@@ -41656,7 +41657,7 @@ backslash = -40;
 "@MMK_R_greater" = 30;
 "@MMK_R_guilsinglleft" = -10;
 "@MMK_R_hyphen" = -5;
-"@MMK_R_i" = 10;
+"@MMK_R_i" = -10;
 "@MMK_R_lslash" = 10;
 "@MMK_R_multiply" = 20;
 "@MMK_R_paragraph" = 30;
