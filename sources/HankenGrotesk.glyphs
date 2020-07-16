@@ -1,5 +1,5 @@
 {
-.appVersion = "1342";
+.appVersion = "1230";
 classes = (
 {
 automatic = 1;
@@ -27,7 +27,7 @@ name = vendorID;
 value = HDCO;
 }
 );
-date = "2020-06-17 19:05:26 +0000";
+date = "2020-07-16 20:23:52 +0000";
 designer = "Alfredo Marco Pradil";
 designerURL = "https://www.behance.net/pradil";
 disablesNiceNames = 1;
@@ -43818,5 +43818,5 @@ manufacturer = "Hanken Design Co.";
 manufacturerURL = "https://hanken.co";
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 461;
+versionMinor = 464;
 }
