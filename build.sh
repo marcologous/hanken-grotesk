@@ -1,4 +1,4 @@
-rm output/ -rf
+rm -rf output/
 
 for src in sources/*.glyphs
 do
