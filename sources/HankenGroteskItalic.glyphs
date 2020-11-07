@@ -1,5 +1,15 @@
 {
+pr/54
 .appVersion = "1346";
+DisplayStrings = (
+"+/minus ×÷=/notequal ></greaterequal/lessequal ±%/approxequal ~¬"
+);
+
+.appVersion = "1230";
+DisplayStrings = (
+"+/minus ×÷=/notequal ></greaterequal/lessequal ±%/approxequal ~¬"
+);
+master
 classes = (
 {
 automatic = 1;
@@ -27,7 +37,7 @@ name = vendorID;
 value = HDCO;
 }
 );
-date = "2020-06-20 06:37:10 +0000";
+date = "2020-07-16 20:24:09 +0000";
 designer = "Alfredo Marco Pradil";
 designerURL = "https://www.behance.net/pradil";
 disablesNiceNames = 1;
