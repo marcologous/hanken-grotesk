@@ -1,5 +1,5 @@
 {
-.appVersion = "1342";
+.appVersion = "1348";
 classes = (
 {
 automatic = 1;
@@ -27,7 +27,7 @@ name = vendorID;
 value = HDCO;
 }
 );
-date = "2020-06-17 19:05:26 +0000";
+date = "2020-11-07 04:52:04 +0000";
 designer = "Alfredo Marco Pradil";
 designerURL = "https://www.behance.net/pradil";
 disablesNiceNames = 1;
@@ -41159,7 +41159,7 @@ instances = (
 customParameters = (
 {
 name = "Scale to UPM";
-value = "2000";
+value = 2000;
 }
 );
 instanceInterpolations = {
@@ -41172,7 +41172,7 @@ weightClass = Thin;
 customParameters = (
 {
 name = "Scale to UPM";
-value = "2000";
+value = 2000;
 }
 );
 interpolationWeight = 200;
@@ -41187,7 +41187,7 @@ weightClass = ExtraLight;
 customParameters = (
 {
 name = "Scale to UPM";
-value = "2000";
+value = 2000;
 }
 );
 interpolationWeight = 300;
@@ -41202,7 +41202,7 @@ weightClass = Light;
 customParameters = (
 {
 name = "Scale to UPM";
-value = "2000";
+value = 2000;
 }
 );
 interpolationWeight = 400;
@@ -41217,7 +41217,7 @@ name = Regular;
 customParameters = (
 {
 name = "Scale to UPM";
-value = "2000";
+value = 2000;
 }
 );
 interpolationWeight = 500;
@@ -41232,7 +41232,7 @@ weightClass = Medium;
 customParameters = (
 {
 name = "Scale to UPM";
-value = "2000";
+value = 2000;
 }
 );
 interpolationWeight = 600;
@@ -41247,7 +41247,7 @@ weightClass = SemiBold;
 customParameters = (
 {
 name = "Scale to UPM";
-value = "2000";
+value = 2000;
 }
 );
 interpolationWeight = 700;
@@ -41265,7 +41265,7 @@ weightClass = Bold;
 customParameters = (
 {
 name = "Scale to UPM";
-value = "2000";
+value = 2000;
 }
 );
 interpolationWeight = 800;
@@ -41280,7 +41280,7 @@ weightClass = ExtraBold;
 customParameters = (
 {
 name = "Scale to UPM";
-value = "2000";
+value = 2000;
 }
 );
 interpolationWeight = 900;
@@ -43818,5 +43818,5 @@ manufacturer = "Hanken Design Co.";
 manufacturerURL = "https://hanken.co";
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 461;
+versionMinor = 465;
 }
