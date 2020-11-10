@@ -30,10 +30,7 @@ echo "POST PROCESSING VFs"
 postprocess_vf $VF_FILE
 postprocess_vf $VF_FILEit
 
-gftools fix-vf-meta $VF_FILE
-mv $VF_FILE.fix $VF_FILE
-gftools fix-vf-meta $VF_FILEit
-mv $VF_FILEit.fix $VF_FILEit
+python3 hanken_stat_table.py $VF_FILE
 
 rm ../fonts/ttf/*gasp.ttf
 
