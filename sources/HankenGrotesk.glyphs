@@ -2,7 +2,8 @@
 .appVersion = "1342";
 DisplayStrings = (
 dbpdA,
-"gj/eng pq"
+"gj/eng pq",
+notHO
 );
 classes = (
 {
@@ -37,9 +38,17 @@ value = 1;
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = "Variable Font Origin";
+value = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
+},
+{
+name = "Variable Font Family Name";
+value = "Hanken Grotesk";
 }
 );
-date = "2020-11-10 13:59:05 +0000";
+date = "2020-11-10 21:14:47 +0000";
 designer = "Alfredo Marco Pradil";
 designerURL = "https://www.behance.net/pradil";
 disablesNiceNames = 1;
@@ -147,10 +156,22 @@ value = 1000;
 },
 {
 name = typoDescender;
-value = -303;
+value = -300;
 },
 {
 name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1000;
+},
+{
+name = hheaDescender;
+value = -300;
+},
+{
+name = hheaLineGap;
 value = 0;
 },
 {
@@ -159,15 +180,7 @@ value = 1126;
 },
 {
 name = winDescent;
-value = 429;
-},
-{
-name = hheaAscender;
-value = 1000;
-},
-{
-name = hheaDescender;
-value = -303;
+value = 430;
 },
 {
 name = underlinePosition;
@@ -232,10 +245,22 @@ value = 1000;
 },
 {
 name = typoDescender;
-value = -303;
+value = -300;
 },
 {
 name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1000;
+},
+{
+name = hheaDescender;
+value = -300;
+},
+{
+name = hheaLineGap;
 value = 0;
 },
 {
@@ -244,15 +269,7 @@ value = 1126;
 },
 {
 name = winDescent;
-value = 429;
-},
-{
-name = hheaAscender;
-value = 1000;
-},
-{
-name = hheaDescender;
-value = -303;
+value = 430;
 },
 {
 name = underlinePosition;
@@ -276,6 +293,10 @@ value = "5";
 }
 );
 descender = -303;
+horizontalStems = (
+132,
+150
+);
 iconName = Bold;
 id = "957254E3-B7AD-4837-9092-D4428001DE8E";
 userData = {
@@ -286,6 +307,10 @@ GSOffsetMakeStroke = 1;
 GSOffsetProportional = 1;
 GSOffsetVertical = 10;
 };
+verticalStems = (
+151,
+157
+);
 weightValue = 900;
 widthValue = 5;
 xHeight = 493;
@@ -43843,6 +43868,31 @@ p = {
 manufacturer = "Hanken Design Co.";
 manufacturerURL = "https://hanken.co";
 unitsPerEm = 1000;
-versionMajor = 2;
-versionMinor = 464;
+userData = {
+GSDimensionPlugin.Dimensions = {
+"957254E3-B7AD-4837-9092-D4428001DE8E" = {
+HH = "144";
+HV = "157";
+OH = "150";
+OV = "157";
+nV = "151";
+nd = "131";
+oH = "132";
+oV = "151";
+};
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = {
+HH = "11";
+HV = "10";
+OH = "10";
+OV = "10";
+nV = "10";
+nd = "10";
+oH = "10";
+oV = "10";
+tH = "10";
+};
+};
+};
+versionMajor = 3;
+versionMinor = 0;
 }
