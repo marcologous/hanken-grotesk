@@ -221,20 +221,24 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 1126;
-},
-{
-name = winDescent;
-value = 429;
-},
-{
 name = hheaAscender;
 value = 1000;
 },
 {
 name = hheaDescender;
 value = -303;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1126;
+},
+{
+name = winDescent;
+value = 429;
 },
 {
 name = underlinePosition;

@@ -1,5 +1,9 @@
 {
 .appVersion = "1342";
+DisplayStrings = (
+dbpdA,
+"gj/eng pq"
+);
 classes = (
 {
 automatic = 1;
@@ -187,6 +191,11 @@ value = "5";
 }
 );
 descender = -303;
+guideLines = (
+{
+position = "{368, -204}";
+}
+);
 horizontalStems = (
 10
 );
@@ -11702,7 +11711,7 @@ unicode = 01FD;
 {
 color = 1;
 glyphname = b;
-lastChange = "2020-06-16 10:24:20 +0000";
+lastChange = "2020-11-10 14:13:11 +0000";
 layers = (
 {
 components = (
@@ -13407,7 +13416,7 @@ unicode = 0066;
 {
 color = 1;
 glyphname = g;
-lastChange = "2020-07-12 11:11:50 +0000";
+lastChange = "2020-11-10 14:15:50 +0000";
 layers = (
 {
 anchors = (
@@ -17244,18 +17253,13 @@ unicode = 0153;
 {
 color = 1;
 glyphname = p;
-lastChange = "2020-06-16 10:24:20 +0000";
+lastChange = "2020-11-10 14:14:39 +0000";
 layers = (
 {
 components = (
 {
 name = b;
 transform = "{1, 0, 0, -1, 0, 493}";
-}
-);
-guideLines = (
-{
-position = "{368, -204}";
 }
 );
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
