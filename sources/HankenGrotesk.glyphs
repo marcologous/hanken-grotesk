@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
+.appVersion = "1348";
+=======
 .appVersion = "1230";
+>>>>>>> master
 classes = (
 {
 automatic = 1;
@@ -27,7 +31,11 @@ name = vendorID;
 value = HDCO;
 }
 );
+<<<<<<< HEAD
+date = "2020-11-07 04:52:04 +0000";
+=======
 date = "2020-07-16 20:23:52 +0000";
+>>>>>>> master
 designer = "Alfredo Marco Pradil";
 designerURL = "https://www.behance.net/pradil";
 disablesNiceNames = 1;
@@ -41159,7 +41167,7 @@ instances = (
 customParameters = (
 {
 name = "Scale to UPM";
-value = "2000";
+value = 2000;
 }
 );
 instanceInterpolations = {
@@ -41172,7 +41180,7 @@ weightClass = Thin;
 customParameters = (
 {
 name = "Scale to UPM";
-value = "2000";
+value = 2000;
 }
 );
 interpolationWeight = 200;
@@ -41187,7 +41195,7 @@ weightClass = ExtraLight;
 customParameters = (
 {
 name = "Scale to UPM";
-value = "2000";
+value = 2000;
 }
 );
 interpolationWeight = 300;
@@ -41202,7 +41210,7 @@ weightClass = Light;
 customParameters = (
 {
 name = "Scale to UPM";
-value = "2000";
+value = 2000;
 }
 );
 interpolationWeight = 400;
@@ -41217,7 +41225,7 @@ name = Regular;
 customParameters = (
 {
 name = "Scale to UPM";
-value = "2000";
+value = 2000;
 }
 );
 interpolationWeight = 500;
@@ -41232,7 +41240,7 @@ weightClass = Medium;
 customParameters = (
 {
 name = "Scale to UPM";
-value = "2000";
+value = 2000;
 }
 );
 interpolationWeight = 600;
@@ -41247,7 +41255,7 @@ weightClass = SemiBold;
 customParameters = (
 {
 name = "Scale to UPM";
-value = "2000";
+value = 2000;
 }
 );
 interpolationWeight = 700;
@@ -41265,7 +41273,7 @@ weightClass = Bold;
 customParameters = (
 {
 name = "Scale to UPM";
-value = "2000";
+value = 2000;
 }
 );
 interpolationWeight = 800;
@@ -41280,7 +41288,7 @@ weightClass = ExtraBold;
 customParameters = (
 {
 name = "Scale to UPM";
-value = "2000";
+value = 2000;
 }
 );
 interpolationWeight = 900;
@@ -43818,5 +43826,9 @@ manufacturer = "Hanken Design Co.";
 manufacturerURL = "https://hanken.co";
 unitsPerEm = 1000;
 versionMajor = 2;
+<<<<<<< HEAD
+versionMinor = 465;
+=======
 versionMinor = 464;
+>>>>>>> master
 }
