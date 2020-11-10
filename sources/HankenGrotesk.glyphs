@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-.appVersion = "1348";
-=======
-.appVersion = "1230";
->>>>>>> master
+.appVersion = "1342";
 classes = (
 {
 automatic = 1;
@@ -29,13 +25,17 @@ value = (
 {
 name = vendorID;
 value = HDCO;
+},
+{
+name = "Enforce Compatibility Check";
+value = 1;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
-<<<<<<< HEAD
-date = "2020-11-07 04:52:04 +0000";
-=======
-date = "2020-07-16 20:23:52 +0000";
->>>>>>> master
+date = "2020-11-10 13:59:05 +0000";
 designer = "Alfredo Marco Pradil";
 designerURL = "https://www.behance.net/pradil";
 disablesNiceNames = 1;
@@ -29031,6 +29031,20 @@ rightKerningGroup = space;
 unicode = 00A0;
 },
 {
+glyphname = CR;
+layers = (
+{
+layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
+width = 600;
+},
+{
+layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
+width = 600;
+}
+);
+unicode = 000D;
+},
+{
 glyphname = .notdef;
 lastChange = "2020-07-07 06:20:36 +0000";
 layers = (
@@ -43826,9 +43840,5 @@ manufacturer = "Hanken Design Co.";
 manufacturerURL = "https://hanken.co";
 unitsPerEm = 1000;
 versionMajor = 2;
-<<<<<<< HEAD
-versionMinor = 465;
-=======
 versionMinor = 464;
->>>>>>> master
 }
