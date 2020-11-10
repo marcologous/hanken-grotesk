@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
 .appVersion = "1348";
+=======
+.appVersion = "1230";
+>>>>>>> master
 classes = (
 {
 automatic = 1;
@@ -27,7 +31,11 @@ name = vendorID;
 value = HDCO;
 }
 );
+<<<<<<< HEAD
 date = "2020-11-07 04:52:04 +0000";
+=======
+date = "2020-07-16 20:23:52 +0000";
+>>>>>>> master
 designer = "Alfredo Marco Pradil";
 designerURL = "https://www.behance.net/pradil";
 disablesNiceNames = 1;
@@ -43818,5 +43826,9 @@ manufacturer = "Hanken Design Co.";
 manufacturerURL = "https://hanken.co";
 unitsPerEm = 1000;
 versionMajor = 2;
+<<<<<<< HEAD
 versionMinor = 465;
+=======
+versionMinor = 464;
+>>>>>>> master
 }
