@@ -5,4 +5,4 @@ install:
   - pip install -r requirements.txt
 
 script:
-  - sh sources/build.sh
+  - bash sources/build.sh
