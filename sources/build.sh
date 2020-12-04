@@ -65,10 +65,17 @@ rm -rf master_ufo/ instance_ufo/
 cp ../METADATA.pb ../fonts/ttf/static/
 cp ../DESCRIPTION.*.html ../fonts/ttf/static/
 
+echo "CHECKING VF TTFs"
+
 export OPTIONS="--no-progress"
 export OPTIONS="$OPTIONS --exclude-checkid /check/ftxvalidator" # We lack this on Travis.
-export OPTIONS="$OPTIONS --exclude-checkid /check/varfont" # Delete this when making a variable font.
 export OPTIONS="$OPTIONS --exclude-checkid /check/fontdata_namecheck" # We confirmed that "Hanken Grotesk" is
                                                                       # a good family name for the GFonts collection.
-export OPTIONS="$OPTIONS --loglevel INFO --ghmarkdown HankenGrotesk-fontbakery.md"
-fontbakery check-googlefonts $OPTIONS ttfs
+export OPTIONS="$OPTIONS --loglevel INFO"
+fontbakery check-googlefonts $OPTIONS --ghmarkdown HankenGrotesk-VFs-fontbakery.md $VF_FILE $VF_FILEit
+
+
+echo "CHECKING STATIC TTFs"
+
+export OPTIONS="$OPTIONS --exclude-checkid /check/varfont"
+fontbakery check-googlefonts $OPTIONS --ghmarkdown HankenGrotesk-statics-fontbakery.md ../fonts/ttf/static/HankenGrotesk-*.ttf
