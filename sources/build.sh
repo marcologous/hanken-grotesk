@@ -53,7 +53,7 @@ do
 	gftools fix-dsig -f $ttf;
     
 	gftools fix-hinting $ttf;
-    mv "$ttf.fix" $ttf;
+        mv "$ttf.fix" $ttf;
 	
 	#compressing for woff2
 	#fonttools ttLib.woff2 compress $ttf
@@ -61,3 +61,14 @@ do
 done
 
 rm -rf master_ufo/ instance_ufo/
+
+cp METADATA.pb output
+cp DESCRIPTION.*.html output
+
+export OPTIONS="--no-progress"
+export OPTIONS="$OPTIONS --exclude-checkid /check/ftxvalidator" # We lack this on Travis.
+export OPTIONS="$OPTIONS --exclude-checkid /check/varfont" # Delete this when making a variable font.
+export OPTIONS="$OPTIONS --exclude-checkid /check/fontdata_namecheck" # We confirmed that "Hanken Grotesk" is
+                                                                      # a good family name for the GFonts collection.
+export OPTIONS="$OPTIONS --loglevel INFO --ghmarkdown HankenGrotesk-fontbakery.md"
+fontbakery check-googlefonts $OPTIONS ttfs
