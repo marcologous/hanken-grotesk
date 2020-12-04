@@ -62,8 +62,8 @@ done
 
 rm -rf master_ufo/ instance_ufo/
 
-cp METADATA.pb output
-cp DESCRIPTION.*.html output
+cp METADATA.pb ../fonts/ttf/static/
+cp DESCRIPTION.*.html ../fonts/ttf/static/
 
 export OPTIONS="--no-progress"
 export OPTIONS="$OPTIONS --exclude-checkid /check/ftxvalidator" # We lack this on Travis.
