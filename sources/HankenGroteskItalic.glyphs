@@ -25,9 +25,18 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 {
 name = vendorID;
 value = HDCO;
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
 }
 );
-date = "2021-03-07 20:05:49 +0000";
+}
+);
+date = "2021-03-07 20:26:10 +0000";
 designer = "Alfredo Marco Pradil";
 designerURL = "https://www.behance.net/pradil";
 familyName = "Hanken Grotesk";
@@ -195,6 +204,7 @@ GSOffsetVertical = 10;
 verticalStems = (
 10
 );
+weightValue = 0;
 xHeight = 493;
 },
 {
@@ -274,6 +284,7 @@ GSOffsetVertical = 10;
 verticalStems = (
 88
 );
+weightValue = 0;
 xHeight = 493;
 },
 {
@@ -355,6 +366,7 @@ GSOffsetVertical = 10;
 verticalStems = (
 157
 );
+weightValue = 0;
 xHeight = 493;
 }
 );
@@ -15953,7 +15965,7 @@ unicode = 01FD;
 {
 color = 1;
 glyphname = b;
-lastChange = "2021-01-31 17:36:02 +0000";
+lastChange = "2021-03-07 20:18:11 +0000";
 layers = (
 {
 anchors = (
@@ -16551,7 +16563,7 @@ unicode = 010B;
 {
 color = 1;
 glyphname = d;
-lastChange = "2021-01-31 17:35:22 +0000";
+lastChange = "2021-03-07 20:18:11 +0000";
 layers = (
 {
 anchors = (
@@ -23339,7 +23351,7 @@ unicode = 0153;
 {
 color = 1;
 glyphname = p;
-lastChange = "2021-01-31 17:36:28 +0000";
+lastChange = "2021-03-07 20:18:11 +0000";
 layers = (
 {
 anchors = (
@@ -23757,7 +23769,7 @@ unicode = 00FE;
 {
 color = 1;
 glyphname = q;
-lastChange = "2021-01-31 17:37:33 +0000";
+lastChange = "2021-03-07 20:18:11 +0000";
 layers = (
 {
 anchors = (
@@ -56314,6 +56326,7 @@ name = "Scale to UPM";
 value = 2000;
 }
 );
+interpolationWeight = 0;
 instanceInterpolations = {
 "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 1;
 };
@@ -56329,9 +56342,9 @@ name = "Scale to UPM";
 value = 2000;
 }
 );
+interpolationWeight = 0;
 instanceInterpolations = {
-"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 0.66667;
-m003 = 0.33333;
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 1;
 };
 isItalic = 1;
 linkStyle = ExtraLight;
@@ -56345,9 +56358,9 @@ name = "Scale to UPM";
 value = 2000;
 }
 );
+interpolationWeight = 0;
 instanceInterpolations = {
-"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 0.33333;
-m003 = 0.66667;
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 1;
 };
 isItalic = 1;
 linkStyle = Light;
@@ -56361,8 +56374,9 @@ name = "Scale to UPM";
 value = 2000;
 }
 );
+interpolationWeight = 0;
 instanceInterpolations = {
-m003 = 1;
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 1;
 };
 isItalic = 1;
 linkStyle = Regular;
@@ -56375,9 +56389,9 @@ name = "Scale to UPM";
 value = 2000;
 }
 );
+interpolationWeight = 0;
 instanceInterpolations = {
-"957254E3-B7AD-4837-9092-D4428001DE8E" = 0.2;
-m003 = 0.8;
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 1;
 };
 isItalic = 1;
 linkStyle = Medium;
@@ -56391,9 +56405,9 @@ name = "Scale to UPM";
 value = 2000;
 }
 );
+interpolationWeight = 0;
 instanceInterpolations = {
-"957254E3-B7AD-4837-9092-D4428001DE8E" = 0.4;
-m003 = 0.6;
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 1;
 };
 isItalic = 1;
 linkStyle = SemiBold;
@@ -56407,9 +56421,9 @@ name = "Scale to UPM";
 value = 2000;
 }
 );
+interpolationWeight = 0;
 instanceInterpolations = {
-"957254E3-B7AD-4837-9092-D4428001DE8E" = 0.6;
-m003 = 0.4;
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 1;
 };
 isBold = 1;
 isItalic = 1;
@@ -56424,9 +56438,9 @@ name = "Scale to UPM";
 value = 2000;
 }
 );
+interpolationWeight = 0;
 instanceInterpolations = {
-"957254E3-B7AD-4837-9092-D4428001DE8E" = 0.8;
-m003 = 0.2;
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 1;
 };
 isItalic = 1;
 linkStyle = ExtraBold;
@@ -56440,8 +56454,9 @@ name = "Scale to UPM";
 value = 2000;
 }
 );
+interpolationWeight = 0;
 instanceInterpolations = {
-"957254E3-B7AD-4837-9092-D4428001DE8E" = 1;
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 1;
 };
 isItalic = 1;
 linkStyle = Black;
@@ -56474,7 +56489,6 @@ kerning = {
 "@MMK_R_germandbls" = -29;
 "@MMK_R_h" = -28;
 "@MMK_R_i" = -16;
-"@MMK_R_j" = -16;
 "@MMK_R_k" = -28;
 "@MMK_R_l" = -31;
 "@MMK_R_m" = -17;
@@ -56532,7 +56546,6 @@ w = -37;
 "@MMK_R_germandbls" = -30;
 "@MMK_R_h" = -28;
 "@MMK_R_i" = -24;
-"@MMK_R_j" = -24;
 "@MMK_R_k" = -28;
 "@MMK_R_l" = -28;
 "@MMK_R_m" = -24;
@@ -56594,7 +56607,6 @@ z = -8;
 "@MMK_R_h" = -29;
 "@MMK_R_hyphen" = -34;
 "@MMK_R_i" = -38;
-"@MMK_R_j" = -38;
 "@MMK_R_k" = -29;
 "@MMK_R_l" = -29;
 "@MMK_R_m" = -38;
@@ -56652,7 +56664,6 @@ z = -20;
 "@MMK_R_germandbls" = -26;
 "@MMK_R_h" = -25;
 "@MMK_R_i" = -20;
-"@MMK_R_j" = -19;
 "@MMK_R_k" = -25;
 "@MMK_R_l" = -24;
 "@MMK_R_m" = -20;
@@ -56711,7 +56722,6 @@ z = -9;
 "@MMK_R_germandbls" = -35;
 "@MMK_R_h" = -33;
 "@MMK_R_i" = -36;
-"@MMK_R_j" = -35;
 "@MMK_R_k" = -33;
 "@MMK_R_l" = -34;
 "@MMK_R_m" = -36;
@@ -56754,7 +56764,6 @@ w = -26;
 "@MMK_R_germandbls" = -64;
 "@MMK_R_h" = -26;
 "@MMK_R_i" = -66;
-"@MMK_R_j" = -66;
 "@MMK_R_k" = -26;
 "@MMK_R_l" = -25;
 "@MMK_R_m" = -36;
@@ -56818,7 +56827,6 @@ z = -84;
 "@MMK_R_germandbls" = -31;
 "@MMK_R_h" = -29;
 "@MMK_R_i" = -27;
-"@MMK_R_j" = -26;
 "@MMK_R_k" = -29;
 "@MMK_R_l" = -29;
 "@MMK_R_m" = -27;
@@ -56874,7 +56882,6 @@ w = -6;
 "@MMK_R_germandbls" = -36;
 "@MMK_R_h" = -33;
 "@MMK_R_i" = -35;
-"@MMK_R_j" = -34;
 "@MMK_R_k" = -33;
 "@MMK_R_l" = -32;
 "@MMK_R_m" = -35;
@@ -56915,7 +56922,6 @@ w = -6;
 "@MMK_R_h" = -30;
 "@MMK_R_hyphen" = -34;
 "@MMK_R_i" = -30;
-"@MMK_R_j" = -29;
 "@MMK_R_k" = -30;
 "@MMK_R_l" = -32;
 "@MMK_R_m" = -30;
@@ -56960,7 +56966,6 @@ w = -58;
 "@MMK_R_h" = -16;
 "@MMK_R_hyphen" = -56;
 "@MMK_R_i" = -16;
-"@MMK_R_j" = -16;
 "@MMK_R_k" = -16;
 "@MMK_R_l" = -32;
 "@MMK_R_m" = -16;
@@ -57017,7 +57022,6 @@ w = -70;
 "@MMK_R_germandbls" = -27;
 "@MMK_R_h" = -25;
 "@MMK_R_i" = -21;
-"@MMK_R_j" = -20;
 "@MMK_R_k" = -25;
 "@MMK_R_l" = -25;
 "@MMK_R_m" = -21;
@@ -57076,7 +57080,6 @@ z = -9;
 "@MMK_R_germandbls" = -29;
 "@MMK_R_h" = -25;
 "@MMK_R_i" = -46;
-"@MMK_R_j" = -45;
 "@MMK_R_k" = -25;
 "@MMK_R_l" = -23;
 "@MMK_R_m" = -8;
@@ -57130,7 +57133,6 @@ slash = -51;
 "@MMK_R_germandbls" = -30;
 "@MMK_R_h" = -28;
 "@MMK_R_i" = -23;
-"@MMK_R_j" = -23;
 "@MMK_R_k" = -28;
 "@MMK_R_l" = -28;
 "@MMK_R_m" = -23;
@@ -57184,7 +57186,6 @@ slash = -14;
 "@MMK_R_h" = -33;
 "@MMK_R_hyphen" = -18;
 "@MMK_R_i" = -33;
-"@MMK_R_j" = -33;
 "@MMK_R_k" = -33;
 "@MMK_R_l" = -35;
 "@MMK_R_m" = -33;
@@ -57237,7 +57238,6 @@ u = -7;
 "@MMK_R_germandbls" = -27;
 "@MMK_R_h" = -25;
 "@MMK_R_i" = -21;
-"@MMK_R_j" = -21;
 "@MMK_R_k" = -25;
 "@MMK_R_l" = -25;
 "@MMK_R_m" = -21;
@@ -57291,7 +57291,6 @@ z = -8;
 "@MMK_R_h" = -16;
 "@MMK_R_hyphen" = -49;
 "@MMK_R_i" = -110;
-"@MMK_R_j" = -110;
 "@MMK_R_k" = -16;
 "@MMK_R_l" = -15;
 "@MMK_R_m" = -101;
@@ -57357,7 +57356,6 @@ z = -113;
 "@MMK_R_h" = -28;
 "@MMK_R_hyphen" = -29;
 "@MMK_R_i" = -80;
-"@MMK_R_j" = -78;
 "@MMK_R_k" = -28;
 "@MMK_R_l" = -27;
 "@MMK_R_m" = -56;
@@ -57412,7 +57410,6 @@ z = -43;
 "@MMK_R_germandbls" = -44;
 "@MMK_R_h" = -26;
 "@MMK_R_i" = -65;
-"@MMK_R_j" = -65;
 "@MMK_R_k" = -26;
 "@MMK_R_l" = -25;
 "@MMK_R_m" = -34;
@@ -57466,7 +57463,6 @@ z = -29;
 "@MMK_R_h" = -29;
 "@MMK_R_hyphen" = -39;
 "@MMK_R_i" = -33;
-"@MMK_R_j" = -33;
 "@MMK_R_k" = -29;
 "@MMK_R_l" = -31;
 "@MMK_R_m" = -33;
@@ -57508,7 +57504,6 @@ w = -59;
 "@MMK_R_h" = -22;
 "@MMK_R_hyphen" = -40;
 "@MMK_R_i" = -96;
-"@MMK_R_j" = -96;
 "@MMK_R_k" = -22;
 "@MMK_R_l" = -21;
 "@MMK_R_m" = -80;
@@ -57564,7 +57559,6 @@ z = -65;
 "@MMK_R_h" = -28;
 "@MMK_R_hyphen" = -45;
 "@MMK_R_i" = -33;
-"@MMK_R_j" = -33;
 "@MMK_R_k" = -28;
 "@MMK_R_l" = -29;
 "@MMK_R_m" = -33;
@@ -57623,7 +57617,6 @@ w = -65;
 "@MMK_R_f" = -28;
 "@MMK_R_g" = -20;
 "@MMK_R_germandbls" = -26;
-"@MMK_R_j" = -25;
 "@MMK_R_l" = -26;
 "@MMK_R_parenright" = -39;
 "@MMK_R_question" = -46;
@@ -57681,7 +57674,6 @@ w = -65;
 "@MMK_R_f" = -69;
 "@MMK_R_g" = -18;
 "@MMK_R_germandbls" = -32;
-"@MMK_R_j" = -20;
 "@MMK_R_l" = -31;
 "@MMK_R_parenright" = -44;
 "@MMK_R_question" = -51;
@@ -57741,7 +57733,6 @@ z = -29;
 "@MMK_R_f" = -40;
 "@MMK_R_g" = -16;
 "@MMK_R_germandbls" = -24;
-"@MMK_R_j" = -22;
 "@MMK_R_l" = -25;
 "@MMK_R_parenright" = -43;
 "@MMK_R_question" = -53;
@@ -57793,7 +57784,6 @@ t = -17;
 "@MMK_R_braceright" = -8;
 "@MMK_R_f" = -24;
 "@MMK_R_germandbls" = -31;
-"@MMK_R_j" = -29;
 "@MMK_R_l" = -29;
 "@MMK_R_parenright" = -29;
 "@MMK_R_question" = -40;
@@ -57843,7 +57833,6 @@ slash = -15;
 "@MMK_R_f" = -49;
 "@MMK_R_g" = -20;
 "@MMK_R_germandbls" = -20;
-"@MMK_R_j" = -19;
 "@MMK_R_l" = -20;
 "@MMK_R_parenright" = -40;
 "@MMK_R_question" = -50;
@@ -57895,7 +57884,6 @@ z = -8;
 "@MMK_R_germandbls" = -26;
 "@MMK_R_hyphen" = -36;
 "@MMK_R_i" = -30;
-"@MMK_R_j" = -26;
 "@MMK_R_l" = -28;
 "@MMK_R_parenleft" = -15;
 "@MMK_R_period" = -40;
@@ -57948,7 +57936,6 @@ slash = -46;
 "@MMK_R_d" = -22;
 "@MMK_R_exclam" = -22;
 "@MMK_R_germandbls" = -24;
-"@MMK_R_j" = -25;
 "@MMK_R_l" = -23;
 "@MMK_R_parenright" = -42;
 "@MMK_R_question" = -49;
@@ -58000,7 +57987,6 @@ slash = -33;
 "@MMK_R_f" = -69;
 "@MMK_R_g" = -8;
 "@MMK_R_hyphen" = -14;
-"@MMK_R_j" = -17;
 "@MMK_R_l" = -24;
 "@MMK_R_parenright" = -43;
 "@MMK_R_question" = -50;
@@ -58062,7 +58048,6 @@ w = -27;
 "@MMK_R_f" = -63;
 "@MMK_R_g" = -19;
 "@MMK_R_germandbls" = -34;
-"@MMK_R_j" = -24;
 "@MMK_R_l" = -14;
 "@MMK_R_parenright" = -42;
 "@MMK_R_question" = -50;
@@ -58124,7 +58109,6 @@ t = -35;
 "@MMK_R_g" = -33;
 "@MMK_R_germandbls" = -34;
 "@MMK_R_hyphen" = -33;
-"@MMK_R_j" = -25;
 "@MMK_R_l" = -39;
 "@MMK_R_parenleft" = -21;
 "@MMK_R_parenright" = -45;
@@ -58180,7 +58164,6 @@ u = -11;
 "@MMK_R_germandbls" = -42;
 "@MMK_R_h" = -11;
 "@MMK_R_hyphen" = -23;
-"@MMK_R_j" = -36;
 "@MMK_R_k" = -11;
 "@MMK_R_m" = -11;
 "@MMK_R_parenleft" = -31;
@@ -58252,7 +58235,6 @@ w = -59;
 "@MMK_R_f" = -36;
 "@MMK_R_g" = -17;
 "@MMK_R_germandbls" = -20;
-"@MMK_R_j" = -19;
 "@MMK_R_l" = -20;
 "@MMK_R_parenright" = -40;
 "@MMK_R_question" = -47;
@@ -58314,7 +58296,6 @@ w = -59;
 "@MMK_R_g" = -66;
 "@MMK_R_germandbls" = -27;
 "@MMK_R_hyphen" = -45;
-"@MMK_R_j" = -26;
 "@MMK_R_l" = -25;
 "@MMK_R_parenleft" = -19;
 "@MMK_R_parenright" = -53;
@@ -58368,7 +58349,6 @@ slash = -52;
 "@MMK_R_g" = -11;
 "@MMK_R_germandbls" = -20;
 "@MMK_R_hyphen" = -5;
-"@MMK_R_j" = -20;
 "@MMK_R_l" = -21;
 "@MMK_R_parenright" = -40;
 "@MMK_R_question" = -52;
@@ -58426,7 +58406,6 @@ t = -21;
 "@MMK_R_germandbls" = -21;
 "@MMK_R_hyphen" = -17;
 "@MMK_R_i" = -20;
-"@MMK_R_j" = -20;
 "@MMK_R_l" = -40;
 "@MMK_R_parenleft" = -10;
 "@MMK_R_parenright" = -42;
@@ -58476,7 +58455,6 @@ s = -6;
 "@MMK_R_f" = -26;
 "@MMK_R_g" = -23;
 "@MMK_R_germandbls" = -30;
-"@MMK_R_j" = -29;
 "@MMK_R_l" = -29;
 "@MMK_R_parenright" = -39;
 "@MMK_R_question" = -50;
@@ -58526,7 +58504,6 @@ question = -46;
 "@MMK_R_exclam" = -23;
 "@MMK_R_g" = -11;
 "@MMK_R_germandbls" = -27;
-"@MMK_R_j" = -24;
 "@MMK_R_l" = -28;
 "@MMK_R_parenleft" = -5;
 "@MMK_R_parenright" = -45;
@@ -58572,7 +58549,6 @@ question = -46;
 "@MMK_R_exclam" = -20;
 "@MMK_R_g" = -31;
 "@MMK_R_germandbls" = -23;
-"@MMK_R_j" = -20;
 "@MMK_R_l" = -23;
 "@MMK_R_parenright" = -42;
 "@MMK_R_period" = -33;
@@ -58619,7 +58595,6 @@ slash = -38;
 "@MMK_R_g" = -35;
 "@MMK_R_germandbls" = -24;
 "@MMK_R_hyphen" = -11;
-"@MMK_R_j" = -21;
 "@MMK_R_l" = -26;
 "@MMK_R_parenleft" = -6;
 "@MMK_R_parenright" = -43;
@@ -58661,7 +58636,6 @@ question = -18;
 "@MMK_R_exclam" = -18;
 "@MMK_R_g" = -38;
 "@MMK_R_germandbls" = -26;
-"@MMK_R_j" = -21;
 "@MMK_R_l" = -29;
 "@MMK_R_parenleft" = -6;
 "@MMK_R_parenright" = -45;
