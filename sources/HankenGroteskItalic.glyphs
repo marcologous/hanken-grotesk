@@ -7,7 +7,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2020 The Hanken Grotesk Project Authors (https://github.com/marcologous/hanken-grotesk)";
+copyright = "Copyright 2021 The Hanken Grotesk Project Authors (https://github.com/marcologous/hanken-grotesk)";
 customParameters = (
 {
 name = fsType;
@@ -25,22 +25,9 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 {
 name = vendorID;
 value = HDCO;
-},
-{
-name = Axes;
-value = (
-{
-Name = Weight;
-Tag = wght;
-},
-{
-Name = Width;
-Tag = wdth;
 }
 );
-}
-);
-date = "2021-01-31 18:05:55 +0000";
+date = "2021-03-07 19:52:22 +0000";
 designer = "Alfredo Marco Pradil";
 designerURL = "https://www.behance.net/pradil";
 familyName = "Hanken Grotesk";
@@ -208,7 +195,6 @@ GSOffsetVertical = 10;
 verticalStems = (
 10
 );
-widthValue = 5;
 xHeight = 493;
 },
 {
@@ -288,8 +274,6 @@ GSOffsetVertical = 10;
 verticalStems = (
 88
 );
-weightValue = 400;
-widthValue = 5;
 xHeight = 493;
 },
 {
@@ -371,8 +355,6 @@ GSOffsetVertical = 10;
 verticalStems = (
 157
 );
-weightValue = 900;
-widthValue = 5;
 xHeight = 493;
 }
 );
@@ -56326,7 +56308,6 @@ name = "Scale to UPM";
 value = 2000;
 }
 );
-interpolationWidth = 5;
 instanceInterpolations = {
 "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 1;
 };
@@ -56342,8 +56323,6 @@ name = "Scale to UPM";
 value = 2000;
 }
 );
-interpolationWeight = 200;
-interpolationWidth = 5;
 instanceInterpolations = {
 "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 0.66667;
 m003 = 0.33333;
@@ -56360,8 +56339,6 @@ name = "Scale to UPM";
 value = 2000;
 }
 );
-interpolationWeight = 300;
-interpolationWidth = 5;
 instanceInterpolations = {
 "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 0.33333;
 m003 = 0.66667;
@@ -56378,8 +56355,6 @@ name = "Scale to UPM";
 value = 2000;
 }
 );
-interpolationWeight = 400;
-interpolationWidth = 5;
 instanceInterpolations = {
 m003 = 1;
 };
@@ -56394,8 +56369,6 @@ name = "Scale to UPM";
 value = 2000;
 }
 );
-interpolationWeight = 500;
-interpolationWidth = 5;
 instanceInterpolations = {
 "957254E3-B7AD-4837-9092-D4428001DE8E" = 0.2;
 m003 = 0.8;
@@ -56412,8 +56385,6 @@ name = "Scale to UPM";
 value = 2000;
 }
 );
-interpolationWeight = 600;
-interpolationWidth = 5;
 instanceInterpolations = {
 "957254E3-B7AD-4837-9092-D4428001DE8E" = 0.4;
 m003 = 0.6;
@@ -56430,8 +56401,6 @@ name = "Scale to UPM";
 value = 2000;
 }
 );
-interpolationWeight = 700;
-interpolationWidth = 5;
 instanceInterpolations = {
 "957254E3-B7AD-4837-9092-D4428001DE8E" = 0.6;
 m003 = 0.4;
@@ -56449,8 +56418,6 @@ name = "Scale to UPM";
 value = 2000;
 }
 );
-interpolationWeight = 800;
-interpolationWidth = 5;
 instanceInterpolations = {
 "957254E3-B7AD-4837-9092-D4428001DE8E" = 0.8;
 m003 = 0.2;
@@ -56467,8 +56434,6 @@ name = "Scale to UPM";
 value = 2000;
 }
 );
-interpolationWeight = 900;
-interpolationWidth = 5;
 instanceInterpolations = {
 "957254E3-B7AD-4837-9092-D4428001DE8E" = 1;
 };
@@ -59883,5 +59848,5 @@ manufacturer = "Hanken Design Co.";
 manufacturerURL = "https://hanken.co";
 unitsPerEm = 1000;
 versionMajor = 3;
-versionMinor = 0;
+versionMinor = 2;
 }
