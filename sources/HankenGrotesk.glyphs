@@ -1,5 +1,5 @@
 {
-.appVersion = "3060";
+.appVersion = "3075";
 classes = (
 {
 automatic = 1;
@@ -32,11 +32,15 @@ value = (
 {
 Name = Weight;
 Tag = wght;
+},
+{
+Name = Width;
+Tag = wdth;
 }
 );
 }
 );
-date = "2021-03-07 19:52:29 +0000";
+date = "2021-03-25 17:21:35 +0000";
 designer = "Alfredo Marco Pradil";
 designerURL = "https://www.behance.net/pradil";
 familyName = "Hanken Grotesk";
@@ -208,6 +212,7 @@ GSOffsetVertical = 10;
 verticalStems = (
 10
 );
+widthValue = 5;
 xHeight = 493;
 },
 {
@@ -286,6 +291,8 @@ GSOffsetVertical = 10;
 verticalStems = (
 88
 );
+weightValue = 400;
+widthValue = 5;
 xHeight = 493;
 },
 {
@@ -366,6 +373,8 @@ GSOffsetVertical = 10;
 verticalStems = (
 157
 );
+weightValue = 900;
+widthValue = 5;
 xHeight = 493;
 }
 );
@@ -27932,7 +27941,7 @@ rightKerningGroup = u;
 {
 color = 1;
 glyphname = g.ss02;
-lastChange = "2021-03-07 19:58:54 +0000";
+lastChange = "2021-03-25 17:21:20 +0000";
 layers = (
 {
 anchors = (
@@ -28041,7 +28050,7 @@ nodes = (
 );
 }
 );
-width = 503;
+width = 484;
 },
 {
 anchors = (
@@ -28150,7 +28159,7 @@ nodes = (
 );
 }
 );
-width = 560;
+width = 549;
 },
 {
 anchors = (
@@ -28259,7 +28268,7 @@ nodes = (
 );
 }
 );
-width = 536;
+width = 522;
 }
 );
 leftKerningGroup = c;
@@ -28270,7 +28279,7 @@ rightMetricsKey = g;
 },
 {
 glyphname = gbreve.ss02;
-lastChange = "2021-03-07 19:58:54 +0000";
+lastChange = "2021-03-25 17:21:22 +0000";
 layers = (
 {
 components = (
@@ -28283,7 +28292,7 @@ transform = "{1, 0, 0, 1, 37, 0}";
 }
 );
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
-width = 503;
+width = 484;
 },
 {
 components = (
@@ -28296,7 +28305,7 @@ transform = "{1, 0, 0, 1, 91, 0}";
 }
 );
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
-width = 560;
+width = 549;
 },
 {
 components = (
@@ -28309,7 +28318,7 @@ transform = "{1, 0, 0, 1, 69, 0}";
 }
 );
 layerId = m003;
-width = 536;
+width = 522;
 }
 );
 leftKerningGroup = c;
@@ -28317,7 +28326,7 @@ rightKerningGroup = g;
 },
 {
 glyphname = gcommaaccent.ss02;
-lastChange = "2021-03-07 19:58:54 +0000";
+lastChange = "2021-03-25 17:21:22 +0000";
 layers = (
 {
 components = (
@@ -28330,7 +28339,7 @@ transform = "{1, 0, 0, 1, 119, 0}";
 }
 );
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
-width = 503;
+width = 484;
 },
 {
 components = (
@@ -28343,7 +28352,7 @@ transform = "{1, 0, 0, 1, 145, 0}";
 }
 );
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
-width = 560;
+width = 549;
 },
 {
 components = (
@@ -28356,7 +28365,7 @@ transform = "{1, 0, 0, 1, 136, 0}";
 }
 );
 layerId = m003;
-width = 536;
+width = 522;
 }
 );
 leftKerningGroup = c;
@@ -28364,7 +28373,7 @@ rightKerningGroup = g;
 },
 {
 glyphname = gdotaccent.ss02;
-lastChange = "2021-03-07 19:58:54 +0000";
+lastChange = "2021-03-25 17:21:22 +0000";
 layers = (
 {
 components = (
@@ -28377,7 +28386,7 @@ transform = "{1, 0, 0, 1, 174, 0}";
 }
 );
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
-width = 503;
+width = 484;
 },
 {
 components = (
@@ -28390,7 +28399,7 @@ transform = "{1, 0, 0, 1, 173, 0}";
 }
 );
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
-width = 560;
+width = 549;
 },
 {
 components = (
@@ -28403,7 +28412,7 @@ transform = "{1, 0, 0, 1, 171, 0}";
 }
 );
 layerId = m003;
-width = 536;
+width = 522;
 }
 );
 leftKerningGroup = c;
@@ -29782,7 +29791,7 @@ rightKerningGroup = u;
 },
 {
 glyphname = gdotaccent.ss02.ss03;
-lastChange = "2021-03-07 19:58:54 +0000";
+lastChange = "2021-03-25 17:21:22 +0000";
 layers = (
 {
 components = (
@@ -29795,7 +29804,7 @@ transform = "{1, 0, 0, 1, 162, 0}";
 }
 );
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
-width = 503;
+width = 484;
 },
 {
 components = (
@@ -29808,7 +29817,7 @@ transform = "{1, 0, 0, 1, 165, 0}";
 }
 );
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
-width = 560;
+width = 549;
 },
 {
 components = (
@@ -29821,7 +29830,7 @@ transform = "{1, 0, 0, 1, 167, 0}";
 }
 );
 layerId = m003;
-width = 536;
+width = 522;
 }
 );
 leftKerningGroup = g;
@@ -58144,6 +58153,7 @@ name = "Scale to UPM";
 value = 2000;
 }
 );
+interpolationWidth = 5;
 instanceInterpolations = {
 "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 1;
 };
@@ -58157,8 +58167,11 @@ name = "Scale to UPM";
 value = 2000;
 }
 );
+interpolationWeight = 200;
+interpolationWidth = 5;
 instanceInterpolations = {
-"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 1;
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 0.66667;
+m003 = 0.33333;
 };
 name = ExtraLight;
 weightClass = ExtraLight;
@@ -58170,8 +58183,11 @@ name = "Scale to UPM";
 value = 2000;
 }
 );
+interpolationWeight = 300;
+interpolationWidth = 5;
 instanceInterpolations = {
-"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 1;
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 0.33333;
+m003 = 0.66667;
 };
 name = Light;
 weightClass = Light;
@@ -58183,8 +58199,10 @@ name = "Scale to UPM";
 value = 2000;
 }
 );
+interpolationWeight = 400;
+interpolationWidth = 5;
 instanceInterpolations = {
-"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 1;
+m003 = 1;
 };
 name = Regular;
 },
@@ -58195,8 +58213,11 @@ name = "Scale to UPM";
 value = 2000;
 }
 );
+interpolationWeight = 500;
+interpolationWidth = 5;
 instanceInterpolations = {
-"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 1;
+"957254E3-B7AD-4837-9092-D4428001DE8E" = 0.2;
+m003 = 0.8;
 };
 name = Medium;
 weightClass = Medium;
@@ -58208,8 +58229,11 @@ name = "Scale to UPM";
 value = 2000;
 }
 );
+interpolationWeight = 600;
+interpolationWidth = 5;
 instanceInterpolations = {
-"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 1;
+"957254E3-B7AD-4837-9092-D4428001DE8E" = 0.4;
+m003 = 0.6;
 };
 name = SemiBold;
 weightClass = SemiBold;
@@ -58221,8 +58245,11 @@ name = "Scale to UPM";
 value = 2000;
 }
 );
+interpolationWeight = 700;
+interpolationWidth = 5;
 instanceInterpolations = {
-"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 1;
+"957254E3-B7AD-4837-9092-D4428001DE8E" = 0.6;
+m003 = 0.4;
 };
 isBold = 1;
 linkStyle = Regular;
@@ -58236,8 +58263,11 @@ name = "Scale to UPM";
 value = 2000;
 }
 );
+interpolationWeight = 800;
+interpolationWidth = 5;
 instanceInterpolations = {
-"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 1;
+"957254E3-B7AD-4837-9092-D4428001DE8E" = 0.8;
+m003 = 0.2;
 };
 name = ExtraBold;
 weightClass = ExtraBold;
@@ -58249,8 +58279,10 @@ name = "Scale to UPM";
 value = 2000;
 }
 );
+interpolationWeight = 900;
+interpolationWidth = 5;
 instanceInterpolations = {
-"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 1;
+"957254E3-B7AD-4837-9092-D4428001DE8E" = 1;
 };
 name = Black;
 weightClass = Black;
@@ -61658,5 +61690,5 @@ manufacturer = "Hanken Design Co.";
 manufacturerURL = "https://hanken.co";
 unitsPerEm = 1000;
 versionMajor = 3;
-versionMinor = 2;
+versionMinor = 3;
 }
