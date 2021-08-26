@@ -1,4 +1,4 @@
-Copyright 2020 The Hanken Grotesk Project Authors (https://github.com/marcologous/hanken-grotesk), with Font Name "Hanken Grotesk".
+Copyright 2021 The Hanken Grotesk Project Authors (https://github.com/marcologous/hanken-grotesk)
 
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
