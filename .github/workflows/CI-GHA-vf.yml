@@ -1,0 +1,58 @@
+name: CI VF ttf
+
+on: 
+  push:
+    branches: 
+    - master
+    paths:
+    - sources/**
+  pull_request:
+    branches: 
+    - master
+    paths:
+    - sources/**
+
+jobs:
+  static-font-ci-job:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [3.8]
+    name: CI VF ttf
+    steps:
+      - name: Check out source repository
+        uses: actions/checkout@v2
+      - name: Set up Python v${{ matrix.python-version }} environment
+        uses: actions/setup-python@v1
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Python build dependency cache lookup
+        uses: actions/cache@v1
+        with:
+          path: ~/.cache/pip
+          # Check for requirements file cache hit
+          key: ${{ runner.os }}-pip-${{ hashFiles('${{ steps.config.outputs.dependpath }}') }}
+      - name: Install Python build dependencies
+        uses: py-actions/py-dependency-install@v2
+        with:
+          update-wheel: "true"
+          update-setuptools: "true"
+      - name: Install ttfautohint
+        run: |
+          sudo apt-get update
+          sudo apt-get install ttfautohint
+      - name: Build fonts
+        id: build_fonts
+        run: gftools builder sources/config.yml
+      # - name: Upload Fonts
+      #   uses: actions/upload-artifact@v2
+      #   with:
+      #     name: Hanken_Fonts
+      #     path: fonts/
+      - name: Make Fontbakery Report
+        uses: f-actions/font-bakery@v1
+        with:
+          version: "latest"
+          subcmd: "check-googlefonts"
+          args: "-C --succinct --loglevel WARN --ghmarkdown fonts/report.md"
+          path: "fonts/variable/*.ttf"
