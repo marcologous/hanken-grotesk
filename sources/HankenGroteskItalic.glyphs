@@ -1,5 +1,5 @@
 {
-.appVersion = "3075";
+.appVersion = "1352";
 classes = (
 {
 automatic = 1;
@@ -25,19 +25,6 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 {
 name = vendorID;
 value = HDCO;
-},
-{
-name = Axes;
-value = (
-{
-Name = Weight;
-Tag = wght;
-},
-{
-Name = Width;
-Tag = wdth;
-}
-);
 }
 );
 date = "2021-03-25 17:23:09 +0000";
@@ -132,10 +119,9 @@ fontMaster = (
 {
 alignmentZones = (
 "{697, 6}",
-"{697, 6}",
 "{493, 6}",
 "{0, -6}",
-"{-303, -16}"
+"{-204, -12}"
 );
 ascender = 697;
 capHeight = 697;
@@ -154,20 +140,24 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 1000;
-},
-{
-name = winDescent;
-value = 303;
-},
-{
 name = hheaAscender;
 value = 1000;
 },
 {
 name = hheaDescender;
 value = -303;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1000;
+},
+{
+name = winDescent;
+value = 303;
 },
 {
 name = underlinePosition;
@@ -190,7 +180,7 @@ name = paramOver;
 value = "5";
 }
 );
-descender = -303;
+descender = -204;
 horizontalStems = (
 10
 );
@@ -213,11 +203,10 @@ xHeight = 493;
 },
 {
 alignmentZones = (
-"{697, 6}",
-"{697, 6}",
-"{493, 6}",
-"{0, -6}",
-"{-303, -16}"
+"{697, 12}",
+"{493, 8}",
+"{0, -8}",
+"{-204, -12}"
 );
 ascender = 697;
 capHeight = 697;
@@ -235,20 +224,24 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 1000;
-},
-{
-name = winDescent;
-value = 303;
-},
-{
 name = hheaAscender;
 value = 1000;
 },
 {
 name = hheaDescender;
 value = -303;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1000;
+},
+{
+name = winDescent;
+value = 303;
 },
 {
 name = underlinePosition;
@@ -271,9 +264,11 @@ name = paramOver;
 value = "5";
 }
 );
-descender = -303;
+descender = -204;
 horizontalStems = (
-82
+66,
+74,
+84
 );
 id = m003;
 italicAngle = 8;
@@ -286,6 +281,7 @@ GSOffsetProportional = 1;
 GSOffsetVertical = 10;
 };
 verticalStems = (
+85,
 88
 );
 weightValue = 400;
@@ -294,11 +290,10 @@ xHeight = 493;
 },
 {
 alignmentZones = (
-"{697, 12}",
-"{697, 12}",
+"{697, 18}",
 "{493, 12}",
-"{0, -19}",
-"{-303, -16}"
+"{0, -18}",
+"{-204, -16}"
 );
 ascender = 697;
 capHeight = 697;
@@ -317,20 +312,24 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 1000;
-},
-{
-name = winDescent;
-value = 303;
-},
-{
 name = hheaAscender;
 value = 1000;
 },
 {
 name = hheaDescender;
 value = -303;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1000;
+},
+{
+name = winDescent;
+value = 303;
 },
 {
 name = underlinePosition;
@@ -353,8 +352,10 @@ name = paramOver;
 value = "5";
 }
 );
-descender = -303;
+descender = -204;
 horizontalStems = (
+117,
+132,
 144
 );
 iconName = Bold;
@@ -369,6 +370,7 @@ GSOffsetProportional = 1;
 GSOffsetVertical = 10;
 };
 verticalStems = (
+151,
 157
 );
 weightValue = 900;
