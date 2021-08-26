@@ -10,11 +10,6 @@ name = Uppercase;
 copyright = "Copyright 2021 The Hanken Grotesk Project Authors (https://github.com/marcologous/hanken-grotesk)";
 customParameters = (
 {
-name = fsType;
-value = (
-);
-},
-{
 name = licenseURL;
 value = "https://scripts.sil.org/OFL";
 },
@@ -25,6 +20,24 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 {
 name = vendorID;
 value = HDCO;
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+}
+);
 }
 );
 date = "2021-03-25 17:23:09 +0000";
@@ -59850,5 +59863,5 @@ manufacturer = "Hanken Design Co.";
 manufacturerURL = "https://hanken.co";
 unitsPerEm = 1000;
 versionMajor = 3;
-versionMinor = 3;
+versionMinor = 4;
 }

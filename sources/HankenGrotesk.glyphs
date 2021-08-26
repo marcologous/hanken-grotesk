@@ -1,5 +1,9 @@
 {
-.appVersion = "3075";
+.appVersion = "1352";
+DisplayStrings = (
+abncdefghijklmnopqrstuvwxyz,
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+);
 classes = (
 {
 automatic = 1;
@@ -9,11 +13,6 @@ name = Uppercase;
 );
 copyright = "Copyright 2021 The Hanken Grotesk Project Authors (https://github.com/marcologous/hanken-grotesk)";
 customParameters = (
-{
-name = fsType;
-value = (
-);
-},
 {
 name = licenseURL;
 value = "https://scripts.sil.org/OFL";
@@ -27,15 +26,20 @@ name = vendorID;
 value = HDCO;
 },
 {
+name = fsType;
+value = (
+);
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
 name = Axes;
 value = (
 {
 Name = Weight;
 Tag = wght;
-},
-{
-Name = Width;
-Tag = wdth;
 }
 );
 }
@@ -137,10 +141,9 @@ fontMaster = (
 {
 alignmentZones = (
 "{697, 6}",
-"{697, 6}",
 "{493, 6}",
 "{0, -6}",
-"{-303, -16}"
+"{-204, -12}"
 );
 ascender = 697;
 capHeight = 697;
@@ -159,20 +162,24 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 1000;
-},
-{
-name = winDescent;
-value = 303;
-},
-{
 name = hheaAscender;
 value = 1000;
 },
 {
 name = hheaDescender;
 value = -303;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1000;
+},
+{
+name = winDescent;
+value = 303;
 },
 {
 name = underlinePosition;
@@ -195,7 +202,7 @@ name = paramOver;
 value = "5";
 }
 );
-descender = -303;
+descender = -204;
 horizontalStems = (
 10
 );
@@ -217,11 +224,10 @@ xHeight = 493;
 },
 {
 alignmentZones = (
-"{697, 6}",
-"{697, 6}",
-"{493, 6}",
-"{0, -6}",
-"{-303, -16}"
+"{697, 12}",
+"{493, 8}",
+"{0, -8}",
+"{-204, -12}"
 );
 ascender = 697;
 capHeight = 697;
@@ -239,20 +245,24 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 1000;
-},
-{
-name = winDescent;
-value = 303;
-},
-{
 name = hheaAscender;
 value = 1000;
 },
 {
 name = hheaDescender;
 value = -303;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1000;
+},
+{
+name = winDescent;
+value = 303;
 },
 {
 name = underlinePosition;
@@ -275,9 +285,11 @@ name = paramOver;
 value = "5";
 }
 );
-descender = -303;
+descender = -204;
 horizontalStems = (
-82
+66,
+74,
+84
 );
 id = m003;
 userData = {
@@ -289,6 +301,7 @@ GSOffsetProportional = 1;
 GSOffsetVertical = 10;
 };
 verticalStems = (
+85,
 88
 );
 weightValue = 400;
@@ -297,11 +310,10 @@ xHeight = 493;
 },
 {
 alignmentZones = (
-"{697, 12}",
-"{697, 12}",
+"{697, 18}",
 "{493, 12}",
-"{0, -19}",
-"{-303, -16}"
+"{0, -18}",
+"{-204, -16}"
 );
 ascender = 697;
 capHeight = 697;
@@ -320,20 +332,24 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 1000;
-},
-{
-name = winDescent;
-value = 303;
-},
-{
 name = hheaAscender;
 value = 1000;
 },
 {
 name = hheaDescender;
 value = -303;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1000;
+},
+{
+name = winDescent;
+value = 303;
 },
 {
 name = underlinePosition;
@@ -356,8 +372,10 @@ name = paramOver;
 value = "5";
 }
 );
-descender = -303;
+descender = -204;
 horizontalStems = (
+117,
+132,
 144
 );
 iconName = Bold;
@@ -371,6 +389,7 @@ GSOffsetProportional = 1;
 GSOffsetVertical = 10;
 };
 verticalStems = (
+151,
 157
 );
 weightValue = 900;
@@ -4264,7 +4283,7 @@ unicode = 1E20;
 {
 color = 1;
 glyphname = H;
-lastChange = "2021-03-07 19:58:54 +0000";
+lastChange = "2021-08-26 00:19:10 +0000";
 layers = (
 {
 anchors = (
@@ -4285,7 +4304,7 @@ name = topleft;
 position = "{-10, 697}";
 }
 );
-layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
+background = {
 paths = (
 {
 closed = 1;
@@ -4293,6 +4312,27 @@ nodes = (
 "109 0 LINE",
 "109 347 LINE",
 "536 347 LINE",
+"536 0 LINE",
+"546 0 LINE",
+"546 697 LINE",
+"536 697 LINE",
+"536 358 LINE",
+"109 358 LINE",
+"109 697 LINE",
+"99 697 LINE",
+"99 0 LINE"
+);
+}
+);
+};
+layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
+paths = (
+{
+closed = 1;
+nodes = (
+"109 0 LINE",
+"109 348 LINE",
+"536 348 LINE",
 "536 0 LINE",
 "546 0 LINE",
 "546 697 LINE",
@@ -61689,6 +61729,43 @@ backslash = -45;
 manufacturer = "Hanken Design Co.";
 manufacturerURL = "https://hanken.co";
 unitsPerEm = 1000;
+userData = {
+GSDimensionPlugin.Dimensions = {
+"957254E3-B7AD-4837-9092-D4428001DE8E" = {
+HH = "144";
+HV = "157";
+OH = "150";
+OV = "157";
+nV = "151";
+nd = "131";
+oH = "132";
+oV = "151";
+tH = "117";
+};
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = {
+HH = "10";
+HV = "10";
+OH = "10";
+OV = "10";
+nV = "10";
+nd = "10";
+oH = "10";
+oV = "10";
+tH = "10";
+};
+m003 = {
+HH = "82";
+HV = "88";
+OH = "84";
+OV = "88";
+nV = "85";
+nd = "73";
+oH = "74";
+oV = "85";
+tH = "66";
+};
+};
+};
 versionMajor = 3;
-versionMinor = 3;
+versionMinor = 4;
 }
