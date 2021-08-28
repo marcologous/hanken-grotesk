@@ -38,9 +38,13 @@ Name = Weight;
 Tag = wght;
 }
 );
+},
+{
+name = variableStyleName;
+value = "Variable Italic";
 }
 );
-date = "2021-08-28 22:40:54 +0000";
+date = "2021-08-28 22:53:41 +0000";
 designer = "Alfredo Marco Pradil";
 designerURL = "https://www.behance.net/pradil";
 familyName = "Hanken Grotesk";
@@ -59794,5 +59798,5 @@ manufacturer = "Hanken Design Co.";
 manufacturerURL = "https://hanken.co";
 unitsPerEm = 1000;
 versionMajor = 3;
-versionMinor = 5;
+versionMinor = 6;
 }
