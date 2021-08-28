@@ -1,9 +1,5 @@
 {
 .appVersion = "3097";
-DisplayStrings = (
-abncdefghijklmnopqrstuvwxyz,
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-);
 classes = (
 {
 automatic = 1;
@@ -42,13 +38,9 @@ Name = Weight;
 Tag = wght;
 }
 );
-},
-{
-name = variableStyleName;
-value = Variable;
 }
 );
-date = "2021-08-28 22:54:09 +0000";
+date = "2021-08-28 23:13:43 +0000";
 designer = "Alfredo Marco Pradil";
 designerURL = "https://www.behance.net/pradil";
 familyName = "Hanken Grotesk";
@@ -61702,5 +61694,5 @@ tH = "66";
 };
 };
 versionMajor = 3;
-versionMinor = 5;
+versionMinor = 7;
 }
