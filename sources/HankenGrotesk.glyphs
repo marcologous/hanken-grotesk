@@ -1,5 +1,5 @@
 {
-.appVersion = "1352";
+.appVersion = "3097";
 DisplayStrings = (
 abncdefghijklmnopqrstuvwxyz,
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
@@ -14,6 +14,15 @@ name = Uppercase;
 copyright = "Copyright 2021 The Hanken Grotesk Project Authors (https://github.com/marcologous/hanken-grotesk)";
 customParameters = (
 {
+name = fsType;
+value = (
+);
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
 name = licenseURL;
 value = "https://scripts.sil.org/OFL";
 },
@@ -26,15 +35,6 @@ name = vendorID;
 value = HDCO;
 },
 {
-name = fsType;
-value = (
-);
-},
-{
-name = "Use Typo Metrics";
-value = 1;
-},
-{
 name = Axes;
 value = (
 {
@@ -44,7 +44,7 @@ Tag = wght;
 );
 }
 );
-date = "2021-03-25 17:21:35 +0000";
+date = "2021-08-28 22:37:28 +0000";
 designer = "Alfredo Marco Pradil";
 designerURL = "https://www.behance.net/pradil";
 familyName = "Hanken Grotesk";
@@ -141,6 +141,7 @@ fontMaster = (
 {
 alignmentZones = (
 "{697, 6}",
+"{697, 6}",
 "{493, 6}",
 "{0, -6}",
 "{-204, -12}"
@@ -219,11 +220,11 @@ GSOffsetVertical = 10;
 verticalStems = (
 10
 );
-widthValue = 5;
 xHeight = 493;
 },
 {
 alignmentZones = (
+"{697, 12}",
 "{697, 12}",
 "{493, 8}",
 "{0, -8}",
@@ -287,9 +288,7 @@ value = "5";
 );
 descender = -204;
 horizontalStems = (
-66,
-74,
-84
+66
 );
 id = m003;
 userData = {
@@ -301,15 +300,14 @@ GSOffsetProportional = 1;
 GSOffsetVertical = 10;
 };
 verticalStems = (
-85,
-88
+85
 );
 weightValue = 400;
-widthValue = 5;
 xHeight = 493;
 },
 {
 alignmentZones = (
+"{697, 18}",
 "{697, 18}",
 "{493, 12}",
 "{0, -18}",
@@ -374,9 +372,7 @@ value = "5";
 );
 descender = -204;
 horizontalStems = (
-117,
-132,
-144
+117
 );
 iconName = Bold;
 id = "957254E3-B7AD-4837-9092-D4428001DE8E";
@@ -389,11 +385,9 @@ GSOffsetProportional = 1;
 GSOffsetVertical = 10;
 };
 verticalStems = (
-151,
-157
+151
 );
 weightValue = 900;
-widthValue = 5;
 xHeight = 493;
 }
 );
@@ -58187,13 +58181,6 @@ width = 452;
 );
 instances = (
 {
-customParameters = (
-{
-name = "Scale to UPM";
-value = 2000;
-}
-);
-interpolationWidth = 5;
 instanceInterpolations = {
 "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 1;
 };
@@ -58201,14 +58188,7 @@ name = Thin;
 weightClass = Thin;
 },
 {
-customParameters = (
-{
-name = "Scale to UPM";
-value = 2000;
-}
-);
 interpolationWeight = 200;
-interpolationWidth = 5;
 instanceInterpolations = {
 "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 0.66667;
 m003 = 0.33333;
@@ -58217,14 +58197,7 @@ name = ExtraLight;
 weightClass = ExtraLight;
 },
 {
-customParameters = (
-{
-name = "Scale to UPM";
-value = 2000;
-}
-);
 interpolationWeight = 300;
-interpolationWidth = 5;
 instanceInterpolations = {
 "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 0.33333;
 m003 = 0.66667;
@@ -58233,28 +58206,14 @@ name = Light;
 weightClass = Light;
 },
 {
-customParameters = (
-{
-name = "Scale to UPM";
-value = 2000;
-}
-);
 interpolationWeight = 400;
-interpolationWidth = 5;
 instanceInterpolations = {
 m003 = 1;
 };
 name = Regular;
 },
 {
-customParameters = (
-{
-name = "Scale to UPM";
-value = 2000;
-}
-);
 interpolationWeight = 500;
-interpolationWidth = 5;
 instanceInterpolations = {
 "957254E3-B7AD-4837-9092-D4428001DE8E" = 0.2;
 m003 = 0.8;
@@ -58263,14 +58222,7 @@ name = Medium;
 weightClass = Medium;
 },
 {
-customParameters = (
-{
-name = "Scale to UPM";
-value = 2000;
-}
-);
 interpolationWeight = 600;
-interpolationWidth = 5;
 instanceInterpolations = {
 "957254E3-B7AD-4837-9092-D4428001DE8E" = 0.4;
 m003 = 0.6;
@@ -58279,14 +58231,7 @@ name = SemiBold;
 weightClass = SemiBold;
 },
 {
-customParameters = (
-{
-name = "Scale to UPM";
-value = 2000;
-}
-);
 interpolationWeight = 700;
-interpolationWidth = 5;
 instanceInterpolations = {
 "957254E3-B7AD-4837-9092-D4428001DE8E" = 0.6;
 m003 = 0.4;
@@ -58297,14 +58242,7 @@ name = Bold;
 weightClass = Bold;
 },
 {
-customParameters = (
-{
-name = "Scale to UPM";
-value = 2000;
-}
-);
 interpolationWeight = 800;
-interpolationWidth = 5;
 instanceInterpolations = {
 "957254E3-B7AD-4837-9092-D4428001DE8E" = 0.8;
 m003 = 0.2;
@@ -58313,14 +58251,7 @@ name = ExtraBold;
 weightClass = ExtraBold;
 },
 {
-customParameters = (
-{
-name = "Scale to UPM";
-value = 2000;
-}
-);
 interpolationWeight = 900;
-interpolationWidth = 5;
 instanceInterpolations = {
 "957254E3-B7AD-4837-9092-D4428001DE8E" = 1;
 };
@@ -61767,5 +61698,5 @@ tH = "66";
 };
 };
 versionMajor = 3;
-versionMinor = 4;
+versionMinor = 5;
 }
