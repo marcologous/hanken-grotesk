@@ -42,9 +42,13 @@ Name = Weight;
 Tag = wght;
 }
 );
+},
+{
+name = variableStyleName;
+value = Variable;
 }
 );
-date = "2021-08-28 22:37:28 +0000";
+date = "2021-08-28 22:54:09 +0000";
 designer = "Alfredo Marco Pradil";
 designerURL = "https://www.behance.net/pradil";
 familyName = "Hanken Grotesk";
