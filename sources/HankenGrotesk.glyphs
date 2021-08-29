@@ -40,7 +40,7 @@ Tag = wght;
 );
 }
 );
-date = "2021-08-29 04:17:14 +0000";
+date = "2021-08-29 04:44:46 +0000";
 designer = "Alfredo Marco Pradil";
 designerURL = "https://www.behance.net/pradil";
 familyName = "Hanken Grotesk";
@@ -58204,6 +58204,17 @@ width = 452;
 );
 instances = (
 {
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+}
+);
+}
+);
 instanceInterpolations = {
 "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 1;
 };
@@ -58211,6 +58222,17 @@ name = Thin;
 weightClass = Thin;
 },
 {
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 200;
+}
+);
+}
+);
 interpolationWeight = 200;
 instanceInterpolations = {
 "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 0.66667;
@@ -58220,6 +58242,17 @@ name = ExtraLight;
 weightClass = ExtraLight;
 },
 {
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 300;
+}
+);
+}
+);
 interpolationWeight = 300;
 instanceInterpolations = {
 "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 0.33333;
@@ -58229,6 +58262,17 @@ name = Light;
 weightClass = Light;
 },
 {
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+}
+);
+}
+);
 interpolationWeight = 400;
 instanceInterpolations = {
 m003 = 1;
@@ -58236,6 +58280,17 @@ m003 = 1;
 name = Regular;
 },
 {
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 500;
+}
+);
+}
+);
 interpolationWeight = 500;
 instanceInterpolations = {
 "957254E3-B7AD-4837-9092-D4428001DE8E" = 0.2;
@@ -58245,6 +58300,17 @@ name = Medium;
 weightClass = Medium;
 },
 {
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 600;
+}
+);
+}
+);
 interpolationWeight = 600;
 instanceInterpolations = {
 "957254E3-B7AD-4837-9092-D4428001DE8E" = 0.4;
@@ -58254,6 +58320,17 @@ name = SemiBold;
 weightClass = SemiBold;
 },
 {
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+}
+);
+}
+);
 interpolationWeight = 700;
 instanceInterpolations = {
 "957254E3-B7AD-4837-9092-D4428001DE8E" = 0.6;
@@ -58265,6 +58342,17 @@ name = Bold;
 weightClass = Bold;
 },
 {
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 800;
+}
+);
+}
+);
 interpolationWeight = 800;
 instanceInterpolations = {
 "957254E3-B7AD-4837-9092-D4428001DE8E" = 0.8;
@@ -58274,6 +58362,17 @@ name = ExtraBold;
 weightClass = ExtraBold;
 },
 {
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+}
+);
+}
+);
 interpolationWeight = 900;
 instanceInterpolations = {
 "957254E3-B7AD-4837-9092-D4428001DE8E" = 1;
@@ -61721,5 +61820,5 @@ tH = "66";
 };
 };
 versionMajor = 3;
-versionMinor = 8;
+versionMinor = 10;
 }

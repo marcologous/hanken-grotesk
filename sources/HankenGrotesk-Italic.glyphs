@@ -40,7 +40,7 @@ Tag = wght;
 );
 }
 );
-date = "2021-08-29 04:17:06 +0000";
+date = "2021-08-29 04:47:47 +0000";
 designer = "Alfredo Marco Pradil";
 designerURL = "https://www.behance.net/pradil";
 familyName = "Hanken Grotesk";
@@ -56362,6 +56362,17 @@ width = 452;
 );
 instances = (
 {
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+}
+);
+}
+);
 instanceInterpolations = {
 "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 1;
 };
@@ -56371,6 +56382,17 @@ name = "Thin Italic";
 weightClass = Thin;
 },
 {
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 200;
+}
+);
+}
+);
 interpolationWeight = 200;
 instanceInterpolations = {
 "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 0.66667;
@@ -56382,6 +56404,17 @@ name = "ExtraLight Italic";
 weightClass = ExtraLight;
 },
 {
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 300;
+}
+);
+}
+);
 interpolationWeight = 300;
 instanceInterpolations = {
 "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 0.33333;
@@ -56393,6 +56426,17 @@ name = "Light Italic";
 weightClass = Light;
 },
 {
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+}
+);
+}
+);
 interpolationWeight = 400;
 instanceInterpolations = {
 m003 = 1;
@@ -56402,6 +56446,17 @@ linkStyle = Regular;
 name = Italic;
 },
 {
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 500;
+}
+);
+}
+);
 interpolationWeight = 500;
 instanceInterpolations = {
 "957254E3-B7AD-4837-9092-D4428001DE8E" = 0.2;
@@ -56413,6 +56468,17 @@ name = "Medium Italic";
 weightClass = Medium;
 },
 {
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 600;
+}
+);
+}
+);
 interpolationWeight = 600;
 instanceInterpolations = {
 "957254E3-B7AD-4837-9092-D4428001DE8E" = 0.4;
@@ -56424,6 +56490,17 @@ name = "SemiBold Italic";
 weightClass = SemiBold;
 },
 {
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+}
+);
+}
+);
 interpolationWeight = 700;
 instanceInterpolations = {
 "957254E3-B7AD-4837-9092-D4428001DE8E" = 0.6;
@@ -56436,6 +56513,17 @@ name = "Bold Italic";
 weightClass = Bold;
 },
 {
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 800;
+}
+);
+}
+);
 interpolationWeight = 800;
 instanceInterpolations = {
 "957254E3-B7AD-4837-9092-D4428001DE8E" = 0.8;
@@ -56447,6 +56535,17 @@ name = "ExtraBold Italic";
 weightClass = ExtraBold;
 },
 {
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+}
+);
+}
+);
 interpolationWeight = 900;
 instanceInterpolations = {
 "957254E3-B7AD-4837-9092-D4428001DE8E" = 1;
@@ -59821,5 +59920,5 @@ manufacturer = "Hanken Design Co.";
 manufacturerURL = "https://hanken.co";
 unitsPerEm = 1000;
 versionMajor = 3;
-versionMinor = 8;
+versionMinor = 10;
 }
