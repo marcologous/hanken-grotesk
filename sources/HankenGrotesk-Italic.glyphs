@@ -40,7 +40,7 @@ Tag = wght;
 );
 }
 );
-date = "2021-08-28 23:06:46 +0000";
+date = "2021-08-29 04:17:06 +0000";
 designer = "Alfredo Marco Pradil";
 designerURL = "https://www.behance.net/pradil";
 familyName = "Hanken Grotesk";
@@ -192,6 +192,15 @@ value = "14";
 {
 name = paramOver;
 value = "5";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+}
+);
 }
 );
 descender = -204;
@@ -276,6 +285,15 @@ value = "14";
 {
 name = paramOver;
 value = "5";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+}
+);
 }
 );
 descender = -204;
@@ -361,6 +379,15 @@ value = "14";
 {
 name = paramOver;
 value = "5";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+}
+);
 }
 );
 descender = -204;
@@ -59794,5 +59821,5 @@ manufacturer = "Hanken Design Co.";
 manufacturerURL = "https://hanken.co";
 unitsPerEm = 1000;
 versionMajor = 3;
-versionMinor = 7;
+versionMinor = 8;
 }
