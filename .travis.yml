@@ -3,6 +3,9 @@ language: python
 install:
   - pip install --upgrade pip
   - pip install -r requirements.txt
+  - sudo apt-get update
+  - sudo apt-get install ttfautohint
 
 script:
-- sh build.sh
+  - cd sources
+  - bash build.sh
