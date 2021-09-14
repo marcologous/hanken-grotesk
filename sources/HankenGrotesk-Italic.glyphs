@@ -288,7 +288,9 @@ value = "5";
 );
 descender = -204;
 horizontalStems = (
-66
+66,
+74,
+84
 );
 id = m003;
 italicAngle = 8;
@@ -301,7 +303,8 @@ GSOffsetProportional = 1;
 GSOffsetVertical = 10;
 };
 verticalStems = (
-85
+85,
+88
 );
 weightValue = 400;
 xHeight = 493;
@@ -373,7 +376,9 @@ value = "5";
 );
 descender = -204;
 horizontalStems = (
-117
+117,
+132,
+150
 );
 iconName = Bold;
 id = "957254E3-B7AD-4837-9092-D4428001DE8E";
@@ -387,7 +392,8 @@ GSOffsetProportional = 1;
 GSOffsetVertical = 10;
 };
 verticalStems = (
-151
+151,
+257
 );
 weightValue = 900;
 xHeight = 493;
@@ -19642,7 +19648,7 @@ unicode = 1EC9;
 },
 {
 glyphname = ij;
-lastChange = "2021-01-31 17:52:12 +0000";
+lastChange = "2021-09-14 19:23:58 +0000";
 layers = (
 {
 components = (
@@ -19655,7 +19661,7 @@ transform = "{1, 0, 0, 1, 196, 0}";
 }
 );
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
-width = 392;
+width = 391;
 },
 {
 components = (
@@ -19668,7 +19674,7 @@ transform = "{1, 0, 0, 1, 258, 0}";
 }
 );
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
-width = 516;
+width = 515;
 },
 {
 components = (
@@ -59805,5 +59811,5 @@ manufacturer = "Hanken Design Co.";
 manufacturerURL = "https://hanken.co";
 unitsPerEm = 1000;
 versionMajor = 3;
-versionMinor = 7;
+versionMinor = 9;
 }
