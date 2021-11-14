@@ -205,9 +205,7 @@ value = "5";
 );
 descender = -204;
 horizontalStems = (
-10,
-0,
-0
+10
 );
 iconName = Light;
 id = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -220,8 +218,7 @@ GSOffsetProportional = 1;
 GSOffsetVertical = 10;
 };
 verticalStems = (
-10,
-0
+10
 );
 xHeight = 493;
 },
@@ -291,9 +288,7 @@ value = "5";
 );
 descender = -204;
 horizontalStems = (
-66,
-74,
-84
+66
 );
 id = m003;
 userData = {
@@ -305,8 +300,7 @@ GSOffsetProportional = 1;
 GSOffsetVertical = 10;
 };
 verticalStems = (
-85,
-88
+85
 );
 weightValue = 400;
 xHeight = 493;
@@ -378,9 +372,7 @@ value = "5";
 );
 descender = -204;
 horizontalStems = (
-117,
-132,
-150
+117
 );
 iconName = Bold;
 id = "957254E3-B7AD-4837-9092-D4428001DE8E";
@@ -393,8 +385,7 @@ GSOffsetProportional = 1;
 GSOffsetVertical = 10;
 };
 verticalStems = (
-151,
-157
+151
 );
 weightValue = 900;
 xHeight = 493;
