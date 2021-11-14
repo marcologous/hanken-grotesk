@@ -35305,7 +35305,7 @@ note = arrowright;
 {
 color = 1;
 glyphname = period;
-lastChange = "2021-11-14 10:14:53 +0000";
+lastChange = "2021-11-14 11:14:48 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -58286,7 +58286,7 @@ w = -59;
 "@MMK_R_l" = -25;
 "@MMK_R_parenleft" = -19;
 "@MMK_R_parenright" = -53;
-"@MMK_R_period" = -39;
+"@MMK_R_period" = -80;
 "@MMK_R_question" = -40;
 "@MMK_R_questiondown" = -54;
 "@MMK_R_s" = -47;
@@ -58770,6 +58770,7 @@ m003 = {
 };
 "@MMK_L_f" = {
 "@MMK_R_c" = -30;
+"@MMK_R_period" = -30;
 };
 "@MMK_L_g" = {
 "@MMK_R_c" = -9;
@@ -58816,6 +58817,7 @@ m003 = {
 };
 "@MMK_L_r" = {
 "@MMK_R_c" = -28;
+"@MMK_R_period" = -80;
 };
 "@MMK_L_s" = {
 "@MMK_R_v" = -8;
@@ -59335,6 +59337,7 @@ g = -5;
 };
 "@MMK_L_f" = {
 "@MMK_R_c" = -5;
+"@MMK_R_period" = -30;
 };
 "@MMK_L_g" = {
 "@MMK_R_c" = -14;
@@ -59386,6 +59389,7 @@ g = -5;
 "@MMK_R_a" = -8;
 "@MMK_R_c" = -25;
 "@MMK_R_g" = -20;
+"@MMK_R_period" = -80;
 };
 "@MMK_L_s" = {
 "@MMK_R_v" = -12;
