@@ -5,7 +5,8 @@ DisplayStrings = (
 "g/g.ss02/gbreve.ss02/gcommaaccent.ss02/gdotaccent.ss02/gdotaccent.ss02.ss03",
 "a/abrevedotbelow/abrevedotbelow.ss03/acircumflexdotbelow/acircumflexdotbelow.ss03 ä/adieresis.ss03/adotbelow/adotbelow.ss03/cdotaccent.ss03/ecircumflexdotbelow.ss03/edieresis.ss03/edotaccent.ss03/gdotaccent.ss03/i.ss03/idieresis.ss03/idotaccent.ss03/idotbelow.ss03/iogonek.ss03/j.ss03/ldot.ss03/ndotaccent.ss03/ocircumflexdotbelow.ss03/odieresis.ss03/ohorndotbelow.ss03/udieresis.ss03/udotbelow.ss03/uhorndotbelow.ss03/wdieresis.ss03/ydieresis.ss03/ydotbelow.ss03/zdotaccent.ss03/gdotaccent.ss01.ss03/gdotaccent.ss02.ss03",
 "aá/abreve/abreveacute/abrevedotbelow/abrevegrave/abrevehookabove/abrevetilde/acaron â/acircumflexacute/acircumflexdotbelow/acircumflexgrave/acircumflexhookabove/acircumflextilde ä/adotbelow à/ahookabove/amacron/aogonek å/aringacute ãæ/aeacute bc/cacute/ccaron ç/ccircumflex/cdotaccent dð/dcaron/dcroat eé/ebreve/ecaron ê/ecircumflexacute/ecircumflexdotbelow/ecircumflexgrave/ecircumflexhookabove/ecircumflextilde ë/edotaccent/edotbelow è/ehookabove/emacron/eogonek/etilde/schwa fg/gbreve/gcaron/gcircumflex/gcommaaccent/gdotaccent/gmacron h/hbar/hcircumflex i/idotless í/ibreve/icaron îï/idotaccent/idotbelow ì/ihookabove/ij/imacron/iogonek/itilde j/jdotless/jacute/jcircumflex k/kcommaaccent/kgreenlandic l/lacute/lcaron/lcommaaccent/ldot/lslash mn/nacute/napostrophe/ncaron/ncommaaccent/ndotaccent/nhookleft ñ/eng oó/obreve/ocaron ô/ocircumflexacute/ocircumflexdotbelow/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde ö/odotbelow ò/ohookabove/ohorn/ohornacute/ohorndotbelow/ohorngrave/ohornhookabove/ohorntilde/ohungarumlaut/omacron/oogonek ø/oslashacute õ/oe pþqr/racute/rcaron/rcommaaccent s/sacute/scaron/scedilla/scircumflex/scommaaccent ßt/tbar/tcaron/tcedilla/tcommaaccent uú/ubreve/ucaron ûü/udotbelow ù/uhookabove/uhorn/uhornacute/uhorndotbelow/uhorngrave/uhornhookabove/uhorntilde/uhungarumlaut/umacron/uogonek/uring/utilde vw/wacute/wcircumflex/wdieresis/wgrave xyý/ycircumflex/ydieresis/ydotbelow/ygrave/yhookabove/ymacron/ytilde z/zacute/zcaron/zdotaccent",
-"/f_f/space/f_f_i/space/f_f_l/space/fi/space/fl \012ff/space ffi/space ffl/space fi/space fl"
+"/f_f/space/f_f_i/space/f_f_l/space/fi/space/fl \012ff/space ffi/space ffl/space fi/space fl",
+noHOt
 );
 classes = (
 {
@@ -207,7 +208,7 @@ value = "5";
 );
 descender = -204;
 horizontalStems = (
-10
+18
 );
 iconName = Light;
 id = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -220,7 +221,7 @@ GSOffsetProportional = 1;
 GSOffsetVertical = 10;
 };
 verticalStems = (
-10
+20
 );
 xHeight = 493;
 },
@@ -62299,15 +62300,15 @@ oV = "151";
 tH = "117";
 };
 "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = {
-HH = "10";
-HV = "10";
-OH = "10";
-OV = "10";
-nV = "10";
-nd = "10";
-oH = "10";
+HH = "19";
+HV = "20";
+OH = "20";
+OV = "20";
+nV = "20";
+nd = "18";
+oH = "18";
 oV = "10";
-tH = "10";
+tH = "17";
 };
 m003 = {
 HH = "82";
@@ -62323,5 +62324,5 @@ tH = "66";
 };
 };
 versionMajor = 3;
-versionMinor = 10;
+versionMinor = 11;
 }

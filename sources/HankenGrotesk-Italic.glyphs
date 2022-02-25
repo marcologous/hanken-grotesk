@@ -2,7 +2,8 @@
 .appVersion = "1352";
 DisplayStrings = (
 "/f_f/space/f_f_i/space/f_f_l/space/fi/space/fl \012ff/space ffi/space ffl/space fi/space fl",
-"a/abrevedotbelow"
+"a/abrevedotbelow",
+noHOt
 );
 classes = (
 {
@@ -210,7 +211,7 @@ value = "5";
 );
 descender = -204;
 horizontalStems = (
-10
+18
 );
 iconName = Light;
 id = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -224,7 +225,7 @@ GSOffsetProportional = 1;
 GSOffsetVertical = 10;
 };
 verticalStems = (
-10
+20
 );
 xHeight = 493;
 },
@@ -59834,6 +59835,21 @@ backslash = -45;
 manufacturer = "Hanken Design Co.";
 manufacturerURL = "https://hanken.co";
 unitsPerEm = 1000;
+userData = {
+GSDimensionPlugin.Dimensions = {
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = {
+HH = "20";
+HV = "20";
+OH = "20";
+OV = "20";
+nV = "20";
+nd = "18";
+oH = "18";
+oV = "20";
+tH = "17";
+};
+};
+};
 versionMajor = 3;
-versionMinor = 10;
+versionMinor = 11;
 }
