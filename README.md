@@ -29,16 +29,18 @@ From terminal:
 
 cd your/local/project/directory
 
-#once in the project folder create a virtual environment. 
-This step has to be done just once, the first time:
+#once in the project folder create a virtual environment.
+This step has to be done just once, the first time
 
 python3 -m venv venv
 
-#activate the virtual environment
+#activate the virtual environment.
+Do this every time you work on the project
 
 source venv/bin/activate
 
 #install the required dependencies
+This step has to be done only once after creating a new virtual environment
 
 pip install -r requirements.txt
 
