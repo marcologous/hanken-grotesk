@@ -44,11 +44,11 @@ jobs:
       - name: Build fonts
         id: build_fonts
         run: gftools builder sources/config.yml
-      # - name: Upload Fonts
-      #   uses: actions/upload-artifact@v2
-      #   with:
-      #     name: Hanken_Fonts
-      #     path: fonts/
+      - name: Upload Fonts
+        uses: actions/upload-artifact@v2
+        with:
+          name: Hanken_Fonts
+          path: fonts/
       - name: Make Fontbakery Report
         uses: f-actions/font-bakery@v1
         with:
