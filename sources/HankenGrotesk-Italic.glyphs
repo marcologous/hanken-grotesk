@@ -1,6 +1,9 @@
 {
-.appVersion = "3141";
+.appVersion = "3142";
 .formatVersion = 3;
+DisplayStrings = (
+"/commaaccentcomb.loclMAH/commaaccentcomb.loclMAH"
+);
 axes = (
 {
 name = Weight;
@@ -23,13 +26,9 @@ value = (
 {
 name = "Use Typo Metrics";
 value = 1;
-},
-{
-name = "Variable Font Origin";
-value = m003;
 }
 );
-date = "2021-11-14 10:15:01 +0000";
+date = "2022-11-04 01:44:32 +0000";
 familyName = "Hanken Grotesk";
 featurePrefixes = (
 {
@@ -56551,7 +56550,7 @@ note = uni0338;
 {
 color = 9;
 glyphname = commaaccentcomb.loclMAH;
-lastChange = "2022-11-03 19:33:31 +0000";
+lastChange = "2022-11-04 01:44:03 +0000";
 layers = (
 {
 anchors = (
@@ -56587,7 +56586,7 @@ pos = (134,-223);
 layerId = m003;
 shapes = (
 {
-alignment = 1;
+alignment = -1;
 ref = commaaccentcomb;
 }
 );
@@ -56607,7 +56606,7 @@ pos = (137,-229);
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
 shapes = (
 {
-alignment = 1;
+alignment = -1;
 ref = commaaccentcomb;
 }
 );
@@ -61386,5 +61385,5 @@ tH = "17";
 };
 };
 versionMajor = 3;
-versionMinor = 11;
+versionMinor = 12;
 }
