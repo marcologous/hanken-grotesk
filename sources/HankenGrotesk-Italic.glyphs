@@ -23,6 +23,10 @@ value = (
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = "Variable Font Origin";
+value = m003;
 }
 );
 date = "2021-11-14 10:15:01 +0000";
@@ -488,7 +492,7 @@ pos = -303;
 pos = 8;
 }
 );
-name = Thin;
+name = "Thin Italic";
 stemValues = (
 18,
 20
@@ -585,7 +589,7 @@ pos = -303;
 pos = 8;
 }
 );
-name = Regular;
+name = Italic;
 stemValues = (
 66,
 85
@@ -683,7 +687,7 @@ pos = -303;
 pos = 8;
 }
 );
-name = Black;
+name = "Black Italic";
 stemValues = (
 117,
 151
@@ -57905,9 +57909,10 @@ value = m003;
 }
 );
 instanceInterpolations = {
-"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 1;
+"957254E3-B7AD-4837-9092-D4428001DE8E" = -0.125;
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 1.125;
 };
-name = Regular;
+name = Italic;
 type = variable;
 }
 );
