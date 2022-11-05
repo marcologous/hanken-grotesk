@@ -1,6 +1,9 @@
 {
-.appVersion = "3141";
+.appVersion = "3142";
 .formatVersion = 3;
+DisplayStrings = (
+"/commaaccentcomb.loclMAH/commaaccentcomb.loclMAH"
+);
 axes = (
 {
 name = Weight;
@@ -25,7 +28,7 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2021-11-14 10:15:01 +0000";
+date = "2022-11-04 01:44:32 +0000";
 familyName = "Hanken Grotesk";
 featurePrefixes = (
 {
@@ -488,7 +491,7 @@ pos = -303;
 pos = 8;
 }
 );
-name = Thin;
+name = "Thin Italic";
 stemValues = (
 18,
 20
@@ -585,7 +588,7 @@ pos = -303;
 pos = 8;
 }
 );
-name = Regular;
+name = Italic;
 stemValues = (
 66,
 85
@@ -683,7 +686,7 @@ pos = -303;
 pos = 8;
 }
 );
-name = Black;
+name = "Black Italic";
 stemValues = (
 117,
 151
@@ -56547,7 +56550,7 @@ note = uni0338;
 {
 color = 9;
 glyphname = commaaccentcomb.loclMAH;
-lastChange = "2022-11-03 19:33:31 +0000";
+lastChange = "2022-11-04 01:44:03 +0000";
 layers = (
 {
 anchors = (
@@ -56583,7 +56586,7 @@ pos = (134,-223);
 layerId = m003;
 shapes = (
 {
-alignment = 1;
+alignment = -1;
 ref = commaaccentcomb;
 }
 );
@@ -56603,7 +56606,7 @@ pos = (137,-229);
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
 shapes = (
 {
-alignment = 1;
+alignment = -1;
 ref = commaaccentcomb;
 }
 );
@@ -57905,9 +57908,10 @@ value = m003;
 }
 );
 instanceInterpolations = {
-"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 1;
+"957254E3-B7AD-4837-9092-D4428001DE8E" = -0.125;
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 1.125;
 };
-name = Regular;
+name = Italic;
 type = variable;
 }
 );
@@ -61381,5 +61385,5 @@ tH = "17";
 };
 };
 versionMajor = 3;
-versionMinor = 11;
+versionMinor = 12;
 }

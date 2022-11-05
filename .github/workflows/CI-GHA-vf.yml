@@ -1,4 +1,4 @@
-name: CI VF ttf
+name: CI Build and Test
 
 on: 
   push:
@@ -47,12 +47,12 @@ jobs:
       - name: Upload Fonts
         uses: actions/upload-artifact@v2
         with:
-          name: Hanken_Fonts
+          name: HankenGrotesk-Fonts
           path: fonts/
       - name: Make Fontbakery Report
         uses: f-actions/font-bakery@v1
         with:
           version: "latest"
           subcmd: "check-googlefonts"
-          args: "-C --succinct --loglevel WARN --ghmarkdown fonts/report.md"
+          args: "-C --succinct --loglevel WARN --ghm fonts/report.md"
           path: "fonts/variable/*.ttf"

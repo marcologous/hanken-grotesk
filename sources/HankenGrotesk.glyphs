@@ -1,5 +1,5 @@
 {
-.appVersion = "3141";
+.appVersion = "3142";
 .formatVersion = 3;
 axes = (
 {
@@ -25,7 +25,7 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2021-11-14 09:55:09 +0000";
+date = "2022-11-04 01:44:40 +0000";
 familyName = "Hanken Grotesk";
 featurePrefixes = (
 {
@@ -63021,5 +63021,5 @@ tH = "66";
 };
 };
 versionMajor = 3;
-versionMinor = 11;
+versionMinor = 12;
 }
