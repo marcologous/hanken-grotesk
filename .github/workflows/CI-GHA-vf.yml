@@ -13,27 +13,24 @@ on:
     - sources/**
 
 jobs:
-  static-font-ci-job:
+  Font-ci-job:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        python-version: [3.8]
     name: CI VF ttf
     steps:
       - name: Check out source repository
-        uses: actions/checkout@v2
-      - name: Set up Python v${{ matrix.python-version }} environment
-        uses: actions/setup-python@v1
+        uses: actions/checkout@v3
+      - name: Set up Python environment
+        uses: actions/setup-python@v4
         with:
-          python-version: ${{ matrix.python-version }}
+          python-version: "3.11"
       - name: Python build dependency cache lookup
-        uses: actions/cache@v1
+        uses: actions/cache@v3
         with:
           path: ~/.cache/pip
           # Check for requirements file cache hit
           key: ${{ runner.os }}-pip-${{ hashFiles('${{ steps.config.outputs.dependpath }}') }}
       - name: Install Python build dependencies
-        uses: py-actions/py-dependency-install@v2
+        uses: py-actions/py-dependency-install@v4
         with:
           update-wheel: "true"
           update-setuptools: "true"
