@@ -21233,7 +21233,7 @@ unicode = 314;
 glyphname = lcaron;
 kernLeft = l;
 kernRight = l;
-lastChange = "2022-11-15 18:57:16 +0000";
+lastChange = "2022-11-16 19:53:39 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -21246,7 +21246,7 @@ pos = (116,0);
 ref = caroncomb.alt;
 }
 );
-width = 233;
+width = 243;
 },
 {
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
@@ -21274,7 +21274,7 @@ pos = (161,0);
 ref = caroncomb.alt;
 }
 );
-width = 255;
+width = 265;
 }
 );
 metricLeft = "=l";
@@ -62512,5 +62512,5 @@ tH = "66";
 };
 };
 versionMajor = 3;
-versionMinor = 12;
+versionMinor = 13;
 }

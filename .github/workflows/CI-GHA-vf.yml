@@ -3,9 +3,11 @@ name: CI Build and Test
 on: 
   push:
     branches: 
+    - qaHanken2
     - master
     paths:
     - sources/**
+    - .github/**
   pull_request:
     branches: 
     - master
@@ -13,30 +15,36 @@ on:
     - sources/**
 
 jobs:
-  static-font-ci-job:
+  Font-ci-job:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        python-version: [3.8]
     name: CI VF ttf
     steps:
       - name: Check out source repository
-        uses: actions/checkout@v2
-      - name: Set up Python v${{ matrix.python-version }} environment
-        uses: actions/setup-python@v1
+        uses: actions/checkout@v3
+      - name: Set up Python environment
+        uses: actions/setup-python@v4
         with:
-          python-version: ${{ matrix.python-version }}
-      - name: Python build dependency cache lookup
-        uses: actions/cache@v1
-        with:
-          path: ~/.cache/pip
-          # Check for requirements file cache hit
-          key: ${{ runner.os }}-pip-${{ hashFiles('${{ steps.config.outputs.dependpath }}') }}
-      - name: Install Python build dependencies
-        uses: py-actions/py-dependency-install@v2
-        with:
-          update-wheel: "true"
-          update-setuptools: "true"
+          python-version: "3.11"
+      # - name: Python build dependency cache lookup
+      #   uses: actions/cache@v3
+      #   with:
+      #     path: ~/.cache/pip
+      #     # Check for requirements file cache hit
+          # key: ${{ runner.os }}-pip-${{ hashFiles('${{ steps.config.outputs.dependpath }}') }}
+      # - name: Install Python build dependencies
+      #   uses: py-actions/py-dependency-install@v4
+      #   with:
+      #     update-wheel: "true"
+      #     update-setuptools: "true"
+      - name: Install dependencies
+        # The --pre flag below will ensure we use the latest Font Bakery pre-releases
+        # and benefit from its newest checks:
+        run: |
+          sudo apt install libharfbuzz-dev libharfbuzz-bin libglib2.0-dev libcairo2-dev
+          python -m pip install --upgrade pip
+          pip install freetype-py
+          pip install --pre fontbakery
+          pip install gftools
       - name: Install ttfautohint
         run: |
           sudo apt-get update
@@ -45,12 +53,12 @@ jobs:
         id: build_fonts
         run: gftools builder sources/config.yml
       - name: Upload Fonts
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: HankenGrotesk-Fonts
           path: fonts/
       - name: Make Fontbakery Report
-        uses: f-actions/font-bakery@v1
+        uses: f-actions/font-bakery@v2
         with:
           version: "latest"
           subcmd: "check-googlefonts"
