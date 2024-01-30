@@ -1,5 +1,5 @@
 {
-.appVersion = "3151";
+.appVersion = "3234";
 .formatVersion = 3;
 axes = (
 {
@@ -36374,12 +36374,13 @@ unicode = 179;
 },
 {
 glyphname = foursuperior;
-lastChange = "2021-01-31 16:53:40 +0000";
+lastChange = "2024-01-30 09:28:40 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
 shapes = (
 {
+alignment = -1;
 pos = (69,488);
 ref = four;
 scale = (0.6,0.6);
@@ -36391,6 +36392,7 @@ width = 336;
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
 shapes = (
 {
+alignment = -1;
 pos = (69,488);
 ref = four;
 scale = (0.6,0.6);
@@ -36402,6 +36404,7 @@ width = 336;
 layerId = m003;
 shapes = (
 {
+alignment = -1;
 pos = (69,488);
 ref = four;
 scale = (0.6,0.6);
@@ -36489,7 +36492,7 @@ nodes = (
 width = 509;
 }
 );
-note = ".notdef";
+note = .notdef;
 },
 {
 glyphname = space;
@@ -41012,7 +41015,7 @@ color = 1;
 glyphname = quotedbl;
 kernLeft = quotedbl;
 kernRight = quotedbl;
-lastChange = "2021-11-14 10:14:53 +0000";
+lastChange = "2024-01-30 09:41:12 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -41020,10 +41023,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(93,419,l),
-(132,697,l),
-(113,697,l),
-(74,419,l)
+(123,419,l),
+(162,697,l),
+(143,697,l),
+(104,419,l)
 );
 },
 {
@@ -41036,7 +41039,7 @@ nodes = (
 );
 }
 );
-width = 265;
+width = 294;
 },
 {
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
@@ -41044,23 +41047,23 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(188,407,l),
-(228,697,l),
-(102,697,l),
-(62,407,l)
+(219,407,l),
+(259,697,l),
+(133,697,l),
+(93,407,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(369,407,l),
-(409,697,l),
-(282,697,l),
-(242,407,l)
+(400,407,l),
+(440,697,l),
+(313,697,l),
+(273,407,l)
 );
 }
 );
-width = 385;
+width = 447;
 },
 {
 layerId = m003;
@@ -41068,23 +41071,23 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(146,414,l),
-(186,697,l),
-(114,697,l),
-(74,414,l)
+(176,414,l),
+(216,697,l),
+(144,697,l),
+(104,414,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(309,414,l),
-(349,697,l),
-(277,697,l),
-(237,414,l)
+(339,414,l),
+(379,697,l),
+(307,697,l),
+(267,414,l)
 );
 }
 );
-width = 338;
+width = 396;
 }
 );
 note = quotedbl;
@@ -41095,7 +41098,7 @@ color = 1;
 glyphname = quotesingle;
 kernLeft = quotedbl;
 kernRight = quotedbl;
-lastChange = "2021-11-14 10:14:53 +0000";
+lastChange = "2024-01-30 09:41:21 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -41103,14 +41106,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(92,419,l),
-(131,697,l),
-(113,697,l),
-(74,419,l)
+(122,419,l),
+(161,697,l),
+(143,697,l),
+(104,419,l)
 );
 }
 );
-width = 119;
+width = 178;
 },
 {
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
@@ -41118,14 +41121,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(189,407,l),
-(229,697,l),
-(102,697,l),
-(62,407,l)
+(220,407,l),
+(260,697,l),
+(133,697,l),
+(93,407,l)
 );
 }
 );
-width = 205;
+width = 267;
 },
 {
 layerId = m003;
@@ -41133,16 +41136,18 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(146,414,l),
-(186,697,l),
-(114,697,l),
-(74,414,l)
+(176,414,l),
+(216,697,l),
+(144,697,l),
+(104,414,l)
 );
 }
 );
-width = 174;
+width = 233;
 }
 );
+metricLeft = "=quotedbl";
+metricRight = "=quotedbl";
 note = quotesingle;
 unicode = 39;
 },
@@ -46499,13 +46504,13 @@ unicode = 8800;
 {
 color = 1;
 glyphname = greater;
-lastChange = "2021-11-14 10:14:55 +0000";
+lastChange = "2024-01-30 09:28:40 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
 shapes = (
 {
-alignment = 1;
+alignment = -1;
 pos = (561,0);
 ref = less;
 scale = (-1,1);
@@ -46517,7 +46522,7 @@ width = 561;
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
 shapes = (
 {
-alignment = 1;
+alignment = -1;
 pos = (560,0);
 ref = less;
 scale = (-1,1);
@@ -46529,7 +46534,7 @@ width = 560;
 layerId = m003;
 shapes = (
 {
-alignment = 1;
+alignment = -1;
 pos = (560,0);
 ref = less;
 scale = (-1,1);
@@ -46610,13 +46615,13 @@ unicode = 60;
 {
 color = 1;
 glyphname = greaterequal;
-lastChange = "2021-01-06 22:06:25 +0000";
+lastChange = "2024-01-30 09:28:40 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
 shapes = (
 {
-alignment = 1;
+alignment = -1;
 pos = (560,0);
 ref = lessequal;
 scale = (-1,1);
@@ -46628,7 +46633,7 @@ width = 560;
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
 shapes = (
 {
-alignment = 1;
+alignment = -1;
 pos = (560,0);
 ref = lessequal;
 scale = (-1,1);
@@ -46640,7 +46645,7 @@ width = 560;
 layerId = m003;
 shapes = (
 {
-alignment = 1;
+alignment = -1;
 pos = (560,0);
 ref = lessequal;
 scale = (-1,1);
@@ -57922,19 +57927,12 @@ name = "Black Italic";
 weightClass = 900;
 },
 {
-axesValues = (
-0
-);
 customParameters = (
 {
 name = "Variable Font Origin";
 value = m003;
 }
 );
-instanceInterpolations = {
-"957254E3-B7AD-4837-9092-D4428001DE8E" = -0.125;
-"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 1.125;
-};
 name = Italic;
 type = variable;
 }
@@ -61320,6 +61318,19 @@ key = designerURL;
 value = "https://www.behance.net/pradil";
 },
 {
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+}
+);
+},
+{
+key = licenseURL;
+value = "https://scripts.sil.org/OFL";
+},
+{
 key = manufacturers;
 values = (
 {
@@ -61331,19 +61342,6 @@ value = "Hanken Design Co.";
 {
 key = manufacturerURL;
 value = "https://hanken.co";
-},
-{
-key = licenseURL;
-value = "https://scripts.sil.org/OFL";
-},
-{
-key = licenses;
-values = (
-{
-language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
-}
-);
 },
 {
 key = vendorID;

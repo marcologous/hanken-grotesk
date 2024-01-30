@@ -1,9 +1,6 @@
 {
-.appVersion = "3151";
+.appVersion = "3234";
 .formatVersion = 3;
-DisplayStrings = (
-"1234567890"
-);
 axes = (
 {
 name = Weight;
@@ -38625,7 +38622,7 @@ nodes = (
 width = 509;
 }
 );
-note = ".notdef";
+note = .notdef;
 },
 {
 glyphname = space;
@@ -42854,20 +42851,11 @@ color = 1;
 glyphname = quotedbl;
 kernLeft = quotedbl;
 kernRight = quotedbl;
-lastChange = "2021-11-14 09:56:48 +0000";
+lastChange = "2024-01-30 09:41:35 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
 shapes = (
-{
-closed = 1;
-nodes = (
-(69,419,l),
-(69,697,l),
-(50,697,l),
-(50,419,l)
-);
-},
 {
 closed = 1;
 nodes = (
@@ -42876,9 +42864,18 @@ nodes = (
 (196,697,l),
 (196,419,l)
 );
+},
+{
+closed = 1;
+nodes = (
+(99,419,l),
+(99,697,l),
+(80,697,l),
+(80,419,l)
+);
 }
 );
-width = 265;
+width = 294;
 },
 {
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
@@ -42886,23 +42883,23 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(165,407,l),
-(165,697,l),
-(39,697,l),
-(39,407,l)
+(396,407,l),
+(396,697,l),
+(269,697,l),
+(269,407,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(346,407,l),
-(346,697,l),
-(219,697,l),
-(219,407,l)
+(196,407,l),
+(196,697,l),
+(70,697,l),
+(70,407,l)
 );
 }
 );
-width = 385;
+width = 466;
 },
 {
 layerId = m003;
@@ -42910,23 +42907,23 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(123,414,l),
-(123,697,l),
-(51,697,l),
-(51,414,l)
+(315,414,l),
+(315,697,l),
+(243,697,l),
+(243,414,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(286,414,l),
-(286,697,l),
-(214,697,l),
-(214,414,l)
+(152,414,l),
+(152,697,l),
+(80,697,l),
+(80,414,l)
 );
 }
 );
-width = 338;
+width = 395;
 }
 );
 note = quotedbl;
@@ -42937,7 +42934,7 @@ color = 1;
 glyphname = quotesingle;
 kernLeft = quotedbl;
 kernRight = quotedbl;
-lastChange = "2021-11-14 09:56:48 +0000";
+lastChange = "2024-01-30 09:41:35 +0000";
 layers = (
 {
 layerId = "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E";
@@ -42945,14 +42942,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(68,419,l),
-(68,697,l),
-(50,697,l),
-(50,419,l)
+(98,419,l),
+(98,697,l),
+(80,697,l),
+(80,419,l)
 );
 }
 );
-width = 119;
+width = 178;
 },
 {
 layerId = "957254E3-B7AD-4837-9092-D4428001DE8E";
@@ -42960,14 +42957,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(166,407,l),
-(166,697,l),
-(39,697,l),
-(39,407,l)
+(197,407,l),
+(197,697,l),
+(70,697,l),
+(70,407,l)
 );
 }
 );
-width = 205;
+width = 267;
 },
 {
 layerId = m003;
@@ -42975,16 +42972,18 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(123,414,l),
-(123,697,l),
-(51,697,l),
-(51,414,l)
+(152,414,l),
+(152,697,l),
+(80,697,l),
+(80,414,l)
 );
 }
 );
-width = 174;
+width = 232;
 }
 );
+metricLeft = "=quotedbl";
+metricRight = "=quotedbl";
 note = quotesingle;
 unicode = 39;
 },
@@ -59534,19 +59533,12 @@ name = Black;
 weightClass = 900;
 },
 {
-axesValues = (
-0
-);
 customParameters = (
 {
 name = "Variable Font Origin";
 value = m003;
 }
 );
-instanceInterpolations = {
-"957254E3-B7AD-4837-9092-D4428001DE8E" = -0.125;
-"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" = 1.125;
-};
 name = Regular;
 type = variable;
 }
@@ -62511,6 +62503,19 @@ key = designerURL;
 value = "https://www.behance.net/pradil";
 },
 {
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+}
+);
+},
+{
+key = licenseURL;
+value = "https://scripts.sil.org/OFL";
+},
+{
 key = manufacturers;
 values = (
 {
@@ -62522,19 +62527,6 @@ value = "Hanken Design Co.";
 {
 key = manufacturerURL;
 value = "https://hanken.co";
-},
-{
-key = licenseURL;
-value = "https://scripts.sil.org/OFL";
-},
-{
-key = licenses;
-values = (
-{
-language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
-}
-);
 },
 {
 key = vendorID;
