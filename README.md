@@ -25,18 +25,11 @@ A Neo-Grotesque sans-serif typeface engineered for digital and print application
 
 ## 1. Typeface Overview
 
-Hanken Grotesk is a Neo-Grotesque sans-serif typeface designed with a focus on geometric precision, optical balance, and modern readability. The design draws inspiration from classic Swiss grotesques while incorporating contemporary refinements optimized for today's digital ecosystem.
+Hanken Grotesk is a sans serif typeface inspired by the classic grotesques. Geometry, metrics, punctuations and OpenType features have been updated to support a wide range of projects such as environmental signage, textface for books and magazines, Interface, Websites and Mobile Applications.
 
-### Key Characteristics
+The Hanken Grotesk project is led by Alfredo Marco Pradil.
 
-| Attribute | Specification |
-|-----------|---------------|
-| **Designer** | Alfredo Marco Pradil |
-| **Foundry** | Hanken Design Co. |
-| **Classification** | Neo-Grotesque Sans-Serif |
-| **Release Date** | January 2024 |
-| **Version** | 2.001 |
-| **License** | SIL Open Font License 1.1 |
+To contribute, see github.com/marcologous/hanken-grotesk
 
 ---
 
