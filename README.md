@@ -194,16 +194,6 @@ See [OFL.txt](OFL.txt) for full license text.
 
 <div align="center">
 
-### Related Projects
-
-| Project | Description |
-|---------|-------------|
-| [hdc-typetester](https://github.com/marcologous/hdc-typetester) | Web-based type tester for Hanken Grotesk |
-| [hanken-grotesk-web](https://github.com/marcologous/hanken-grotesk-web) | Webfont package (WOFF2) |
-| [fontopia-viewer](https://github.com/marcologous/fontopia-viewer) | Desktop font viewer |
-
-<br>
-
 *Built by [Hanken Design Co.](https://hankendesign.co)* · [Follow on GitHub](https://github.com/marcologous)
 
 </div>
