@@ -184,9 +184,3 @@ See [OFL.txt](OFL.txt) for full license text.
 | 1.x | 2023 | Development phase |
 
 ---
-
-<div align="center">
-
-*Built by [Hanken Design Co.](https://hankendesign.co)* · [Follow on GitHub](https://github.com/marcologous)
-
-</div>
