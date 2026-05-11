@@ -1,14 +1,5 @@
 # Hanken Grotesk
 
-<p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/-HANKEN%20GROTESK-black?logo=hanken-typeface&logoColor=white&labelColor=2d2d2d" alt="Hanken Grotesk">
-  <img src="https://img.shields.io/github/license/marcologous/hanken-grotesk?color=2d2d2d" alt="License">
-  <img src="https://img.shields.io/github/v/release/marcologous/hanken-grotesk?color=2d2d2d" alt="Release">
-  <img src="https://img.shields.io/github/last-commit/marcologous/hanken-grotesk?color=2d2d2d" alt="Last Commit">
-  <img src="https://img.shields.io/github/stars/marcologous/hanken-grotesk?color=2d2d2d" alt="Stars">
-  <img src="https://img.shields.io/github/forks/marcologous/hanken-grotesk?color=2d2d2d" alt="Forks">
-</p>
-
 <div align="center">
 
 ## Technical Typeface Specification
