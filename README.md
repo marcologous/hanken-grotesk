@@ -1,17 +1,5 @@
 # Hanken Grotesk
 
-<div align="center">
-
-## Technical Typeface Specification
-
-A Neo-Grotesque sans-serif typeface engineered for digital and print applications.
-
-<br>
-
-**[Download Latest Release](https://github.com/marcologous/hanken-grotesk/releases)** · **[View Documentation](documentation/)** · **[Report Issue](https://github.com/marcologous/hanken-grotesk/issues)**
-
-</div>
-
 ---
 
 ## 1. Typeface Overview
