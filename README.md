@@ -46,6 +46,7 @@ The variable font implements weight axis (`wght`) for granular weight control be
 - **Latin Extended-A** — U+0100–U+017F
 - **Latin Extended-B** — U+0180–U+024F
 - **Greek and Coptic** — U+0370–U+03FF
+- **Greek Core
 - **Cyrillic** — U+0400–U+04FF *(pending — see [#2](https://github.com/marcologous/hanken-grotesk/issues/2))*
 - **Currency Symbols** — U+20A0–U+20CF
 - **Mathematical Operators** — U+2200–U+22FF
